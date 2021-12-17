@@ -1,0 +1,20 @@
+Breakdown,Value,ticker
+zip,2000,ABC.AX
+sector,Basic Materials,ABC.AX
+compensationRisk,6,ABC.AX
+auditRisk,3,ABC.AX
+longBusinessSummary,"Adbri Limited manufactures, imports, distributes, and markets construction materials in Australia. The company operates in two segments, Cement, Lime, Concrete and Aggregates; and Concrete Products. It offers cement, lime, premixed concrete, aggregates, and sand; concrete bricks and blocks, pavers, retaining wall blocks; and industrial minerals comprising stockfield minerals and fillers, silica, and quick and hydrated lime. The company offers its products to residential and non-residential construction, engineering construction, industrial manufacturing, and mining markets. The company was formerly known as Adelaide Brighton Limited and changed its name to Adbri Limited in May 2020. Adbri Limited was founded in 1882 and is based in Sydney, Australia.",ABC.AX
+city,Sydney,ABC.AX
+phone,61 8 8248 9999,ABC.AX
+state,NSW,ABC.AX
+shareHolderRightsRisk,1,ABC.AX
+compensationAsOfEpochDate,1609372800,ABC.AX
+governanceEpochDate,1632614400,ABC.AX
+boardRisk,2,ABC.AX
+country,Australia,ABC.AX
+website,https://www.adbri.com.au,ABC.AX
+maxAge,86400,ABC.AX
+overallRisk,2,ABC.AX
+address1,Aurora Place,ABC.AX
+industry,Building Materials,ABC.AX
+address2,Level 9 88 Phillip Street,ABC.AX

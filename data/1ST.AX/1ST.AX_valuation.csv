@@ -1,10 +1,10 @@
 ,0,1,ticker
-0,Market Cap (intraday),6.55M,1ST.AX
-1,Enterprise Value,9.56M,1ST.AX
+0,Market Cap (intraday),7.56M,1ST.AX
+1,Enterprise Value,10.53M,1ST.AX
 2,Trailing P/E,,1ST.AX
 3,Forward P/E,,1ST.AX
 4,PEG Ratio (5 yr expected),,1ST.AX
-5,Price/Sales (ttm),1.04,1ST.AX
+5,Price/Sales (ttm),1.22,1ST.AX
 6,Price/Book (mrq),,1ST.AX
-7,Enterprise Value/Revenue,1.76,1ST.AX
-8,Enterprise Value/EBITDA,-1.52,1ST.AX
+7,Enterprise Value/Revenue,1.96,1ST.AX
+8,Enterprise Value/EBITDA,-1.68,1ST.AX

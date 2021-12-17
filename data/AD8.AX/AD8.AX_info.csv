@@ -1,0 +1,20 @@
+Breakdown,Value,ticker
+zip,2010,AD8.AX
+sector,Technology,AD8.AX
+compensationRisk,4,AD8.AX
+auditRisk,7,AD8.AX
+longBusinessSummary,"Audinate Group Limited develops and sells digital audio visual (AV) networking solutions worldwide. The company provides Dante, a technology platform that distributes digital audio and video signals over computer networks to original equipment manufacturers. It offers software products, such as Dante Controller, a real-time network monitoring device; Dante Virtual Soundcard that provides access to various audio devices on the network; Dante Via, a software that delivers multi-channel routing of computer-based audio; and Dante Domain Manager, as well as Dante AVIO adapter, an audio networking solution. The company also provides Dante-enabled products; and various products to develop networked AV products, including chips and modules, IP Core, Dante application library, and reference designs. The company was founded in 2003 and is headquartered in Surry Hills, Australia.",AD8.AX
+city,Surry Hills,AD8.AX
+phone,61 2 8090 1000,AD8.AX
+state,NSW,AD8.AX
+shareHolderRightsRisk,5,AD8.AX
+compensationAsOfEpochDate,1640908800,AD8.AX
+governanceEpochDate,1632614400,AD8.AX
+boardRisk,4,AD8.AX
+country,Australia,AD8.AX
+website,https://www.audinate.com,AD8.AX
+maxAge,86400,AD8.AX
+overallRisk,3,AD8.AX
+address1,64 Kippax Street,AD8.AX
+industry,Electronic Components,AD8.AX
+address2,Level 7,AD8.AX
