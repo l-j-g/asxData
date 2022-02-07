@@ -1,0 +1,20 @@
+Breakdown,Value,ticker
+zip,2001,AGG.AX
+sector,Basic Materials,AGG.AX
+compensationRisk,3,AGG.AX
+auditRisk,4,AGG.AX
+longBusinessSummary,"AngloGold Ashanti Limited operates as a gold mining company. It also produces gold, silver, uranium, and sulphuric acid; and dÃ³re bars. The company operates ten operations and three projects in eight countries in South Africa, Continental Africa, the Americas, and Australia. AngloGold Ashanti Limited was incorporated in 1944 and is headquartered in Johannesburg, South Africa.",AGG.AX
+city,Johannesburg,AGG.AX
+phone,27 11 637 6000,AGG.AX
+shareHolderRightsRisk,5,AGG.AX
+compensationAsOfEpochDate,1609372800,AGG.AX
+governanceEpochDate,1632614400,AGG.AX
+boardRisk,3,AGG.AX
+country,South Africa,AGG.AX
+website,https://www.anglogoldashanti.com,AGG.AX
+maxAge,86400,AGG.AX
+overallRisk,3,AGG.AX
+address1,76 Rahima Moosa Street,AGG.AX
+fax,27 11 637 6624,AGG.AX
+industry,Gold,AGG.AX
+address2,Newtown,AGG.AX

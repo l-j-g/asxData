@@ -1,10 +1,10 @@
 ,0,1,ticker
-0,Market Cap (intraday),398.14M,3PL.AX
-1,Enterprise Value,376.31M,3PL.AX
+0,Market Cap (intraday),458.96M,3PL.AX
+1,Enterprise Value,437.14M,3PL.AX
 2,Trailing P/E,,3PL.AX
 3,Forward P/E,,3PL.AX
 4,PEG Ratio (5 yr expected),,3PL.AX
-5,Price/Sales (ttm),3.83,3PL.AX
-6,Price/Book (mrq),2.04,3PL.AX
-7,Enterprise Value/Revenue,6.58,3PL.AX
-8,Enterprise Value/EBITDA,-159.93,3PL.AX
+5,Price/Sales (ttm),4.42,3PL.AX
+6,Price/Book (mrq),2.36,3PL.AX
+7,Enterprise Value/Revenue,7.64,3PL.AX
+8,Enterprise Value/EBITDA,-185.78,3PL.AX

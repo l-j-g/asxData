@@ -1,10 +1,10 @@
 ,0,1,ticker
-0,Market Cap (intraday),55.80M,3DA.AX
-1,Enterprise Value,47.04M,3DA.AX
+0,Market Cap (intraday),48.70M,3DA.AX
+1,Enterprise Value,39.94M,3DA.AX
 2,Trailing P/E,,3DA.AX
 3,Forward P/E,,3DA.AX
 4,PEG Ratio (5 yr expected),,3DA.AX
-5,Price/Sales (ttm),102.97,3DA.AX
-6,Price/Book (mrq),3.68,3DA.AX
-7,Enterprise Value/Revenue,93.31,3DA.AX
-8,Enterprise Value/EBITDA,-8.34,3DA.AX
+5,Price/Sales (ttm),89.87,3DA.AX
+6,Price/Book (mrq),3.22,3DA.AX
+7,Enterprise Value/Revenue,79.22,3DA.AX
+8,Enterprise Value/EBITDA,-7.08,3DA.AX

@@ -1,10 +1,10 @@
 ,0,1,ticker
-0,Market Cap (intraday),22.06M,14D.AX
-1,Enterprise Value,17.93M,14D.AX
+0,Market Cap (intraday),23.08M,14D.AX
+1,Enterprise Value,18.94M,14D.AX
 2,Trailing P/E,,14D.AX
 3,Forward P/E,,14D.AX
 4,PEG Ratio (5 yr expected),,14D.AX
 5,Price/Sales (ttm),,14D.AX
-6,Price/Book (mrq),1.91,14D.AX
+6,Price/Book (mrq),2.00,14D.AX
 7,Enterprise Value/Revenue,,14D.AX
-8,Enterprise Value/EBITDA,-3.13,14D.AX
+8,Enterprise Value/EBITDA,-3.30,14D.AX

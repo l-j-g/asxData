@@ -1,0 +1,20 @@
+Breakdown,Value,ticker
+zip,6005,1MC.AX
+sector,Basic Materials,1MC.AX
+compensationRisk,8,1MC.AX
+auditRisk,10,1MC.AX
+longBusinessSummary,"Morella Corporation Limited engages in the exploration and development of mineral properties in Australia and the United States. The company operates through Lithium Mining, Exploration Services, and Mineral Exploration segments. It holds interest in the Altura Lithium Project located at Pilgangoora in Western Australia. The company also provides drilling services primarily to mining and exploration companies. The company was formerly known as Altura Mining Limited and changed its name to Morella Corporation Limited in December 2021. Morella Corporation Limited was incorporated in 2000 and is based in West Perth, Australia.",1MC.AX
+city,West Perth,1MC.AX
+phone,61 4 2959 6535,1MC.AX
+state,WA,1MC.AX
+shareHolderRightsRisk,1,1MC.AX
+compensationAsOfEpochDate,1640908800,1MC.AX
+governanceEpochDate,1643673600,1MC.AX
+boardRisk,10,1MC.AX
+country,Australia,1MC.AX
+website,https://www.morellacorp.com,1MC.AX
+maxAge,86400,1MC.AX
+overallRisk,10,1MC.AX
+address1,680 Murray Street,1MC.AX
+industry,Other Industrial Metals & Mining,1MC.AX
+address2,Suite 5,1MC.AX

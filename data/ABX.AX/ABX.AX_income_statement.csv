@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,ABX.AX
+effectOfAccountingCharges,,,,,ABX.AX
+incomeBeforeTax,-594000,-2476000,-2374000,179000,ABX.AX
+minorityInterest,8000,16000,16000,16000,ABX.AX
+netIncome,-594000,-2476000,-2374000,179000,ABX.AX
+sellingGeneralAdministrative,871000,570000,923000,920000,ABX.AX
+grossProfit,2279000,2172000,177000,1976000,ABX.AX
+ebit,-566000,-2399000,-2306000,206000,ABX.AX
+operatingIncome,-566000,-2399000,-2306000,206000,ABX.AX
+otherOperatingExpenses,-1627000,-865000,-864000,-786000,ABX.AX
+interestExpense,-32000,-17000,-17000,-15000,ABX.AX
+extraordinaryItems,,,,,ABX.AX
+nonRecurring,,,,,ABX.AX
+otherItems,,,,,ABX.AX
+incomeTaxExpense,0,0,0,0,ABX.AX
+totalRevenue,2279000,2172000,177000,1976000,ABX.AX
+totalOperatingExpenses,2845000,4571000,2483000,1770000,ABX.AX
+costOfRevenue,0,0,0,0,ABX.AX
+totalOtherIncomeExpenseNet,-28000,-77000,-68000,-27000,ABX.AX
+discontinuedOperations,,,,,ABX.AX
+netIncomeFromContinuingOps,-594000,-2476000,-2374000,179000,ABX.AX
+netIncomeApplicableToCommonShares,-594000,-2476000,-2374000,179000,ABX.AX

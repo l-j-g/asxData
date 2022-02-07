@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,ABV.AX
+effectOfAccountingCharges,,,,,ABV.AX
+incomeBeforeTax,620000,171000,-1713000,-1656000,ABV.AX
+minorityInterest,,,,,ABV.AX
+netIncome,620000,171000,-1713000,-1656000,ABV.AX
+sellingGeneralAdministrative,3812000,3524000,3917000,4304000,ABV.AX
+grossProfit,4185000,3713000,2496000,2355000,ABV.AX
+ebit,620000,396000,-1280000,-1399000,ABV.AX
+operatingIncome,620000,396000,-1280000,-1399000,ABV.AX
+otherOperatingExpenses,-491000,-487000,-368000,-809000,ABV.AX
+interestExpense,-83000,-295000,-361000,-216000,ABV.AX
+extraordinaryItems,,,,,ABV.AX
+nonRecurring,,,,,ABV.AX
+otherItems,,,,,ABV.AX
+incomeTaxExpense,0,0,0,0,ABV.AX
+totalRevenue,9701000,8349000,6847000,6974000,ABV.AX
+totalOperatingExpenses,9081000,7953000,8127000,8373000,ABV.AX
+costOfRevenue,5516000,4636000,4351000,4619000,ABV.AX
+totalOtherIncomeExpenseNet,0,-225000,-433000,-257000,ABV.AX
+discontinuedOperations,,,,,ABV.AX
+netIncomeFromContinuingOps,620000,171000,-1713000,-1656000,ABV.AX
+netIncomeApplicableToCommonShares,620000,171000,-1713000,-1656000,ABV.AX

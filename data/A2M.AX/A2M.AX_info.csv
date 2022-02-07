@@ -2,19 +2,19 @@ Breakdown,Value,ticker
 zip,1010,A2M.AX
 sector,Consumer Defensive,A2M.AX
 fullTimeEmployees,335,A2M.AX
-compensationRisk,7,A2M.AX
+compensationRisk,8,A2M.AX
 auditRisk,1,A2M.AX
 longBusinessSummary,"The a2 Milk Company Limited, together with its subsidiaries, sells A2 protein type branded milk and related products in Australia, New Zealand, China, other Asian countries, and the United States. The company offers fresh milk under the a2 Milk brand; and infant formula under the a2 Platinum brand. The company was formerly known as A2 Corporation Limited and changed its name to The a2 Milk Company Limited in April 2014. The a2 Milk Company Limited was founded in 2000 and is based in Auckland, New Zealand.",A2M.AX
 city,Auckland,A2M.AX
 phone,64 9 972 9802,A2M.AX
 shareHolderRightsRisk,10,A2M.AX
 compensationAsOfEpochDate,1640908800,A2M.AX
-governanceEpochDate,1632614400,A2M.AX
-boardRisk,3,A2M.AX
+governanceEpochDate,1643673600,A2M.AX
+boardRisk,7,A2M.AX
 country,New Zealand,A2M.AX
 website,https://www.thea2milkcompany.com,A2M.AX
 maxAge,86400,A2M.AX
-overallRisk,7,A2M.AX
+overallRisk,9,A2M.AX
 address1,51 Shortland Street,A2M.AX
 industry,Farm Products,A2M.AX
 address2,Level 10,A2M.AX
