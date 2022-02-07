@@ -1,0 +1,11 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,45814.0,84105.0,71360.0,116770.0,AER.AX
+totalCashflowsFromInvestingActivities,-7402.0,-1717.0,-1717.0,-726.0,AER.AX
+changeToOperatingActivities,-15435.0,7590.0,9135.0,-24526.0,AER.AX
+netIncome,467854.0,-154801.0,-251940.0,50254.0,AER.AX
+changeInCash,627101.0,-78878.0,-171659.0,299110.0,AER.AX
+totalCashFromOperatingActivities,634503.0,-77161.0,-171659.0,299836.0,AER.AX
+depreciation,3874.0,5090.0,6352.0,10642.0,AER.AX
+changeToAccountReceivables,132396.0,-181580.0,-6566.0,33362.0,AER.AX
+capitalExpenditures,-7402.0,-1717.0,-1717.0,-726.0,AER.AX
+changeToNetincome,,162435.0,162435.0,113334.0,AER.AX

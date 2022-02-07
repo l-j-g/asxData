@@ -1,10 +1,10 @@
 ,0,1,ticker
-0,Market Cap (intraday),,AAC.AX
-1,Enterprise Value,,AAC.AX
-2,Trailing P/E,,AAC.AX
-3,Forward P/E,,AAC.AX
+0,Market Cap (intraday),901.14M,AAC.AX
+1,Enterprise Value,1.28B,AAC.AX
+2,Trailing P/E,6.85,AAC.AX
+3,Forward P/E,312.50,AAC.AX
 4,PEG Ratio (5 yr expected),,AAC.AX
-5,Price/Sales (ttm),,AAC.AX
-6,Price/Book (mrq),,AAC.AX
-7,Enterprise Value/Revenue,,AAC.AX
-8,Enterprise Value/EBITDA,,AAC.AX
+5,Price/Sales (ttm),3.36,AAC.AX
+6,Price/Book (mrq),0.80,AAC.AX
+7,Enterprise Value/Revenue,4.83,AAC.AX
+8,Enterprise Value/EBITDA,5.78,AAC.AX

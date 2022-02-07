@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,AGE.AX
+1,Enterprise Value,,AGE.AX
+2,Trailing P/E,,AGE.AX
+3,Forward P/E,,AGE.AX
+4,PEG Ratio (5 yr expected),,AGE.AX
+5,Price/Sales (ttm),,AGE.AX
+6,Price/Book (mrq),,AGE.AX
+7,Enterprise Value/Revenue,,AGE.AX
+8,Enterprise Value/EBITDA,,AGE.AX

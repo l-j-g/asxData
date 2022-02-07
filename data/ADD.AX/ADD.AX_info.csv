@@ -9,7 +9,6 @@ compensationAsOfEpochDate,1640908800,ADD.AX
 country,Australia,ADD.AX
 website,https://www.adavaleresources.com,ADD.AX
 maxAge,86400,ADD.AX
-address1,6 Underwood Street,ADD.AX
-fax,67 2 8003 6733,ADD.AX
+address1,Level 7,ADD.AX
 industry,Uranium,ADD.AX
-address2,Level 7,ADD.AX
+address2,6 Underwood Street,ADD.AX

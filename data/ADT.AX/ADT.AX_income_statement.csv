@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,ADT.AX
+effectOfAccountingCharges,,,,,ADT.AX
+incomeBeforeTax,-11392368,-6238324,-2417653,-1928697,ADT.AX
+minorityInterest,1996288,1996288,1996288,1996288,ADT.AX
+netIncome,-11389006,-6238324,-2417653,-1928697,ADT.AX
+sellingGeneralAdministrative,4231414,3315634,1706593,2037962,ADT.AX
+grossProfit,0,0,0,0,ADT.AX
+ebit,-10352316,-6752862,-2163209,-2047915,ADT.AX
+operatingIncome,-10352316,-6752862,-2163209,-2047915,ADT.AX
+otherOperatingExpenses,-9632,-6131,-6131,-6131,ADT.AX
+interestExpense,-186534,-11580,-11580,-11580,ADT.AX
+extraordinaryItems,,,,,ADT.AX
+nonRecurring,,,,,ADT.AX
+otherItems,,,,,ADT.AX
+incomeTaxExpense,-3362,0,0,0,ADT.AX
+totalRevenue,0,0,0,0,ADT.AX
+totalOperatingExpenses,10352316,6752862,2163209,2047915,ADT.AX
+costOfRevenue,0,0,0,0,ADT.AX
+totalOtherIncomeExpenseNet,-1040052,514538,-254444,119218,ADT.AX
+discontinuedOperations,,,,,ADT.AX
+netIncomeFromContinuingOps,-11389006,-6238324,-2417653,-1928697,ADT.AX
+netIncomeApplicableToCommonShares,-11389006,-6238324,-2417653,-1928697,ADT.AX
