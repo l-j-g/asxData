@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,3006,AST.AX
+sector,Utilities,AST.AX
+fullTimeEmployees,1500,AST.AX
+compensationRisk,4,AST.AX
+auditRisk,6,AST.AX
+longBusinessSummary,"AusNet Services Ltd owns and operates an electricity transmission network in Australia. It operates through Electricity Distribution, Gas Distribution, Electricity Transmission, and Growth & Future Networks segments. The Electricity Distribution segment carries electricity from the high voltage transmission network to end users, including metering. The Gas Distribution segment carries natural gas to commercial and residential end users, including metering in central and western Victoria. The Electricity Transmission segment owns and manages an electricity transmission network, including transmission lines and towers, which carry electricity at high voltages from power generators to electricity distributors in Victoria. The Growth & Future Networks segment provides contracted infrastructure asset and energy services, as well as a range of asset and utility services to support the management of electricity, gas, and water networks. The company operates through an electricity transmission network of approximately 6,852 kilometers of high voltage transmission powerlines, 61 terminal stations, and 13,161 transmission towers; electricity distribution network of approximately 768,460 customers, 77 zone substations, 412,402 distribution poles, and approximately 53,990 kilometer of distribution lines. It also operates a gas distribution network of 752,882 customers and 12,384 kilometers of underground gas pipelines. The company was formerly known as SP AusNet Ltd. and changed its name to AusNet Services Ltd in August 2014. AusNet Services Ltd was incorporated in 2014 and is headquartered in Southbank, Australia.",AST.AX
+city,Southbank,AST.AX
+phone,61 3 9695 6000,AST.AX
+state,VIC,AST.AX
+shareHolderRightsRisk,1,AST.AX
+compensationAsOfEpochDate,1640908800,AST.AX
+governanceEpochDate,1632614400,AST.AX
+boardRisk,9,AST.AX
+country,Australia,AST.AX
+website,https://www.ausnetservices.com.au,AST.AX
+maxAge,86400,AST.AX
+overallRisk,6,AST.AX
+address1,2 Southbank Boulevard,AST.AX
+fax,61 3 9695 6666,AST.AX
+industry,Utilities—Diversified,AST.AX
+address2,Level 31,AST.AX

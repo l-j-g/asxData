@@ -1,0 +1,11 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,ticker
+changeToLiabilities,107083.0,5406.0,4633.0,ALB.AX
+netBorrowings,-40408.0,29888.0,10520.0,ALB.AX
+totalCashFromFinancingActivities,4934820.0,49988.0,10448.0,ALB.AX
+changeToOperatingActivities,-10725.0,-10725.0,-10725.0,ALB.AX
+issuanceOfStock,4975228.0,20100.0,20100.0,ALB.AX
+netIncome,-445203.0,-53155.0,-26643.0,ALB.AX
+changeInCash,4543758.0,516.0,-11794.0,ALB.AX
+totalCashFromOperatingActivities,-391062.0,-49472.0,-22242.0,ALB.AX
+changeToAccountReceivables,-42217.0,-1723.0,-232.0,ALB.AX
+otherCashflowsFromFinancingActivities,,,-72.0,ALB.AX

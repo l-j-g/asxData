@@ -1,0 +1,12 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+netIncome,-270376.0,-5520327.0,5744033.0,-1667115.0,AUP.AX
+changeToNetincome,234056.0,702612.0,-73835.0,-1067622.0,AUP.AX
+changeToAccountReceivables,80075.0,-566860.0,-278599.0,267821.0,AUP.AX
+changeToLiabilities,-291973.0,-67755.0,424381.0,-208.0,AUP.AX
+totalCashFromOperatingActivities,22158.0,67997.0,71947.0,-800009.0,AUP.AX
+changeInCash,22158.0,-291.0,-49923.0,-3232904.0,AUP.AX
+totalCashFromFinancingActivities,,-68288.0,-121870.0,-2432895.0,AUP.AX
+dividendsPaid,,-68288.0,-291633.0,-802001.0,AUP.AX
+issuanceOfStock,,,245713.0,531493.0,AUP.AX
+repurchaseOfStock,,,-75950.0,-2162388.0,AUP.AX
+otherCashflowsFromFinancingActivities,,,,1.0,AUP.AX

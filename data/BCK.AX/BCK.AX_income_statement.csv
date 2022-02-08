@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,BCK.AX
+effectOfAccountingCharges,,,,,BCK.AX
+incomeBeforeTax,-28318000,-22606000,-25785000,-49059000,BCK.AX
+minorityInterest,,,,,BCK.AX
+netIncome,-14172000,-21016000,67588000,108086000,BCK.AX
+sellingGeneralAdministrative,17507000,17513000,26803000,34644000,BCK.AX
+grossProfit,0,0,0,0,BCK.AX
+ebit,-23001000,-21481000,-34457000,-43804000,BCK.AX
+operatingIncome,-23001000,-21481000,-34457000,-43804000,BCK.AX
+otherOperatingExpenses,,-553000.0,-142000.0,-300000.0,BCK.AX
+interestExpense,-5428000,-1482000,-1320000,-4511000,BCK.AX
+extraordinaryItems,,,,,BCK.AX
+nonRecurring,,,,,BCK.AX
+otherItems,,,,,BCK.AX
+incomeTaxExpense,-14146000,-1590000,-93373000,0,BCK.AX
+totalRevenue,0,0,0,0,BCK.AX
+totalOperatingExpenses,23001000,21481000,34457000,43804000,BCK.AX
+costOfRevenue,0,0,0,0,BCK.AX
+totalOtherIncomeExpenseNet,-5317000,-1125000,8672000,-5255000,BCK.AX
+discontinuedOperations,,,,157145000.0,BCK.AX
+netIncomeFromContinuingOps,-14172000,-21016000,67588000,-49059000,BCK.AX
+netIncomeApplicableToCommonShares,-14172000,-21016000,67588000,108086000,BCK.AX

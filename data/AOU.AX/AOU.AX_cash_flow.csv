@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,383159.0,37145.0,-27934.0,-54383.0,AOU.AX
+totalCashflowsFromInvestingActivities,-6465682.0,-1462683.0,-2418904.0,1618856.0,AOU.AX
+netBorrowings,-4966.0,-4966.0,-4966.0,-4966.0,AOU.AX
+totalCashFromFinancingActivities,7233654.0,3455573.0,658352.0,102280.0,AOU.AX
+issuanceOfStock,6949494.0,3455573.0,3455573.0,102280.0,AOU.AX
+netIncome,-1805000.0,-542802.0,-1387644.0,-3679893.0,AOU.AX
+changeInCash,-370691.0,1711963.0,-2796958.0,-260694.0,AOU.AX
+totalCashFromOperatingActivities,-1138663.0,-280927.0,-1066280.0,-2080796.0,AOU.AX
+depreciation,25205.0,496.0,439.0,60682.0,AOU.AX
+changeToAccountReceivables,-144049.0,-5511.0,10253.0,3917.0,AOU.AX
+otherCashflowsFromFinancingActivities,289126.0,289126.0,658352.0,658352.0,AOU.AX
+changeToNetincome,402022.0,229745.0,338606.0,1588881.0,AOU.AX
+capitalExpenditures,-6465682.0,-1462683.0,-2496982.0,-106439.0,AOU.AX
+effectOfExchangeRate,,,29875.0,98966.0,AOU.AX
+otherCashflowsFromInvestingActivities,,,-1.0,-1.0,AOU.AX

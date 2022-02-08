@@ -1,0 +1,15 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+changeToLiabilities,734325.0,207938.0,116902.0,-17532.0,AKN.AX
+totalCashflowsFromInvestingActivities,-100000.0,51476.0,6013.0,-741839.0,AKN.AX
+netBorrowings,358000.0,625000.0,750000.0,250000.0,AKN.AX
+totalCashFromFinancingActivities,358000.0,625000.0,750000.0,250000.0,AKN.AX
+changeToOperatingActivities,7973.0,31581.0,16530.0,17888.0,AKN.AX
+netIncome,-1427002.0,-1142555.0,-1248372.0,-2238131.0,AKN.AX
+changeInCash,-75505.0,16366.0,-290039.0,-1721835.0,AKN.AX
+totalCashFromOperatingActivities,-333505.0,-660110.0,-1046052.0,-1229996.0,AKN.AX
+depreciation,1043.0,1878.0,5867.0,19483.0,AKN.AX
+otherCashflowsFromInvestingActivities,-100000.0,-100000.0,9137.0,4070.0,AKN.AX
+changeToAccountReceivables,-5290.0,41381.0,-35652.0,5839.0,AKN.AX
+changeToNetincome,355446.0,199667.0,98673.0,982457.0,AKN.AX
+investments,,51476.0,51476.0,-750000.0,AKN.AX
+capitalExpenditures,,,-3124.0,-3124.0,AKN.AX

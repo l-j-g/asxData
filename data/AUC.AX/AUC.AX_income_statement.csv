@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,AUC.AX
+effectOfAccountingCharges,,,,,AUC.AX
+incomeBeforeTax,-3513319,-1823335,-1781417,-1137141,AUC.AX
+minorityInterest,,,,,AUC.AX
+netIncome,-3513319,-1823335,-1781417,-1137141,AUC.AX
+sellingGeneralAdministrative,1285849,839534,947337,887548,AUC.AX
+grossProfit,1149,611,4002,0,AUC.AX
+ebit,-3653168,-1817365,-1806732,-1210438,AUC.AX
+operatingIncome,-3653168,-1817365,-1806732,-1210438,AUC.AX
+otherOperatingExpenses,-206222,-19937,58596,97208,AUC.AX
+interestExpense,-16651,-16970,-4704,-6280,AUC.AX
+extraordinaryItems,,,,,AUC.AX
+nonRecurring,,,,,AUC.AX
+otherItems,,,,,AUC.AX
+incomeTaxExpense,0,0,0,0,AUC.AX
+totalRevenue,1149,611,4002,0,AUC.AX
+totalOperatingExpenses,3654317,1817976,1810734,1210438,AUC.AX
+costOfRevenue,0,0,0,0,AUC.AX
+totalOtherIncomeExpenseNet,139849,-5970,25315,73297,AUC.AX
+discontinuedOperations,,,,,AUC.AX
+netIncomeFromContinuingOps,-3513319,-1823335,-1781417,-1137141,AUC.AX
+netIncomeApplicableToCommonShares,-3513319,-1823335,-1781417,-1137141,AUC.AX

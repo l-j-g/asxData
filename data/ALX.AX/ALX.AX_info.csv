@@ -1,0 +1,19 @@
+Breakdown,Value,ticker
+zip,3000,ALX.AX
+sector,Industrials,ALX.AX
+compensationRisk,1,ALX.AX
+auditRisk,7,ALX.AX
+longBusinessSummary,"Atlas Arteria Limited owns, develops, and operates toll roads. It holds a 13.4% interest in 22-kilometer toll road investors partnership II (TRIP II), the concessionaire for Dulles Greenway toll road located in Virginia, the United States. The company was formerly known as Macquarie Atlas Roads Limited and changed its name to Atlas Arteria Limited in May 2018. Atlas Arteria Limited was incorporated in 2009 and is based in Melbourne, Australia.",ALX.AX
+city,Melbourne,ALX.AX
+state,VIC,ALX.AX
+shareHolderRightsRisk,7,ALX.AX
+compensationAsOfEpochDate,1609372800,ALX.AX
+governanceEpochDate,1643673600,ALX.AX
+boardRisk,2,ALX.AX
+country,Australia,ALX.AX
+website,https://www.atlasarteria.com,ALX.AX
+maxAge,86400,ALX.AX
+overallRisk,2,ALX.AX
+address1,180 Flinders Street,ALX.AX
+industry,Infrastructure Operations,ALX.AX
+address2,Level 1,ALX.AX

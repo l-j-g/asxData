@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,112377.0,235619.0,-2532.0,117847.0,AZL.AX
+totalCashFromFinancingActivities,7872175.0,950536.0,4651840.0,516000.0,AZL.AX
+changeToOperatingActivities,-14803.0,3145.0,5810.0,-8874.0,AZL.AX
+issuanceOfStock,8092556.0,1000000.0,4900000.0,516000.0,AZL.AX
+netIncome,-3455913.0,-3490190.0,-12621063.0,-1255408.0,AZL.AX
+changeInCash,4720407.0,-1793464.0,1629891.0,-258889.0,AZL.AX
+effectOfExchangeRate,-2358.0,600.0,-2012.0,-2012.0,AZL.AX
+totalCashFromOperatingActivities,-3149410.0,-2711199.0,-2712829.0,-774889.0,AZL.AX
+changeToAccountReceivables,-41210.0,22455.0,12852.0,-4743.0,AZL.AX
+otherCashflowsFromFinancingActivities,-220381.0,-49464.0,-208160.0,-208160.0,AZL.AX
+changeToNetincome,250139.0,517772.0,9892104.0,376289.0,AZL.AX
+investments,,-33401.0,-20000.0,-20000.0,AZL.AX
+totalCashflowsFromInvestingActivities,,-33401.0,-307108.0,-307108.0,AZL.AX
+netBorrowings,,,-40000.0,-40000.0,AZL.AX
+otherCashflowsFromInvestingActivities,,,23519.0,23519.0,AZL.AX

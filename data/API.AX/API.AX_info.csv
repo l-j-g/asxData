@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,3124,API.AX
+sector,Healthcare,API.AX
+compensationRisk,3,API.AX
+auditRisk,4,API.AX
+longBusinessSummary,"Australian Pharmaceutical Industries Limited engages in the wholesale distribution and retail of pharmaceutical, medical, health, beauty, and lifestyle products to pharmacies primarily in Australia, New Zealand, and Asian markets. It offers health and beauty products through a network of Priceline and Priceline Pharmacy franchise stores, company-owned Priceline stores, and Clear Skincare network of clinics. The company also provides non-invasive aesthetic beauty services. Australian Pharmaceutical Industries Limited was incorporated in 1910 and is based in Camberwell, Australia.",API.AX
+city,Camberwell,API.AX
+phone,61 3 8855 3000,API.AX
+state,VIC,API.AX
+shareHolderRightsRisk,7,API.AX
+compensationAsOfEpochDate,1640908800,API.AX
+governanceEpochDate,1643673600,API.AX
+boardRisk,5,API.AX
+country,Australia,API.AX
+website,https://www.api.net.au,API.AX
+maxAge,86400,API.AX
+overallRisk,5,API.AX
+address1,250 Camberwell Road,API.AX
+fax,61 3 8855 3406,API.AX
+industry,Medical Distribution,API.AX
+address2,Level 5,API.AX

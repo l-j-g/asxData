@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,6166,ASB.AX
+sector,Industrials,ASB.AX
+fullTimeEmployees,5500,ASB.AX
+compensationRisk,1,ASB.AX
+auditRisk,10,ASB.AX
+longBusinessSummary,"Austal Limited engages in the design, manufacture, and support of vessels for commercial and defense customers worldwide. It operates in four segments: USA Shipbuilding, USA Support, Australasia Shipbuilding, and Australasia Support. The company designs, constructs, and supports passenger ferries, vehicle passenger ferries, and offshore and windfarm vessels; naval and other defense vessels; and patrol boats for government law enforcement and border protection agencies. It also develops and integrates advanced vessel control and information management systems, including MARINELINK, an integrated monitoring and control system; and motion control interceptors. In addition, the company provides life capability management and vessel support services, such as crew training and instruction, vessel servicing, repair and maintenance, integrated logistics support, vessel sustainment, and information management systems support to naval, government, and commercial operators; and refit services and manages annual dockings. Austal Limited was founded in 1988 and is headquartered in Henderson, Australia.",ASB.AX
+city,Henderson,ASB.AX
+phone,61 8 9410 1111,ASB.AX
+state,WA,ASB.AX
+shareHolderRightsRisk,1,ASB.AX
+compensationAsOfEpochDate,1640908800,ASB.AX
+governanceEpochDate,1632614400,ASB.AX
+boardRisk,7,ASB.AX
+country,Australia,ASB.AX
+website,https://www.austal.com,ASB.AX
+maxAge,86400,ASB.AX
+overallRisk,7,ASB.AX
+address1,100 Clarence Beach Road,ASB.AX
+fax,61 8 9410 2564,ASB.AX
+industry,Aerospace & Defense,ASB.AX

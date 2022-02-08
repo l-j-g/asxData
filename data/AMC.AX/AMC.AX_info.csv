@@ -1,0 +1,19 @@
+Breakdown,Value,ticker
+zip,8050,AMC.AX
+sector,Consumer Cyclical,AMC.AX
+fullTimeEmployees,46000,AMC.AX
+compensationRisk,5,AMC.AX
+auditRisk,7,AMC.AX
+longBusinessSummary,"Amcor plc develops, produces, and sells packaging products for food, beverage, pharmaceutical, medical, home- and personal-care, and other products worldwide. It operates through two segments, Flexibles and Rigid Packaging. The company provides flexible packaging solutions, special cartons, plastic bottles and jars, and capsules and closures. The company was incorporated in 1926 and is headquartered in ZÃ¼rich, Switzerland.",AMC.AX
+city,Zurich,AMC.AX
+phone,41 44 316 1717,AMC.AX
+shareHolderRightsRisk,8,AMC.AX
+compensationAsOfEpochDate,1640908800,AMC.AX
+governanceEpochDate,1643673600,AMC.AX
+boardRisk,5,AMC.AX
+country,Switzerland,AMC.AX
+website,https://www.amcor.com,AMC.AX
+maxAge,86400,AMC.AX
+overallRisk,7,AMC.AX
+address1,Thurgauerstrasse 34,AMC.AX
+industry,Packaging & Containers,AMC.AX

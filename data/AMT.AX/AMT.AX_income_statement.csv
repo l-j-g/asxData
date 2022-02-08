@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,2322927,2551003,1717204,1227678,AMT.AX
+effectOfAccountingCharges,,,,,AMT.AX
+incomeBeforeTax,-578845,-1165382,-835508,-604144,AMT.AX
+minorityInterest,,,,,AMT.AX
+netIncome,-578845,-1165382,-835508,-604144,AMT.AX
+sellingGeneralAdministrative,2670117,2694424,2676496,3201894,AMT.AX
+grossProfit,4426891,4087998,3552947,3833388,AMT.AX
+ebit,-566153,-1157429,-840753,-596184,AMT.AX
+operatingIncome,-566153,-1157429,-840753,-596184,AMT.AX
+otherOperatingExpenses,,,,,AMT.AX
+interestExpense,-13228,-10147,-10147,-7960,AMT.AX
+extraordinaryItems,,,,,AMT.AX
+nonRecurring,,,,,AMT.AX
+otherItems,,,,,AMT.AX
+incomeTaxExpense,0,0,0,0,AMT.AX
+totalRevenue,6301371,6201158,5119646,5242845,AMT.AX
+totalOperatingExpenses,6867524,7358587,5960399,5839029,AMT.AX
+costOfRevenue,1874480,2113160,1566699,1409457,AMT.AX
+totalOtherIncomeExpenseNet,-12692,-7953,5245,-7960,AMT.AX
+discontinuedOperations,,,,,AMT.AX
+netIncomeFromContinuingOps,-578845,-1165382,-835508,-604144,AMT.AX
+netIncomeApplicableToCommonShares,-578845,-1165382,-835508,-604144,AMT.AX

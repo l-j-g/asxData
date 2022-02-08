@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,3000,ARF.AX
+sector,Real Estate,ARF.AX
+compensationRisk,5,ARF.AX
+auditRisk,6,ARF.AX
+longBusinessSummary,"Arena REIT is an ASX300 listed property group that owns, manages and develops social infrastructure properties across Australia. Our current portfolio of social infrastructure properties is leased to a diversified tenant base in the growing early learning and healthcare sectors.",ARF.AX
+city,Melbourne,ARF.AX
+phone,61 3 9093 9000,ARF.AX
+state,VIC,ARF.AX
+shareHolderRightsRisk,1,ARF.AX
+compensationAsOfEpochDate,1640908800,ARF.AX
+governanceEpochDate,1643673600,ARF.AX
+boardRisk,3,ARF.AX
+country,Australia,ARF.AX
+website,https://www.arena.com.au,ARF.AX
+maxAge,86400,ARF.AX
+overallRisk,3,ARF.AX
+address1,41 Exhibition Street,ARF.AX
+fax,61 3 9093 9093,ARF.AX
+industry,REIT—Specialty,ARF.AX
+address2,Level 5,ARF.AX

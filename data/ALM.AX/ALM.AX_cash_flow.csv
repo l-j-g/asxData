@@ -1,0 +1,14 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+investments,603735.0,-447286.0,347951.0,-371374.0,ALM.AX
+changeToLiabilities,-2984.0,-67793.0,16653.0,-27530.0,ALM.AX
+totalCashflowsFromInvestingActivities,603735.0,-447286.0,347951.0,-371374.0,ALM.AX
+netIncome,-4053299.0,-3372977.0,-927792.0,-4013178.0,ALM.AX
+changeInCash,96137.0,-928722.0,-358505.0,-321538.0,ALM.AX
+effectOfExchangeRate,89920.0,-50787.0,-173709.0,-140721.0,ALM.AX
+totalCashFromOperatingActivities,-597518.0,-430649.0,-532747.0,-834509.0,ALM.AX
+changeToAccountReceivables,19272.0,29222.0,-14230.0,101534.0,ALM.AX
+changeToNetincome,3439493.0,480899.0,392593.0,-292572.0,ALM.AX
+depreciation,,2500000.0,29.0,3397237.0,ALM.AX
+totalCashFromFinancingActivities,,,,1025066.0,ALM.AX
+issuanceOfStock,,,,1089179.0,ALM.AX
+repurchaseOfStock,,,,-64113.0,ALM.AX

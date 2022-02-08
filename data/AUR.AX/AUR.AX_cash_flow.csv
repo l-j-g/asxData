@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,35720.0,-13038.0,-3908.0,-26786.0,AUR.AX
+totalCashflowsFromInvestingActivities,-1823070.0,-625639.0,-1498580.0,-3264231.0,AUR.AX
+totalCashFromFinancingActivities,5110631.0,-329.0,958644.0,3544268.0,AUR.AX
+issuanceOfStock,5435570.0,5435570.0,5435570.0,3727925.0,AUR.AX
+netIncome,-2312605.0,-422531.0,-1845664.0,-1317036.0,AUR.AX
+changeInCash,2554635.0,-1078889.0,-1320020.0,-44915.0,AUR.AX
+totalCashFromOperatingActivities,-732926.0,-452921.0,-780084.0,-324952.0,AUR.AX
+depreciation,1574040.0,21456.0,1015790.0,414803.0,AUR.AX
+changeToAccountReceivables,-9883.0,-658.0,1508.0,832.0,AUR.AX
+otherCashflowsFromFinancingActivities,-324939.0,-329.0,958644.0,-183657.0,AUR.AX
+changeToNetincome,-20198.0,-38150.0,62944.0,621022.0,AUR.AX
+capitalExpenditures,-1833070.0,-895035.0,-2851246.0,-3264384.0,AUR.AX
+investments,,180051.0,1291698.0,1291698.0,AUR.AX
+otherCashflowsFromInvestingActivities,,4800.0,35741.0,35741.0,AUR.AX
+changeToOperatingActivities,,,-10754.0,-17787.0,AUR.AX

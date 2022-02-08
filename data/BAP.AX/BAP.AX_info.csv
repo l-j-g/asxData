@@ -1,0 +1,19 @@
+Breakdown,Value,ticker
+zip,3072,BAP.AX
+sector,Consumer Cyclical,BAP.AX
+compensationRisk,5,BAP.AX
+auditRisk,5,BAP.AX
+longBusinessSummary,"Bapcor Limited sells and distributes automotive aftermarket parts, accessories, equipment, and services and solutions in Australia, New Zealand, and Thailand. The company operates through four segments: Bapcor Trade, Bapcor Specialist Wholesale, Bapcor Retail, and Bapcor NZ. The Bapcor Trade segment offers automotive aftermarket parts and consumables to trade workshops for the service and repair of passenger and commercial vehicles; automotive workshop equipment, such as vehicle hoists and scanning equipment, including the servicing of the equipment; and automotive accessories and maintenance products to do-it-yourself vehicle owners. As of June 30, 2021, it operated 200 stores. The Bapcor Specialist Wholesale segment engages in the automotive aftermarket wholesale of brake, bearing, electrical, suspension, 4WD, cooling, diesel, and engine control systems and parts for light and heavy commercial vehicles. The Bapcor Retail segment operates 341 company owned and franchise stores comprising 133 Autobarn stores, 74 Autopro stores, 30 Sprint Auto Parts stores, and 104 Midas and ABS workshop service stores. Bapcor NZ segment is involved in the wholesale of batteries, steering and suspension products, auto electrical and precision equipment, and vehicle workshop equipment; and diesel distribution activities. This segment also supplies automotive parts and accessories to workshops, trucks, and trailer parts through the Truck and Trailer Parts brand. It operates through a network of 76 stores in 85 locations, as well as 102 Battery Town locations. The company was formerly known as Burson Group Limited and changed its name to Bapcor Limited in July 2016. Bapcor Limited was founded in 1971 and is based in Preston, Australia.",BAP.AX
+city,Preston,BAP.AX
+phone,61 3 8470 7300,BAP.AX
+state,VIC,BAP.AX
+shareHolderRightsRisk,1,BAP.AX
+compensationAsOfEpochDate,1640908800,BAP.AX
+governanceEpochDate,1643673600,BAP.AX
+boardRisk,1,BAP.AX
+country,Australia,BAP.AX
+website,https://www.bapcor.com.au,BAP.AX
+maxAge,86400,BAP.AX
+overallRisk,1,BAP.AX
+address1,61 Gower Street,BAP.AX
+industry,Specialty Retail,BAP.AX

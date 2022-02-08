@@ -1,0 +1,18 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+investments,-3721186.0,2369472.0,430745.0,220065.0,ANX.AX
+changeToLiabilities,-64907.0,51945.0,36098.0,-539607.0,ANX.AX
+totalCashflowsFromInvestingActivities,-3727481.0,2369472.0,428585.0,-2803560.0,ANX.AX
+netBorrowings,-37680.0,-37680.0,-37680.0,-37680.0,ANX.AX
+totalCashFromFinancingActivities,6368637.0,1054179.0,-280.0,2717386.0,ANX.AX
+issuanceOfStock,6812025.0,1101053.0,1101053.0,839823.0,ANX.AX
+netIncome,241153.0,1967583.0,-2936436.0,-5358524.0,ANX.AX
+changeInCash,3573829.0,1983372.0,-436872.0,-2198192.0,ANX.AX
+totalCashFromOperatingActivities,932673.0,-1440279.0,-865177.0,-2115503.0,ANX.AX
+depreciation,69048.0,9958.0,9833.0,29913.0,ANX.AX
+changeToAccountReceivables,-51698.0,28877.0,-21675.0,311540.0,ANX.AX
+otherCashflowsFromFinancingActivities,-405708.0,-46874.0,-280.0,1877563.0,ANX.AX
+changeToNetincome,739077.0,-3498642.0,2064733.0,3462675.0,ANX.AX
+capitalExpenditures,-7204.0,-7204.0,-2160.0,-8734.0,ANX.AX
+changeToOperatingActivities,,,-17730.0,-21500.0,ANX.AX
+effectOfExchangeRate,,,,3485.0,ANX.AX
+otherCashflowsFromInvestingActivities,,,,975.0,ANX.AX

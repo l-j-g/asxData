@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,2015,ALD.AX
+sector,Energy,ALD.AX
+fullTimeEmployees,8100,ALD.AX
+compensationRisk,4,ALD.AX
+auditRisk,5,ALD.AX
+longBusinessSummary,"Ampol Limited engages in purchasing, refining, and distributing petroleum products in Australia, New Zealand, Singapore, and the United States. The company operates through Convenience Retail, and Fuels and Infrastructure segments. The Convenience Retail segment sells fuels through Ampol's network of stores. The Fuels and Infrastructure segment wholesales fuels and lubricant supplies. It distributes its products through a network of depots, diesel stops, marine facilities, and service station sites. The company was formerly known as Caltex Australia Limited and changed its name to Ampol Limited in May 2020. Ampol Limited was founded in 1900 and is based in Alexandria, Australia.",ALD.AX
+city,Alexandria,ALD.AX
+phone,61 2 9250 5000,ALD.AX
+state,NSW,ALD.AX
+shareHolderRightsRisk,1,ALD.AX
+compensationAsOfEpochDate,1609372800,ALD.AX
+governanceEpochDate,1643673600,ALD.AX
+boardRisk,3,ALD.AX
+country,Australia,ALD.AX
+website,https://www.ampol.com.au,ALD.AX
+maxAge,86400,ALD.AX
+overallRisk,2,ALD.AX
+address1,29-33 Bourke Road,ALD.AX
+fax,61 2 9250 5018,ALD.AX
+industry,Oil & Gas Refining & Marketing,ALD.AX

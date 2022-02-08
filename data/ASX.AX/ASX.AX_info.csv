@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,2000,ASX.AX
+sector,Financial Services,ASX.AX
+fullTimeEmployees,748,ASX.AX
+compensationRisk,1,ASX.AX
+auditRisk,1,ASX.AX
+longBusinessSummary,"ASX Limited operates as a multi-asset class and integrated exchange company in Australia and internationally. The company provides listings, trading, clearing, settlement, technical and information services, and other post-trade services; securities and derivatives exchange, and ancillary services; and central counterparty clearing services. It also operates markets for a range of asset classes, including equities, fixed income, commodities, and energy; provides data and technology services to intermediaries, banks, information vendors, and software developers to enable them to make decisions, offer services to their clients, and connect with one another; and is involved in the registry, depository, and settlement activities, as well as delivery-versus-payment clearing of financial products. The company was founded in 1987 and is based in Sydney, Australia.",ASX.AX
+city,Sydney,ASX.AX
+phone,61 2 9227 0000,ASX.AX
+state,NSW,ASX.AX
+shareHolderRightsRisk,1,ASX.AX
+compensationAsOfEpochDate,1640908800,ASX.AX
+governanceEpochDate,1643673600,ASX.AX
+boardRisk,4,ASX.AX
+country,Australia,ASX.AX
+website,https://www2.asx.com.au,ASX.AX
+maxAge,86400,ASX.AX
+overallRisk,1,ASX.AX
+address1,Exchange Centre,ASX.AX
+industry,Financial Data & Stock Exchanges,ASX.AX
+address2,20 Bridge Street,ASX.AX

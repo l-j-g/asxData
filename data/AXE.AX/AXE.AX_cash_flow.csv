@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,0.0,0.0,-77693.0,86955.0,AXE.AX
+totalCashflowsFromInvestingActivities,52924.0,-53873.0,-849068.0,-1572111.0,AXE.AX
+netBorrowings,-1750.0,-1750.0,-1750.0,-1750.0,AXE.AX
+totalCashFromFinancingActivities,606217.0,8612157.0,383906.0,3729862.0,AXE.AX
+changeToOperatingActivities,107652.0,111289.0,-6971.0,64370.0,AXE.AX
+issuanceOfStock,607967.0,8612157.0,400706.0,3729862.0,AXE.AX
+netIncome,-6593262.0,-2816890.0,-1738332.0,-1854520.0,AXE.AX
+changeInCash,-1875583.0,7418933.0,-2053837.0,1220952.0,AXE.AX
+totalCashFromOperatingActivities,-2534724.0,-1139351.0,-1588675.0,-936799.0,AXE.AX
+depreciation,32298.0,21561.0,152292.0,366867.0,AXE.AX
+otherCashflowsFromInvestingActivities,150000.0,150000.0,150000.0,150000.0,AXE.AX
+changeToAccountReceivables,-69698.0,-37999.0,-117124.0,75586.0,AXE.AX
+changeToNetincome,3988286.0,1582688.0,199153.0,323943.0,AXE.AX
+capitalExpenditures,-40801.0,-26204.0,-1030445.0,-1620414.0,AXE.AX
+otherCashflowsFromFinancingActivities,,,-16800.0,-16800.0,AXE.AX

@@ -1,0 +1,19 @@
+Breakdown,Value,ticker
+zip,5606,AS1.AX
+sector,Consumer Defensive,AS1.AX
+compensationRisk,9,AS1.AX
+auditRisk,8,AS1.AX
+longBusinessSummary,"Angel Seafood Holdings Limited produces, manufactures, markets, and sells organic and sustainable oysters in Australia and Asia. The company also exports its products. Angel Seafood Holdings Limited was incorporated in 2016 and is headquartered in Port Lincoln, Australia.",AS1.AX
+city,Port Lincoln,AS1.AX
+phone,61 4 5640 1272,AS1.AX
+state,SA,AS1.AX
+shareHolderRightsRisk,1,AS1.AX
+compensationAsOfEpochDate,1609372800,AS1.AX
+governanceEpochDate,1643673600,AS1.AX
+boardRisk,10,AS1.AX
+country,Australia,AS1.AX
+website,https://www.angelseafood.com.au,AS1.AX
+maxAge,86400,AS1.AX
+overallRisk,10,AS1.AX
+address1,48 Proper Bay Road,AS1.AX
+industry,Farm Products,AS1.AX

@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,AKM.AX
+effectOfAccountingCharges,,,,,AKM.AX
+incomeBeforeTax,-5164945,-5476692,-6180698,-6965188,AKM.AX
+minorityInterest,-364722,-512919,-446059,-201725,AKM.AX
+netIncome,-5167777,-5440715,-6042258,-6643531,AKM.AX
+sellingGeneralAdministrative,677716,1035322,1343522,752719,AKM.AX
+grossProfit,0,0,-1053330,-735719,AKM.AX
+ebit,-2409088,-5804139,-6567336,-6558955,AKM.AX
+operatingIncome,-2409088,-5804139,-6567336,-6558955,AKM.AX
+otherOperatingExpenses,1650495,3366119,3818472,1675758,AKM.AX
+interestExpense,-9285,-13759,-164841,-581916,AKM.AX
+extraordinaryItems,,,,,AKM.AX
+nonRecurring,,,,,AKM.AX
+otherItems,,,,,AKM.AX
+incomeTaxExpense,11419,11508,19609,15084,AKM.AX
+totalRevenue,0,0,0,0,AKM.AX
+totalOperatingExpenses,2409088,5804139,6567336,6558955,AKM.AX
+costOfRevenue,0,0,1053330,735719,AKM.AX
+totalOtherIncomeExpenseNet,-2755857,327447,386638,-406233,AKM.AX
+discontinuedOperations,,,,,AKM.AX
+netIncomeFromContinuingOps,-5176364,-5488200,-6200307,-6980272,AKM.AX
+netIncomeApplicableToCommonShares,-5167777,-5440715,-6042258,-6643531,AKM.AX

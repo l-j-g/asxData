@@ -12,7 +12,7 @@ for index, ticker in enumerate(data):
     tickers.append(f"{ticker[0]}.AX")
 
 count = 0    
-for ticker in tickers[104:len(tickers)]:
+for ticker in tickers[258:len(tickers)]:
     count += 1
     filename = f"./data/{ticker}/"
     os.makedirs(os.path.dirname(filename), exist_ok=True)

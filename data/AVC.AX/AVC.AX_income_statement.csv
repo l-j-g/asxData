@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,AVC.AX
+effectOfAccountingCharges,,,,,AVC.AX
+incomeBeforeTax,1785591,-3286116,-3095017,-2584426,AVC.AX
+minorityInterest,-101080,-101080,-262211,-1385791,AVC.AX
+netIncome,1785591,-2963796,972360,-3025974,AVC.AX
+sellingGeneralAdministrative,3521443,1912166,2122541,2240684,AVC.AX
+grossProfit,7577239,1256770,466207,307,AVC.AX
+ebit,2392906,-3169656,-2740542,-2545327,AVC.AX
+operatingIncome,2392906,-3169656,-2740542,-2545327,AVC.AX
+otherOperatingExpenses,28186,53878,492254,-5363,AVC.AX
+interestExpense,-151,-25031,-20298,-4938,AVC.AX
+extraordinaryItems,,,,,AVC.AX
+nonRecurring,,,,,AVC.AX
+otherItems,,,,,AVC.AX
+incomeTaxExpense,0,0,0,-15136,AVC.AX
+totalRevenue,8446706,2211534,597130,307,AVC.AX
+totalOperatingExpenses,6053800,5381190,3337672,2545634,AVC.AX
+costOfRevenue,869467,954764,130923,0,AVC.AX
+totalOtherIncomeExpenseNet,-607315,-116460,-354475,-39099,AVC.AX
+discontinuedOperations,,322320.0,4315170.0,-795889.0,AVC.AX
+netIncomeFromContinuingOps,1785591,-3286116,-3095017,-2569290,AVC.AX
+netIncomeApplicableToCommonShares,1785591,-2963796,972360,-3025974,AVC.AX

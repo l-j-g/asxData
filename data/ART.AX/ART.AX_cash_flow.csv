@@ -1,0 +1,17 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,ticker
+investments,-11502000.0,-500000.0,-500000.0,ART.AX
+changeToLiabilities,3867000.0,1000.0,941141.0,ART.AX
+totalCashflowsFromInvestingActivities,-19749000.0,-3075000.0,-676102.0,ART.AX
+netBorrowings,-450000.0,147000.0,9425672.0,ART.AX
+totalCashFromFinancingActivities,35486000.0,10505000.0,12425078.0,ART.AX
+changeToOperatingActivities,3921000.0,3359000.0,1101523.0,ART.AX
+issuanceOfStock,37608000.0,10358000.0,2999406.0,ART.AX
+netIncome,-9709000.0,-10254000.0,-29668927.0,ART.AX
+changeInCash,21257000.0,6781000.0,-5923869.0,ART.AX
+totalCashFromOperatingActivities,5520000.0,-649000.0,-17672845.0,ART.AX
+depreciation,818000.0,781000.0,824749.0,ART.AX
+changeToAccountReceivables,223000.0,-138000.0,847826.0,ART.AX
+otherCashflowsFromFinancingActivities,-1672000.0,-1672000.0,-1672000.0,ART.AX
+changeToNetincome,5020000.0,5154000.0,8184063.0,ART.AX
+capitalExpenditures,-124000.0,-108000.0,-169516.0,ART.AX
+changeToInventory,,,9529.0,ART.AX

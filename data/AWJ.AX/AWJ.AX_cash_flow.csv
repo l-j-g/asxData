@@ -1,0 +1,15 @@
+Breakdown,2020-12-31 00:00:00,2020-06-30 00:00:00,ticker
+changeToLiabilities,156480.0,0.0,AWJ.AX
+totalCashflowsFromInvestingActivities,-1449527.0,-1449527.0,AWJ.AX
+totalCashFromFinancingActivities,1823031.0,75851.0,AWJ.AX
+changeToOperatingActivities,175059.0,175059.0,AWJ.AX
+issuanceOfStock,2109761.0,9851.0,AWJ.AX
+netIncome,-530026.0,-106656.0,AWJ.AX
+changeInCash,124530.0,8116.0,AWJ.AX
+totalCashFromOperatingActivities,-248974.0,-67735.0,AWJ.AX
+depreciation,274.0,274.0,AWJ.AX
+changeToAccountReceivables,-50760.0,-50760.0,AWJ.AX
+otherCashflowsFromFinancingActivities,-286731.0,-286731.0,AWJ.AX
+capitalExpenditures,-1449527.0,-1449527.0,AWJ.AX
+netBorrowings,,66000.0,AWJ.AX
+changeToNetincome,,38921.0,AWJ.AX
