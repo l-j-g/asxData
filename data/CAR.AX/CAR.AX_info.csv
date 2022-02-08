@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,3121,CAR.AX
+sector,Communication Services,CAR.AX
+fullTimeEmployees,1200,CAR.AX
+compensationRisk,8,CAR.AX
+auditRisk,3,CAR.AX
+longBusinessSummary,"carsales.com Ltd operates online automotive, motorcycle, and marine classifieds business in Australia, Brazil, South Korea, Malaysia, Indonesia, Thailand, Chile, China, Argentina, and Mexico. The company operates in Online Advertising Services; Data, Research and Services; Latin America; and Asia segments. The Online Advertising Services segment offers classified advertising that allows private and dealer customers to advertise automotive and non-automotive goods and services for sale across the carsales network; and products, including subscriptions, lead fees, listing fees, and priority placement services. It also provides display advertising services, such as placing advertisements on carsales network websites for corporate customers comprising automotive manufacturers and finance companies. In addition, this segment holds investments in tyresales.com.au, an online tire retailer; and RedBook Inspect, which provides inspection services published online as part of classified advertisements. The Data, Research and Services segment offers software as a service, research and reporting, valuation, appraisals, and website development and hosting services, as well as photography services. The Latin America segment provides online automotive classifieds and display advertising services. The Asia segment provides digital automotive classifieds, display advertising, and automotive data services. carsales.com Ltd was incorporated in 1996 and is headquartered in Melbourne, Australia.",CAR.AX
+city,Melbourne,CAR.AX
+phone,61 3 9093 8600,CAR.AX
+state,VIC,CAR.AX
+shareHolderRightsRisk,1,CAR.AX
+compensationAsOfEpochDate,1640908800,CAR.AX
+governanceEpochDate,1643673600,CAR.AX
+boardRisk,8,CAR.AX
+country,Australia,CAR.AX
+website,https://www.carsales.com.au,CAR.AX
+maxAge,86400,CAR.AX
+overallRisk,6,CAR.AX
+address1,449 Punt Road,CAR.AX
+fax,61 3 9093 8697,CAR.AX
+industry,Internet Content & Information,CAR.AX
+address2,Level 4 Richmond,CAR.AX

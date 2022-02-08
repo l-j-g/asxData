@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,-365415.0,370061.0,63398.0,-179596.0,BIT.AX
+totalCashflowsFromInvestingActivities,-5723.0,-5723.0,-52882.0,-52882.0,BIT.AX
+netBorrowings,-36959.0,-32979.0,-32979.0,-32979.0,BIT.AX
+totalCashFromFinancingActivities,-36959.0,5002937.0,5747550.0,1397621.0,BIT.AX
+changeToOperatingActivities,7178.0,-20270.0,-556.0,-15129.0,BIT.AX
+netIncome,-3194347.0,-3575959.0,-1611799.0,-1593645.0,BIT.AX
+changeInCash,-3450279.0,1921115.0,4196786.0,-444382.0,BIT.AX
+totalCashFromOperatingActivities,-3407597.0,-3081822.0,-1497891.0,-1842011.0,BIT.AX
+depreciation,47336.0,50119.0,12467.0,11642.0,BIT.AX
+changeToNetincome,97651.0,94227.0,38599.0,-65283.0,BIT.AX
+capitalExpenditures,-5723.0,-5723.0,-40933.0,-40933.0,BIT.AX
+issuanceOfStock,,5311343.0,6039228.0,1653149.0,BIT.AX
+otherCashflowsFromFinancingActivities,,-275427.0,-291678.0,-255528.0,BIT.AX
+effectOfExchangeRate,,,9.0,7.0,BIT.AX
+otherCashflowsFromInvestingActivities,,,-11949.0,-11949.0,BIT.AX

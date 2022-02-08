@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,COS.AX
+1,Enterprise Value,,COS.AX
+2,Trailing P/E,,COS.AX
+3,Forward P/E,,COS.AX
+4,PEG Ratio (5 yr expected),,COS.AX
+5,Price/Sales (ttm),,COS.AX
+6,Price/Book (mrq),,COS.AX
+7,Enterprise Value/Revenue,,COS.AX
+8,Enterprise Value/EBITDA,,COS.AX

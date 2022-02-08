@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,2113,DOW.AX
+sector,Industrials,DOW.AX
+fullTimeEmployees,44000,DOW.AX
+compensationRisk,1,DOW.AX
+auditRisk,5,DOW.AX
+longBusinessSummary,"Downer EDI Limited operates as an integrated services provider in Australia, New Zealand, the Asia-Pacific, South America, and Southern Africa. Its Transport segment provides road network management; routine road maintenance; asset management systems; spray sealing; asphalt laying; and manufacture and supply of bitumen-based products and asphalt products. This segment also engages in the design and construction of light and heavy rail networks, signaling works, track and station works, and bridges; and provides rail safety technology, fleet maintenance, and overhaul services. The company's Utilities segment plans, designs, constructs, operates, maintains, manages, and decommissions power and gas network assets; provides water and wastewater treatment, and network construction and rehabilitation services; and designs, constructs, and maintains renewable assets in the wind, solar, and power system storage sectors. This segment also offers technology and communications solutions, including design, civil construction, network construction, operation, and maintenance services for fiber, copper, and radio networks. Its Facilities segment offers outsourced facility, catering and laundry, technical and engineering, and maintenance and asset management services, as well as refrigeration solutions, as well as building and construction solutions across various sectors. The company's Engineering, Construction and Maintenance segment provides design, engineering, construction, shutdown, turnaround and outage delivery, and operations maintenance and ongoing management services for various projects; and designs and manufactures mineral process equipment. Its Mining segment provides resource definition, exploration drilling, and mine feasibility studies; open cut and underground mining services; and drilling, explosives manufacture and supply; blasting and crushing; asset management; tire management; and mine closure and rehabilitation services. The company is headquartered in Sydney, Australia.",DOW.AX
+city,Sydney,DOW.AX
+phone,61 2 9468 9700,DOW.AX
+state,NSW,DOW.AX
+shareHolderRightsRisk,1,DOW.AX
+compensationAsOfEpochDate,1640908800,DOW.AX
+governanceEpochDate,1632614400,DOW.AX
+boardRisk,7,DOW.AX
+country,Australia,DOW.AX
+website,https://www.downergroup.com,DOW.AX
+maxAge,86400,DOW.AX
+overallRisk,3,DOW.AX
+address1,Triniti Business Campus,DOW.AX
+fax,61 2 9813 8915,DOW.AX
+industry,Engineering & Construction,DOW.AX
+address2,"Level 2 Triniti III 39 Delhi Road, North Ryde",DOW.AX

@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,EMP.AX
+effectOfAccountingCharges,,,,,EMP.AX
+incomeBeforeTax,-665803,-765935,-768322,-1171544,EMP.AX
+minorityInterest,,,,,EMP.AX
+netIncome,-665803,-1746864,-768322,-1171544,EMP.AX
+sellingGeneralAdministrative,495770,598821,500669,1014353,EMP.AX
+grossProfit,13125,0,0,15900,EMP.AX
+ebit,-572645,-718821,-766039,-1174385,EMP.AX
+operatingIncome,-572645,-718821,-766039,-1174385,EMP.AX
+otherOperatingExpenses,,,,,EMP.AX
+interestExpense,-93551,-47810,-4271,-7504,EMP.AX
+extraordinaryItems,,,,,EMP.AX
+nonRecurring,,,,,EMP.AX
+otherItems,,,,,EMP.AX
+incomeTaxExpense,0,980929,0,0,EMP.AX
+totalRevenue,13125,0,0,15900,EMP.AX
+totalOperatingExpenses,585770,718821,766039,1190285,EMP.AX
+costOfRevenue,0,0,0,0,EMP.AX
+totalOtherIncomeExpenseNet,-93158,-47114,-2283,2841,EMP.AX
+discontinuedOperations,,,,,EMP.AX
+netIncomeFromContinuingOps,-665803,-1746864,-768322,-1171544,EMP.AX
+netIncomeApplicableToCommonShares,-665803,-1746864,-768322,-1171544,EMP.AX

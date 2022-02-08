@@ -1,0 +1,15 @@
+Breakdown,Value,ticker
+zip,2000,CIN.AX
+sector,Financial Services,CIN.AX
+fullTimeEmployees,2,CIN.AX
+longBusinessSummary,"Carlton Investments Limited is a publicly owned asset management holding company. Through its subsidiaries, the firm manages separate client-focused equity portfolios. It invests in the public equity markets of Australia through its subsidiaries. Carlton Investments Limited was founded in 1928 and is based in Sydney, Australia.",CIN.AX
+city,Sydney,CIN.AX
+phone,612-9373-6732,CIN.AX
+state,NSW,CIN.AX
+compensationAsOfEpochDate,1640908800,CIN.AX
+country,Australia,CIN.AX
+website,https://www.carltoninvestments.com.au,CIN.AX
+maxAge,86400,CIN.AX
+address1,478 George Street,CIN.AX
+industry,Asset Management,CIN.AX
+address2,Level 15,CIN.AX

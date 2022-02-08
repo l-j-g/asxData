@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,518750.0,229350.0,32529.0,30896.0,CNB.AX
+totalCashflowsFromInvestingActivities,-39416.0,27069.0,-92082.0,84900.0,CNB.AX
+netBorrowings,-23279.0,-27615.0,-27615.0,-27615.0,CNB.AX
+totalCashFromFinancingActivities,4950817.0,-400615.0,1542470.0,1541000.0,CNB.AX
+issuanceOfStock,5184511.0,5184511.0,1600000.0,1541000.0,CNB.AX
+netIncome,371382.0,-3123086.0,-1101178.0,-2351371.0,CNB.AX
+changeInCash,5562878.0,-2942050.0,315904.0,-467000.0,CNB.AX
+totalCashFromOperatingActivities,651477.0,-2568505.0,-1134701.0,-2096441.0,CNB.AX
+depreciation,31503.0,19219.0,5806.0,3075.0,CNB.AX
+otherCashflowsFromInvestingActivities,26204.0,35810.0,74234.0,84900.0,CNB.AX
+changeToAccountReceivables,-274107.0,3843.0,-144437.0,-947.0,CNB.AX
+otherCashflowsFromFinancingActivities,-210415.0,-373000.0,-57530.0,-57530.0,CNB.AX
+changeToNetincome,3949.0,302169.0,72579.0,221906.0,CNB.AX
+capitalExpenditures,-64234.0,-8741.0,-166316.0,-166316.0,CNB.AX
+effectOfExchangeRate,,,218.0,3541.0,CNB.AX

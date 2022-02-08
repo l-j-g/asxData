@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,FML.AX
+effectOfAccountingCharges,,,,,FML.AX
+incomeBeforeTax,-7858000,-2063000,-4207000,-6194000,FML.AX
+minorityInterest,,,,,FML.AX
+netIncome,-7858000,-2063000,-4207000,-6194000,FML.AX
+sellingGeneralAdministrative,3318000,3116000,3170000,2671000,FML.AX
+grossProfit,-501000,3346000,356000,811000,FML.AX
+ebit,-4662000,-853000,-3797000,-2582000,FML.AX
+operatingIncome,-4662000,-853000,-3797000,-2582000,FML.AX
+otherOperatingExpenses,472000,560000,382000,382000,FML.AX
+interestExpense,-130000,-23000,-23000,-167000,FML.AX
+extraordinaryItems,,,,,FML.AX
+nonRecurring,,,,,FML.AX
+otherItems,,,,,FML.AX
+incomeTaxExpense,0,0,0,0,FML.AX
+totalRevenue,433000,4321000,1401000,1940000,FML.AX
+totalOperatingExpenses,5095000,5174000,5198000,4522000,FML.AX
+costOfRevenue,934000,975000,1045000,1129000,FML.AX
+totalOtherIncomeExpenseNet,-3196000,-1210000,-410000,-3612000,FML.AX
+discontinuedOperations,,,,,FML.AX
+netIncomeFromContinuingOps,-7858000,-2063000,-4207000,-6194000,FML.AX
+netIncomeApplicableToCommonShares,-7858000,-2063000,-4207000,-6194000,FML.AX

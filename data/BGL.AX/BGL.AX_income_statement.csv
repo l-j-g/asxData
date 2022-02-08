@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,BGL.AX
+effectOfAccountingCharges,,,,,BGL.AX
+incomeBeforeTax,-12243000,-5687000,-7146000,-5900323,BGL.AX
+minorityInterest,,,,,BGL.AX
+netIncome,-12243000,-5687000,-7146000,-5900323,BGL.AX
+sellingGeneralAdministrative,10603000,5071000,6829000,5387621,BGL.AX
+grossProfit,0,0,0,0,BGL.AX
+ebit,-11452000,-5641000,-7226000,-5850893,BGL.AX
+operatingIncome,-11452000,-5641000,-7226000,-5850893,BGL.AX
+otherOperatingExpenses,,-1000.0,-3000.0,-3000.0,BGL.AX
+interestExpense,,,,,BGL.AX
+extraordinaryItems,,,,,BGL.AX
+nonRecurring,,,,,BGL.AX
+otherItems,,,,,BGL.AX
+incomeTaxExpense,0,0,0,0,BGL.AX
+totalRevenue,0,0,0,0,BGL.AX
+totalOperatingExpenses,11452000,5641000,7226000,5850893,BGL.AX
+costOfRevenue,0,0,0,0,BGL.AX
+totalOtherIncomeExpenseNet,-791000,-46000,80000,-49430,BGL.AX
+discontinuedOperations,,,,,BGL.AX
+netIncomeFromContinuingOps,-12243000,-5687000,-7146000,-5900323,BGL.AX
+netIncomeApplicableToCommonShares,-12243000,-5687000,-7146000,-5900323,BGL.AX

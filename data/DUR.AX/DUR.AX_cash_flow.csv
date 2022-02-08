@@ -1,0 +1,18 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,ticker
+changeToLiabilities,7485000.0,-5262000.0,31203000.0,DUR.AX
+totalCashflowsFromInvestingActivities,-8515000.0,-4646000.0,-4503000.0,DUR.AX
+netBorrowings,3021000.0,-47000.0,1338000.0,DUR.AX
+totalCashFromFinancingActivities,1821000.0,-10275000.0,-400000.0,DUR.AX
+changeToOperatingActivities,-127000.0,615000.0,1668000.0,DUR.AX
+issuanceOfStock,24000000.0,24000000.0,24000000.0,DUR.AX
+netIncome,7131000.0,13011000.0,9063000.0,DUR.AX
+changeInCash,-27000.0,5540000.0,21821000.0,DUR.AX
+totalCashFromOperatingActivities,6667000.0,20461000.0,26724000.0,DUR.AX
+depreciation,5227000.0,3825000.0,2194000.0,DUR.AX
+otherCashflowsFromInvestingActivities,1505000.0,367000.0,367000.0,DUR.AX
+dividendsPaid,-25200000.0,-10228000.0,-1238000.0,DUR.AX
+changeToInventory,-103000.0,-25000.0,-39000.0,DUR.AX
+changeToAccountReceivables,-10735000.0,9628000.0,-16323000.0,DUR.AX
+changeToNetincome,-2170000.0,-2150000.0,-153000.0,DUR.AX
+capitalExpenditures,-10539000.0,-5223000.0,-4668000.0,DUR.AX
+otherCashflowsFromFinancingActivities,,,-500000.0,DUR.AX

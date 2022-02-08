@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,BRV.AX
+effectOfAccountingCharges,,,,,BRV.AX
+incomeBeforeTax,-2923774,-1616843,-6119825,-4309000,BRV.AX
+minorityInterest,,,,,BRV.AX
+netIncome,-2923774,4729702,-14106714,-4881024,BRV.AX
+sellingGeneralAdministrative,3381702,2723071,5605583,3828074,BRV.AX
+grossProfit,0,0,0,0,BRV.AX
+ebit,-3614065,-3735886,-5707040,-4202617,BRV.AX
+operatingIncome,-3614065,-3735886,-5707040,-4202617,BRV.AX
+otherOperatingExpenses,148125,952661,20625,131160,BRV.AX
+interestExpense,-11209,-396020,-469994,-424384,BRV.AX
+extraordinaryItems,,,,,BRV.AX
+nonRecurring,,,,,BRV.AX
+otherItems,,,,,BRV.AX
+incomeTaxExpense,0,0,0,0,BRV.AX
+totalRevenue,0,0,0,0,BRV.AX
+totalOperatingExpenses,3614065,3735886,5707040,4202617,BRV.AX
+costOfRevenue,0,0,0,0,BRV.AX
+totalOtherIncomeExpenseNet,690291,2119043,-412785,-106383,BRV.AX
+discontinuedOperations,,6346545.0,-7986889.0,-572024.0,BRV.AX
+netIncomeFromContinuingOps,-2923774,-1616843,-6119825,-4309000,BRV.AX
+netIncomeApplicableToCommonShares,-2923774,4729702,-14106714,-4881024,BRV.AX

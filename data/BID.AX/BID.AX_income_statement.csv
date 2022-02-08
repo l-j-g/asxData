@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,BID.AX
+effectOfAccountingCharges,,,,,BID.AX
+incomeBeforeTax,-12156853,-6892991,-6599957,-4527522,BID.AX
+minorityInterest,,,,,BID.AX
+netIncome,-12138510,-6910711,-6566405,-4517631,BID.AX
+sellingGeneralAdministrative,6483359,4979728,3485510,2159234,BID.AX
+grossProfit,-3998679,-938954,-2707029,-933990,BID.AX
+ebit,-12009801,-6927997,-6652517,-3470959,BID.AX
+operatingIncome,-12009801,-6927997,-6652517,-3470959,BID.AX
+otherOperatingExpenses,,-50000.0,-82880.0,-329680.0,BID.AX
+interestExpense,-32206,-5415,-4788,-4788,BID.AX
+extraordinaryItems,,,,,BID.AX
+nonRecurring,,,,,BID.AX
+otherItems,,,,,BID.AX
+incomeTaxExpense,-18343,17720,-33552,-9891,BID.AX
+totalRevenue,14683096,9387568,5304110,4066742,BID.AX
+totalOperatingExpenses,26692897,16315565,11956627,7537701,BID.AX
+costOfRevenue,18681775,10326522,8011139,5000732,BID.AX
+totalOtherIncomeExpenseNet,-147052,35006,52560,-1056563,BID.AX
+discontinuedOperations,,,,,BID.AX
+netIncomeFromContinuingOps,-12138510,-6910711,-6566405,-4517631,BID.AX
+netIncomeApplicableToCommonShares,-12138510,-6910711,-6566405,-4517631,BID.AX

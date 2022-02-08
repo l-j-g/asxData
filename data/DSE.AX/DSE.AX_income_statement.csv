@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,DSE.AX
+effectOfAccountingCharges,,,,,DSE.AX
+incomeBeforeTax,-2147357,-3145590,-1456949,-2175919,DSE.AX
+minorityInterest,,,,,DSE.AX
+netIncome,-2147357,-3145590,-1456949,-2175919,DSE.AX
+sellingGeneralAdministrative,1117843,944204,766254,1020207,DSE.AX
+grossProfit,189915,-795568,696105,-353890,DSE.AX
+ebit,-2127658,-3145413,-1368317,-2131094,DSE.AX
+operatingIncome,-2127658,-3145413,-1368317,-2131094,DSE.AX
+otherOperatingExpenses,454679,562568,678649,469151,DSE.AX
+interestExpense,-1646,-1646,-1646,-1646,DSE.AX
+extraordinaryItems,,,,,DSE.AX
+nonRecurring,,,,,DSE.AX
+otherItems,,,,,DSE.AX
+incomeTaxExpense,0,0,0,0,DSE.AX
+totalRevenue,7107939,4719095,5289231,2561611,DSE.AX
+totalOperatingExpenses,9235597,7864508,6657548,4692705,DSE.AX
+costOfRevenue,6918024,5514663,4593126,2915501,DSE.AX
+totalOtherIncomeExpenseNet,-19699,-177,-88632,-44825,DSE.AX
+discontinuedOperations,,,,,DSE.AX
+netIncomeFromContinuingOps,-2147357,-3145590,-1456949,-2175919,DSE.AX
+netIncomeApplicableToCommonShares,-2147357,-3145590,-1456949,-2175919,DSE.AX

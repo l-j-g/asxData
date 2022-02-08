@@ -1,0 +1,18 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,ticker
+changeToLiabilities,551236.0,102097.0,537101.0,DOU.AX
+totalCashflowsFromInvestingActivities,367918.0,-1785.0,-13355.0,DOU.AX
+totalCashFromFinancingActivities,16846870.0,819364.0,1494430.0,DOU.AX
+changeToOperatingActivities,-93653.0,48393.0,6890.0,DOU.AX
+issuanceOfStock,18000001.0,533333.0,1193911.0,DOU.AX
+netIncome,-13487518.0,-1299600.0,-1550285.0,DOU.AX
+changeInCash,10153087.0,-476969.0,648219.0,DOU.AX
+repurchaseOfStock,-169975.0,-169975.0,-169975.0,DOU.AX
+totalCashFromOperatingActivities,-7061701.0,-1291545.0,-855069.0,DOU.AX
+depreciation,11981.0,1785.0,13355.0,DOU.AX
+otherCashflowsFromInvestingActivities,-24692.0,-24692.0,-24692.0,DOU.AX
+changeToAccountReceivables,-225716.0,-277254.0,-348858.0,DOU.AX
+otherCashflowsFromFinancingActivities,-983156.0,-983156.0,-983156.0,DOU.AX
+changeToNetincome,5540230.0,133034.0,486728.0,DOU.AX
+capitalExpenditures,-65338.0,-1785.0,-13355.0,DOU.AX
+netBorrowings,,286031.0,300519.0,DOU.AX
+effectOfExchangeRate,,-3003.0,22213.0,DOU.AX

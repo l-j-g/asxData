@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,CYM.AX
+effectOfAccountingCharges,,,,,CYM.AX
+incomeBeforeTax,-1651335,-1281135,-562162,-894116,CYM.AX
+minorityInterest,,,,,CYM.AX
+netIncome,-997366,-2354202,-5892371,-894116,CYM.AX
+sellingGeneralAdministrative,1181766,1200394,567752,603286,CYM.AX
+grossProfit,100000,0,0,633,CYM.AX
+ebit,-1669490,-1294336,-567752,-888972,CYM.AX
+operatingIncome,-1669490,-1294336,-567752,-888972,CYM.AX
+otherOperatingExpenses,,,,,CYM.AX
+interestExpense,-3981,-3263,-3263,-3263,CYM.AX
+extraordinaryItems,,,,,CYM.AX
+nonRecurring,,,,,CYM.AX
+otherItems,,,,,CYM.AX
+incomeTaxExpense,-653969,0,0,0,CYM.AX
+totalRevenue,100000,0,0,633,CYM.AX
+totalOperatingExpenses,1769490,1294336,567752,889605,CYM.AX
+costOfRevenue,0,0,0,0,CYM.AX
+totalOtherIncomeExpenseNet,18155,13201,5590,-5144,CYM.AX
+discontinuedOperations,,-1073067.0,-5330209.0,-5330209.0,CYM.AX
+netIncomeFromContinuingOps,-997366,-1281135,-562162,-894116,CYM.AX
+netIncomeApplicableToCommonShares,-997366,-2354202,-5892371,-894116,CYM.AX

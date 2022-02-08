@@ -1,0 +1,15 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+changeToLiabilities,-71633.0,54540.0,-209466.0,75109.0,CRB.AX
+totalCashflowsFromInvestingActivities,188215.0,-30000.0,-200000.0,-204067.0,CRB.AX
+changeToOperatingActivities,-7178.0,10267.0,-15987.0,-18313.0,CRB.AX
+netIncome,-156814.0,-804771.0,-520502.0,-2506500.0,CRB.AX
+changeInCash,-589900.0,-688889.0,-1005476.0,-2592627.0,CRB.AX
+totalCashFromOperatingActivities,-778115.0,-658889.0,-805476.0,-2520262.0,CRB.AX
+depreciation,12171.0,9058.0,1305.0,2166.0,CRB.AX
+changeToAccountReceivables,5339.0,2017.0,37721.0,-11447.0,CRB.AX
+changeToNetincome,-560000.0,70000.0,-98547.0,-61277.0,CRB.AX
+capitalExpenditures,-11785.0,-30000.0,-30000.0,-4067.0,CRB.AX
+otherCashflowsFromInvestingActivities,,,-200000.0,-200000.0,CRB.AX
+totalCashFromFinancingActivities,,,,131702.0,CRB.AX
+issuanceOfStock,,,,133920.0,CRB.AX
+otherCashflowsFromFinancingActivities,,,,-2218.0,CRB.AX

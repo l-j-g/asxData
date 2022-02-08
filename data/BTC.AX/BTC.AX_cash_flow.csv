@@ -1,0 +1,13 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+investments,500000.0,500000.0,-5999900.0,699900.0,BTC.AX
+changeToLiabilities,-80874.0,-36622.0,67553.0,5741.0,BTC.AX
+totalCashflowsFromInvestingActivities,-15162.0,-861366.0,-6900706.0,118940.0,BTC.AX
+changeToOperatingActivities,106408.0,-56953.0,-112038.0,-61526.0,BTC.AX
+netIncome,-391686.0,-283036.0,-692742.0,-1467834.0,BTC.AX
+changeInCash,-381314.0,-1192632.0,1293292.0,-436584.0,BTC.AX
+totalCashFromOperatingActivities,-366152.0,-492023.0,-655800.0,-555524.0,BTC.AX
+otherCashflowsFromInvestingActivities,-515162.0,-861366.0,-900806.0,-580960.0,BTC.AX
+totalCashFromFinancingActivities,,160757.0,8849798.0,8849798.0,BTC.AX
+issuanceOfStock,,162679.0,9139700.0,9139700.0,BTC.AX
+otherCashflowsFromFinancingActivities,,-1922.0,-289902.0,-289902.0,BTC.AX
+changeToNetincome,,-115412.0,81427.0,968095.0,BTC.AX

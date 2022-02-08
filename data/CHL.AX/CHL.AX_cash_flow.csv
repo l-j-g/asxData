@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,ticker
+changeToLiabilities,8203361.0,1531258.0,1345367.0,CHL.AX
+totalCashflowsFromInvestingActivities,-177356.0,3887450.0,-3528883.0,CHL.AX
+netBorrowings,29780.0,-47357.0,-47357.0,CHL.AX
+totalCashFromFinancingActivities,14197177.0,-47357.0,5200000.0,CHL.AX
+changeToOperatingActivities,2868429.0,-132322.0,215557.0,CHL.AX
+issuanceOfStock,14167397.0,14167397.0,5200000.0,CHL.AX
+netIncome,-2063995.0,-2312430.0,-1635124.0,CHL.AX
+changeInCash,16416142.0,3459053.0,945069.0,CHL.AX
+totalCashFromOperatingActivities,2396321.0,-381040.0,-726048.0,CHL.AX
+depreciation,101278.0,69770.0,29380.0,CHL.AX
+changeToInventory,-150417.0,-15730.0,-15730.0,CHL.AX
+changeToAccountReceivables,-6604641.0,434405.0,-698407.0,CHL.AX
+changeToNetincome,1.0,1948.0,17179.0,CHL.AX
+capitalExpenditures,-140824.0,-112308.0,-15967.0,CHL.AX
+investments,,4000000.0,-3490057.0,CHL.AX

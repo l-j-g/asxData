@@ -1,0 +1,20 @@
+Breakdown,Value,ticker
+zip,2000,CL1.AX
+sector,Technology,CL1.AX
+compensationRisk,7,CL1.AX
+auditRisk,4,CL1.AX
+longBusinessSummary,"Class Limited develops and distributes cloud-based accounting, investment reporting, document and corporate compliance, and administration software for accountants, administrators, and advisers in Australia. The company offers Class Super, a cloud based self-managed super fund administration solution; Class Trust, a cloud solution to simplify and automate trust accounting and administration; Class Portfolio, a cloud software solution for streamlining investment portfolio accounting, administration, and reporting for companies, trusts, and individuals; and NowInfinity, a cloud-based legal documents and entity management solution. Class Limited was incorporated in 2005 and is based in Sydney, Australia.",CL1.AX
+city,Sydney,CL1.AX
+phone,13 0 0851 058,CL1.AX
+state,NSW,CL1.AX
+shareHolderRightsRisk,1,CL1.AX
+compensationAsOfEpochDate,1640908800,CL1.AX
+governanceEpochDate,1643673600,CL1.AX
+boardRisk,2,CL1.AX
+country,Australia,CL1.AX
+website,https://www.class.com.au,CL1.AX
+maxAge,86400,CL1.AX
+overallRisk,2,CL1.AX
+address1,580 George Street,CL1.AX
+industry,Software—Application,CL1.AX
+address2,Level 20,CL1.AX

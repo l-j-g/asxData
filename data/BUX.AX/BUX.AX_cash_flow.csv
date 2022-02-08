@@ -1,0 +1,15 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,18431.0,-77008.0,1933.0,-42243.0,BUX.AX
+changeToOperatingActivities,-345.0,6454.0,-12726.0,806.0,BUX.AX
+netIncome,-1202807.0,-1139600.0,-2608706.0,-3258505.0,BUX.AX
+changeInCash,-1106959.0,-818692.0,2517894.0,-3137677.0,BUX.AX
+totalCashFromOperatingActivities,-1106959.0,-2055793.0,-1950590.0,-3257477.0,BUX.AX
+depreciation,38721.0,109628.0,25448.0,21302.0,BUX.AX
+changeToAccountReceivables,39041.0,23954.0,-24545.0,21163.0,BUX.AX
+totalCashflowsFromInvestingActivities,,1237101.0,-54819.0,-130200.0,BUX.AX
+changeToNetincome,,-979221.0,668006.0,668006.0,BUX.AX
+capitalExpenditures,,-37899.0,-54819.0,-2200.0,BUX.AX
+totalCashFromFinancingActivities,,,4523303.0,250000.0,BUX.AX
+issuanceOfStock,,,4544163.0,250000.0,BUX.AX
+otherCashflowsFromFinancingActivities,,,-20860.0,-20860.0,BUX.AX
+investments,,,,-128000.0,BUX.AX

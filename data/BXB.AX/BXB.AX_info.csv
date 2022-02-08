@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,2000,BXB.AX
+sector,Industrials,BXB.AX
+fullTimeEmployees,12000,BXB.AX
+compensationRisk,1,BXB.AX
+auditRisk,5,BXB.AX
+longBusinessSummary,"Brambles Limited operates as a supply-chain logistics company. The company operates through CHEP North America and Latin America; CHEP Europe, Middle East, Africa and India; and CHEP Australia, New Zealand and Asia, excluding India segments. It engages in the pooling of unit-load equipment and associated services, focusing on the outsourced management of pallets, crates, and containers. The company serves customers in the fast-moving consumer goods, fresh produce, beverage, retail, and general manufacturing industries. Brambles Limited was founded in 1875 and is based in Sydney, Australia.",BXB.AX
+city,Sydney,BXB.AX
+phone,61 2 9256 5222,BXB.AX
+state,NSW,BXB.AX
+shareHolderRightsRisk,1,BXB.AX
+compensationAsOfEpochDate,1640908800,BXB.AX
+governanceEpochDate,1643673600,BXB.AX
+boardRisk,3,BXB.AX
+country,Australia,BXB.AX
+website,https://www.brambles.com,BXB.AX
+maxAge,86400,BXB.AX
+overallRisk,1,BXB.AX
+address1,Angel Place,BXB.AX
+fax,61 2 9256 5299,BXB.AX
+industry,Specialty Business Services,BXB.AX
+address2,Level 10 123 Pitt Street,BXB.AX

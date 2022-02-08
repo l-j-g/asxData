@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,5000,BPT.AX
+sector,Energy,BPT.AX
+compensationRisk,2,BPT.AX
+auditRisk,4,BPT.AX
+longBusinessSummary,"Beach Energy Limited operates as an oil and gas exploration and production company. The company engages in the operated and non-operated, onshore and offshore, and oil and gas production in five producing basins across Australia and New Zealand. It also explores, develops, produces, and transports hydrocarbons; and sells gas and liquid hydrocarbons. As of June 30, 2021, it had a production capacity of 25.6 million barrels of oil equivalent; and 339 million barrels of oil equivalent of proved and probable reserves. The company was formerly known as Beach Petroleum Limited and changed its name to Beach Energy Limited in December 2009. Beach Energy Limited was incorporated in 1961 and is headquartered in Adelaide, Australia.",BPT.AX
+city,Adelaide,BPT.AX
+phone,61 8 8338 2833,BPT.AX
+state,SA,BPT.AX
+shareHolderRightsRisk,7,BPT.AX
+compensationAsOfEpochDate,1640908800,BPT.AX
+governanceEpochDate,1643673600,BPT.AX
+boardRisk,7,BPT.AX
+country,Australia,BPT.AX
+website,https://www.beachenergy.com.au,BPT.AX
+maxAge,86400,BPT.AX
+overallRisk,6,BPT.AX
+address1,80 Flinders Street,BPT.AX
+fax,61 8 8338 2336,BPT.AX
+industry,Oil & Gas E&P,BPT.AX
+address2,Level 8,BPT.AX

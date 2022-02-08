@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,BSX.AX
+effectOfAccountingCharges,,,,,BSX.AX
+incomeBeforeTax,-18821566,-7969580,-4182260,-8438991,BSX.AX
+minorityInterest,3117576,-111585,-111585,-111585,BSX.AX
+netIncome,-14459103,-7894306,-4182260,-8438991,BSX.AX
+sellingGeneralAdministrative,7974145,4552380,1931335,5867443,BSX.AX
+grossProfit,77247,46333,12345,46469,BSX.AX
+ebit,-18583965,-9606038,-4091278,-8355087,BSX.AX
+operatingIncome,-18583965,-9606038,-4091278,-8355087,BSX.AX
+otherOperatingExpenses,-694202,-489699,-88635,-88635,BSX.AX
+interestExpense,-17626,-23810,-23810,-23810,BSX.AX
+extraordinaryItems,,,,,BSX.AX
+nonRecurring,,,,,BSX.AX
+otherItems,,,,,BSX.AX
+incomeTaxExpense,-112440,0,0,0,BSX.AX
+totalRevenue,77247,46333,12345,46469,BSX.AX
+totalOperatingExpenses,18661212,9652371,4103623,8401556,BSX.AX
+costOfRevenue,0,0,0,0,BSX.AX
+totalOtherIncomeExpenseNet,-237601,1636458,-90982,-83904,BSX.AX
+discontinuedOperations,,,,,BSX.AX
+netIncomeFromContinuingOps,-18709126,-7969580,-4182260,-8438991,BSX.AX
+netIncomeApplicableToCommonShares,-14459103,-7894306,-4182260,-8438991,BSX.AX

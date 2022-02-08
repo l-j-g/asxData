@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,CWL.AX
+effectOfAccountingCharges,,,,,CWL.AX
+incomeBeforeTax,-941836,-1019234,-994099,-1658822,CWL.AX
+minorityInterest,,,,,CWL.AX
+netIncome,-426455,6357122,-341370,-1658822,CWL.AX
+sellingGeneralAdministrative,296997,416189,454411,2377833,CWL.AX
+grossProfit,-418386,-429039,-399658,4221430,CWL.AX
+ebit,-818033,-1011145,-976529,-523655,CWL.AX
+operatingIncome,-818033,-1011145,-976529,-523655,CWL.AX
+otherOperatingExpenses,96984,161517,118074,935215,CWL.AX
+interestExpense,-4227,-8149,-3199,-3566,CWL.AX
+extraordinaryItems,,,,,CWL.AX
+nonRecurring,,,,,CWL.AX
+otherItems,,,,,CWL.AX
+incomeTaxExpense,0,0,0,0,CWL.AX
+totalRevenue,0,0,0,8999114,CWL.AX
+totalOperatingExpenses,818033,1011145,976529,9522769,CWL.AX
+costOfRevenue,418386,429039,399658,4777684,CWL.AX
+totalOtherIncomeExpenseNet,-123803,-8089,-17570,-1135167,CWL.AX
+discontinuedOperations,515381,7376356,652729,652729,CWL.AX
+netIncomeFromContinuingOps,-941836,-1019234,-994099,-1658822,CWL.AX
+netIncomeApplicableToCommonShares,-426455,6357122,-341370,-1658822,CWL.AX

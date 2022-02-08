@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,3052,CSL.AX
+sector,Healthcare,CSL.AX
+fullTimeEmployees,25000,CSL.AX
+compensationRisk,4,CSL.AX
+auditRisk,2,CSL.AX
+longBusinessSummary,"CSL Limited researches, develops, manufactures, markets, and distributes biopharmaceutical and allied products in Australia, the United States, Germany, the United Kingdom, Switzerland, China, and internationally. The company operates through two segments, CSL Behring and Seqirus. The CSL Behring segment offers plasma therapies, such as plasma products and recombinants for the treatment of immunodeficiency, bleeding disorders, hereditary angioedema, Alpha-1 antitrypsin deficiency, and neurological disorders. This segment also conducts research on plasma and non-plasma therapies; and receives license and royalty from the commercialization of intellectual property. The Seqirus segment manufactures and distributes non-plasma biotherapeutic products; and develops influenza related products. CSL Limited was founded in 1916 and is headquartered in Parkville, Australia.",CSL.AX
+city,Parkville,CSL.AX
+phone,61 3 9389 1911,CSL.AX
+state,VIC,CSL.AX
+shareHolderRightsRisk,1,CSL.AX
+compensationAsOfEpochDate,1640908800,CSL.AX
+governanceEpochDate,1643673600,CSL.AX
+boardRisk,1,CSL.AX
+country,Australia,CSL.AX
+website,https://www.csl.com.au,CSL.AX
+maxAge,86400,CSL.AX
+overallRisk,1,CSL.AX
+address1,45 Poplar Road,CSL.AX
+fax,61 3 9389 1434,CSL.AX
+industry,Biotechnology,CSL.AX

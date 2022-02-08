@@ -1,0 +1,14 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,286352.0,20269.0,-900.0,1028.0,ERW.AX
+totalCashFromFinancingActivities,5465921.0,56800.0,12850.0,75774.0,ERW.AX
+issuanceOfStock,6160000.0,6160000.0,6160000.0,75774.0,ERW.AX
+netIncome,-3258566.0,-42865.0,6802.0,-292428.0,ERW.AX
+changeInCash,3363744.0,16513.0,-395.0,-45677.0,ERW.AX
+totalCashFromOperatingActivities,-2102177.0,-24032.0,72653.0,-45662.0,ERW.AX
+changeToAccountReceivables,-90626.0,840.0,6310.0,-5432.0,ERW.AX
+otherCashflowsFromFinancingActivities,-694079.0,-694079.0,-694079.0,-694079.0,ERW.AX
+changeToNetincome,960663.0,-2276.0,60441.0,251170.0,ERW.AX
+totalCashflowsFromInvestingActivities,,-16255.0,-85898.0,-75789.0,ERW.AX
+netBorrowings,,56800.0,12850.0,12850.0,ERW.AX
+otherCashflowsFromInvestingActivities,,,27500.0,50000.0,ERW.AX
+investments,,,,128105.0,ERW.AX

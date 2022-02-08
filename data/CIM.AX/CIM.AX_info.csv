@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,2060,CIM.AX
+sector,Industrials,CIM.AX
+fullTimeEmployees,32579,CIM.AX
+compensationRisk,6,CIM.AX
+auditRisk,6,CIM.AX
+longBusinessSummary,"CIMIC Group Limited provides engineering-led construction, mining, services, and public private partnerships services. It operates through Construction, Services, and Corporate and Investments segments. The company constructs various projects, including rail and road developments, social infrastructure projects, infrastructure projects, hospitals, airports, sewerage systems, and PPP projects. It has operations in Australia, Asia, the and Middle East, the Americas, and Africa. The company was formerly known as Leighton Holdings Limited and changed its name to CIMIC Group Limited in April 2015. The company was founded in 1899 and is based in North Sydney, Australia. CIMIC Group Limited is a subsidiary of HOCHTIEF Australia Holdings Limited.",CIM.AX
+city,North Sydney,CIM.AX
+phone,61 2 9925 6666,CIM.AX
+state,NSW,CIM.AX
+shareHolderRightsRisk,1,CIM.AX
+compensationAsOfEpochDate,1609372800,CIM.AX
+governanceEpochDate,1632614400,CIM.AX
+boardRisk,10,CIM.AX
+country,Australia,CIM.AX
+website,https://www.cimic.com.au,CIM.AX
+maxAge,86400,CIM.AX
+overallRisk,10,CIM.AX
+address1,177 Pacific Highway,CIM.AX
+fax,61 2 9925 6000,CIM.AX
+industry,Engineering & Construction,CIM.AX
+address2,Level 25,CIM.AX

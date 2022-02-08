@@ -1,0 +1,15 @@
+Breakdown,Value,ticker
+zip,2142,CTE.AX
+sector,Healthcare,CTE.AX
+fullTimeEmployees,20,CTE.AX
+longBusinessSummary,"Cryosite Limited provides outsourced clinical trials logistic services in Australia. It operates through two segments, Clinical Trials and Biological Services Logistics, and Cord Blood and Tissues Storage. The Clinical Trials and Biological Services Logistics segment provides specialist temperature-controlled storage, labelling, status management, secondary packaging, schedule drug distribution, destruction, returns management, comparator sourcing, import, export, validated transport solutions, and biological storage services to the clinical trial and research industry. The Cord Blood and Tissues Storage segment offers long term storage for cord blood and tissue samples. It serves research, medical, pharmaceutical, veterinary, and biotechnology industries. Cryosite Limited was incorporated in 1999 and is based in South Granville, Australia.",CTE.AX
+city,South Granville,CTE.AX
+phone,61 2 8865 2000,CTE.AX
+state,NSW,CTE.AX
+compensationAsOfEpochDate,1640908800,CTE.AX
+country,Australia,CTE.AX
+website,https://www.cryosite.com,CTE.AX
+maxAge,86400,CTE.AX
+address1,13a Ferndell Street,CTE.AX
+fax,61 2 8865 2090,CTE.AX
+industry,Diagnostics & Research,CTE.AX

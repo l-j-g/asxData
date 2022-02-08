@@ -1,0 +1,15 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,-166238.0,184426.0,251285.0,-112327.0,CSE.AX
+totalCashFromFinancingActivities,1190265.0,-32099.0,3765197.0,4032657.0,CSE.AX
+changeToOperatingActivities,23891.0,-30145.0,-962433.0,-648.0,CSE.AX
+issuanceOfStock,1200000.0,1200000.0,1200000.0,1200000.0,CSE.AX
+netIncome,-486241.0,564889.0,340977.0,-283198.0,CSE.AX
+changeInCash,827575.0,-1886506.0,1492711.0,204226.0,CSE.AX
+totalCashFromOperatingActivities,-362690.0,-305576.0,-279712.0,-266817.0,CSE.AX
+changeToAccountReceivables,-3768.0,160.0,1926.0,1830.0,CSE.AX
+otherCashflowsFromFinancingActivities,-9735.0,-32099.0,-86634.0,-88873.0,CSE.AX
+changeToNetincome,269666.0,-1024906.0,88533.0,88869.0,CSE.AX
+investments,,-1563100.0,-1995275.0,-3574926.0,CSE.AX
+totalCashflowsFromInvestingActivities,,-1548831.0,-1992774.0,-3561614.0,CSE.AX
+otherCashflowsFromInvestingActivities,,14269.0,2501.0,13312.0,CSE.AX
+netBorrowings,,,3851831.0,4121530.0,CSE.AX

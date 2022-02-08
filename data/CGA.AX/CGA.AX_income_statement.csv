@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,CGA.AX
+effectOfAccountingCharges,,,,,CGA.AX
+incomeBeforeTax,-800000,-1163000,-5209000,2598000,CGA.AX
+minorityInterest,,,,,CGA.AX
+netIncome,-800000,-1163000,-5209000,3462000,CGA.AX
+sellingGeneralAdministrative,5172000,4844000,6285000,8581000,CGA.AX
+grossProfit,4388000,3468000,2359000,2631000,CGA.AX
+ebit,-896000,-1386000,-3939000,-6237000,CGA.AX
+operatingIncome,-896000,-1386000,-3939000,-6237000,CGA.AX
+otherOperatingExpenses,,,,,CGA.AX
+interestExpense,-114000,-88000,-52000,-8000,CGA.AX
+extraordinaryItems,,,,,CGA.AX
+nonRecurring,,,,,CGA.AX
+otherItems,,,,,CGA.AX
+incomeTaxExpense,0,0,0,-864000,CGA.AX
+totalRevenue,5510000,4622000,3122000,3478000,CGA.AX
+totalOperatingExpenses,6406000,6008000,7061000,9715000,CGA.AX
+costOfRevenue,1122000,1154000,763000,847000,CGA.AX
+totalOtherIncomeExpenseNet,96000,223000,-1270000,8835000,CGA.AX
+discontinuedOperations,,,,,CGA.AX
+netIncomeFromContinuingOps,-800000,-1163000,-5209000,3462000,CGA.AX
+netIncomeApplicableToCommonShares,-800000,-1163000,-5209000,3462000,CGA.AX

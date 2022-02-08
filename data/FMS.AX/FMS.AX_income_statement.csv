@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,FMS.AX
+effectOfAccountingCharges,,,,,FMS.AX
+incomeBeforeTax,-3482000,-8038000,-5457000,-1793000,FMS.AX
+minorityInterest,,,,,FMS.AX
+netIncome,-3482000,-8086000,-5470000,-1810000,FMS.AX
+sellingGeneralAdministrative,3271000,7612000,5209000,1718000,FMS.AX
+grossProfit,76000,29000,1000,0,FMS.AX
+ebit,-3210000,-7599000,-5233000,-1835000,FMS.AX
+operatingIncome,-3210000,-7599000,-5233000,-1835000,FMS.AX
+otherOperatingExpenses,-1000,-1000,-1000,52000,FMS.AX
+interestExpense,-65000,-210000,-53000,-110000,FMS.AX
+extraordinaryItems,,,,,FMS.AX
+nonRecurring,,,,,FMS.AX
+otherItems,,,,,FMS.AX
+incomeTaxExpense,0,48000,13000,17000,FMS.AX
+totalRevenue,76000,29000,1000,0,FMS.AX
+totalOperatingExpenses,3286000,7628000,5234000,1835000,FMS.AX
+costOfRevenue,0,0,0,0,FMS.AX
+totalOtherIncomeExpenseNet,-272000,-439000,-224000,42000,FMS.AX
+discontinuedOperations,,,,,FMS.AX
+netIncomeFromContinuingOps,-3482000,-8086000,-5470000,-1810000,FMS.AX
+netIncomeApplicableToCommonShares,-3482000,-8086000,-5470000,-1810000,FMS.AX

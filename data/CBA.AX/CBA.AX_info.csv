@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,2000,CBA.AX
+sector,Financial Services,CBA.AX
+fullTimeEmployees,44375,CBA.AX
+compensationRisk,1,CBA.AX
+auditRisk,10,CBA.AX
+longBusinessSummary,"Commonwealth Bank of Australia provides integrated financial services in Australia, New Zealand, and internationally. It operates through Retail Banking Services, Business Banking, Institutional Banking and Markets, and New Zealand segments. The company offers retail, premium, business, offshore, and institutional banking services; and funds management, superannuation, and share broking products and services, as well as car, health, life, income protection, and travel insurance. It offers transaction, savings, foreign currency accounts; term deposits; personal and business loans; overdrafts; equipment finance; credit cards; international payment and trade; and private banking services, as well as home and car loans, and importer finance products. The company also provides advisory services for high net worth individuals; equities trading and margin lending services; debt capital, transaction banking, working capital, and risk management services; and international and foreign exchange services. As of June 30, 2021, it operated 875 branches and 2,492 ATMs. The company was founded in 1911 and is based in Sydney, Australia.",CBA.AX
+city,Sydney,CBA.AX
+phone,61 2 9378 2000,CBA.AX
+state,NSW,CBA.AX
+shareHolderRightsRisk,1,CBA.AX
+compensationAsOfEpochDate,1640908800,CBA.AX
+governanceEpochDate,1632614400,CBA.AX
+boardRisk,1,CBA.AX
+country,Australia,CBA.AX
+website,https://www.commbank.com.au,CBA.AX
+maxAge,86400,CBA.AX
+overallRisk,1,CBA.AX
+address1,Tower 1,CBA.AX
+fax,61 2 9118 7192,CBA.AX
+industry,Banks—Diversified,CBA.AX
+address2,Ground Floor 201 Sussex Street,CBA.AX

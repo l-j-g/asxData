@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,CAD.AX
+effectOfAccountingCharges,,,,,CAD.AX
+incomeBeforeTax,-2586367,-547531,-2561253,-5200659,CAD.AX
+minorityInterest,,,,,CAD.AX
+netIncome,-2586367,-547531,-2561253,-5200659,CAD.AX
+sellingGeneralAdministrative,620121,394653,459806,1117336,CAD.AX
+grossProfit,5000,17500,0,8710,CAD.AX
+ebit,-2454033,-389382,-2139773,-4980367,CAD.AX
+operatingIncome,-2454033,-389382,-2139773,-4980367,CAD.AX
+otherOperatingExpenses,,-200148.0,-2324.0,-2324.0,CAD.AX
+interestExpense,,,-160388.0,-44308.0,CAD.AX
+extraordinaryItems,,,,,CAD.AX
+nonRecurring,,,,,CAD.AX
+otherItems,,,,,CAD.AX
+incomeTaxExpense,0,0,0,0,CAD.AX
+totalRevenue,5000,17500,0,8710,CAD.AX
+totalOperatingExpenses,2459033,406882,2139773,4989077,CAD.AX
+costOfRevenue,0,0,0,0,CAD.AX
+totalOtherIncomeExpenseNet,-132334,-158149,-421480,-220292,CAD.AX
+discontinuedOperations,,,,,CAD.AX
+netIncomeFromContinuingOps,-2586367,-547531,-2561253,-5200659,CAD.AX
+netIncomeApplicableToCommonShares,-2586367,-547531,-2561253,-5200659,CAD.AX

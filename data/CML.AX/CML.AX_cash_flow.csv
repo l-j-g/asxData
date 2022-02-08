@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+investments,-600000.0,-600000.0,-600000.0,-600000.0,CML.AX
+changeToLiabilities,-76222.0,38679.0,10329.0,8405.0,CML.AX
+totalCashflowsFromInvestingActivities,-1478555.0,-1112890.0,-551434.0,-615654.0,CML.AX
+totalCashFromFinancingActivities,767631.0,1385308.0,476523.0,476523.0,CML.AX
+changeToOperatingActivities,100605.0,-61889.0,-87397.0,43903.0,CML.AX
+issuanceOfStock,820886.0,1396756.0,500000.0,500000.0,CML.AX
+netIncome,-1003174.0,-1218482.0,-731828.0,-712708.0,CML.AX
+changeInCash,-1100131.0,-357579.0,-804454.0,-1113335.0,CML.AX
+effectOfExchangeRate,-14425.0,4.0,443.0,443.0,CML.AX
+totalCashFromOperatingActivities,-374782.0,-630001.0,-729986.0,-497681.0,CML.AX
+depreciation,618919.0,47829.0,10467.0,12719.0,CML.AX
+otherCashflowsFromFinancingActivities,-53255.0,-11448.0,-23477.0,-23477.0,CML.AX
+changeToNetincome,-14910.0,563862.0,68443.0,150000.0,CML.AX
+capitalExpenditures,-878555.0,-1112890.0,-767517.0,-610654.0,CML.AX
+otherCashflowsFromInvestingActivities,,,,-5000.0,CML.AX

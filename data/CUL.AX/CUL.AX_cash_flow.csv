@@ -1,0 +1,15 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,-16866.0,9141.0,25365.0,-35570.0,CUL.AX
+totalCashflowsFromInvestingActivities,-872227.0,-495524.0,-678274.0,10000.0,CUL.AX
+totalCashFromFinancingActivities,2365942.0,672200.0,996040.0,597000.0,CUL.AX
+changeToOperatingActivities,18352.0,3846.0,10151.0,348.0,CUL.AX
+issuanceOfStock,2454742.0,690200.0,1026997.0,597000.0,CUL.AX
+netIncome,-1346651.0,-773710.0,-1082812.0,-918006.0,CUL.AX
+changeInCash,1142627.0,-113811.0,-46651.0,-339283.0,CUL.AX
+totalCashFromOperatingActivities,-351088.0,-290488.0,-364417.0,-946283.0,CUL.AX
+depreciation,876475.0,487490.0,677065.0,6833.0,CUL.AX
+changeToAccountReceivables,-1198.0,-17255.0,-3277.0,-11088.0,CUL.AX
+otherCashflowsFromFinancingActivities,-88800.0,-18000.0,-30957.0,-30957.0,CUL.AX
+changeToNetincome,118800.0,118800.0,9091.0,11200.0,CUL.AX
+capitalExpenditures,-872227.0,-495524.0,-678274.0,-678274.0,CUL.AX
+otherCashflowsFromInvestingActivities,,,,10000.0,CUL.AX

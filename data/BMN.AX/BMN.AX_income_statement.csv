@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,BMN.AX
+effectOfAccountingCharges,,,,,BMN.AX
+incomeBeforeTax,-2277000,-2315000,-2255000,-2478000,BMN.AX
+minorityInterest,-47000,52000,-315000,-294000,BMN.AX
+netIncome,-2254000,-2274000,-2231000,-2446000,BMN.AX
+sellingGeneralAdministrative,2306000,2416000,1713000,1725000,BMN.AX
+grossProfit,0,0,0,2000,BMN.AX
+ebit,-2341000,-2469000,-2235000,-2337000,BMN.AX
+operatingIncome,-2341000,-2469000,-2235000,-2337000,BMN.AX
+otherOperatingExpenses,,34000.0,505000.0,591000.0,BMN.AX
+interestExpense,-4000,-10000,-10000,-10000,BMN.AX
+extraordinaryItems,,,,,BMN.AX
+nonRecurring,,,,,BMN.AX
+otherItems,,,,,BMN.AX
+incomeTaxExpense,0,0,0,0,BMN.AX
+totalRevenue,0,0,0,2000,BMN.AX
+totalOperatingExpenses,2341000,2469000,2235000,2339000,BMN.AX
+costOfRevenue,0,0,0,0,BMN.AX
+totalOtherIncomeExpenseNet,64000,154000,-20000,-141000,BMN.AX
+discontinuedOperations,,,,,BMN.AX
+netIncomeFromContinuingOps,-2277000,-2315000,-2255000,-2478000,BMN.AX
+netIncomeApplicableToCommonShares,-2254000,-2274000,-2231000,-2446000,BMN.AX

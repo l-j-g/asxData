@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,BRU.AX
+effectOfAccountingCharges,,,,,BRU.AX
+incomeBeforeTax,-28823000,-27534000,29737000,-6217000,BRU.AX
+minorityInterest,,,,,BRU.AX
+netIncome,-28823000,-27534000,29737000,-6217000,BRU.AX
+sellingGeneralAdministrative,1676000,6508000,6260000,6785000,BRU.AX
+grossProfit,2600000,6643000,9303000,3462000,BRU.AX
+ebit,-8995000,-22220000,-7226000,-5109000,BRU.AX
+operatingIncome,-8995000,-22220000,-7226000,-5109000,BRU.AX
+otherOperatingExpenses,,,,-455000.0,BRU.AX
+interestExpense,-86000,-343000,-375000,-1511000,BRU.AX
+extraordinaryItems,,,,,BRU.AX
+nonRecurring,,,,,BRU.AX
+otherItems,,,,,BRU.AX
+incomeTaxExpense,0,0,0,0,BRU.AX
+totalRevenue,11304000,13776000,19877000,7893000,BRU.AX
+totalOperatingExpenses,20299000,35996000,27103000,13002000,BRU.AX
+costOfRevenue,8704000,7133000,10574000,4431000,BRU.AX
+totalOtherIncomeExpenseNet,-19828000,-5314000,36963000,-1108000,BRU.AX
+discontinuedOperations,,,,,BRU.AX
+netIncomeFromContinuingOps,-28823000,-27534000,29737000,-6217000,BRU.AX
+netIncomeApplicableToCommonShares,-28823000,-27534000,29737000,-6217000,BRU.AX

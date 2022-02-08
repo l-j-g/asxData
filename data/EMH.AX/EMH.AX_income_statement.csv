@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,-289335,-289335,-289335,-289335,EMH.AX
+effectOfAccountingCharges,,,,,EMH.AX
+incomeBeforeTax,-3962450,-4608729,-2965351,-4655209,EMH.AX
+minorityInterest,,,,,EMH.AX
+netIncome,-3962450,2813807,-3252815,-4655209,EMH.AX
+sellingGeneralAdministrative,2787229,2751699,2038403,2031141,EMH.AX
+grossProfit,1169152,231079,357205,645554,EMH.AX
+ebit,-2452348,-5004284,-2895236,-4501964,EMH.AX
+operatingIncome,-2452348,-5004284,-2895236,-4501964,EMH.AX
+otherOperatingExpenses,127240,43128,33604,17672,EMH.AX
+interestExpense,,,,,EMH.AX
+extraordinaryItems,,,,,EMH.AX
+nonRecurring,,,,,EMH.AX
+otherItems,,,,,EMH.AX
+incomeTaxExpense,0,0,0,0,EMH.AX
+totalRevenue,1169152,231079,357205,645554,EMH.AX
+totalOperatingExpenses,3621500,5235363,3252441,5147518,EMH.AX
+costOfRevenue,0,0,0,0,EMH.AX
+totalOtherIncomeExpenseNet,-1510102,395555,-70115,-153245,EMH.AX
+discontinuedOperations,,7422536.0,-287464.0,-287464.0,EMH.AX
+netIncomeFromContinuingOps,-3962450,-4608729,-2965351,-4655209,EMH.AX
+netIncomeApplicableToCommonShares,-3962450,2813807,-3252815,-4655209,EMH.AX

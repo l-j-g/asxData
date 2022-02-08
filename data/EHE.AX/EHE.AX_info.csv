@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,2000,EHE.AX
+sector,Healthcare,EHE.AX
+fullTimeEmployees,7500,EHE.AX
+compensationRisk,2,EHE.AX
+auditRisk,2,EHE.AX
+longBusinessSummary,"Estia Health Limited provides services in residential aged care homes in Australia. It operates residential aged care homes. As of June 30, 2021, the company had 69 residential aged care homes of which 62 are freehold sites that include 6,289 operational bed licenses in New South Wales, Queensland, South Australia, and Victoria. Estia Health Limited was founded in 2005 and is based in Sydney, Australia.",EHE.AX
+city,Sydney,EHE.AX
+phone,61 2 9265 7900,EHE.AX
+state,NSW,EHE.AX
+shareHolderRightsRisk,1,EHE.AX
+compensationAsOfEpochDate,1640908800,EHE.AX
+governanceEpochDate,1643673600,EHE.AX
+boardRisk,3,EHE.AX
+country,Australia,EHE.AX
+website,https://www.estiahealth.com.au,EHE.AX
+maxAge,86400,EHE.AX
+overallRisk,1,EHE.AX
+address1,227 Elizabeth Street,EHE.AX
+fax,61 3 9804 0336,EHE.AX
+industry,Medical Care Facilities,EHE.AX
+address2,Level 9,EHE.AX

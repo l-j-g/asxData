@@ -1,0 +1,17 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+investments,150000,776100,150000,150000,ENT.AX
+changeToLiabilities,10700,43656,-102146,33701,ENT.AX
+totalCashflowsFromInvestingActivities,139799,720622,-110773,-233016,ENT.AX
+netBorrowings,-16200,-16200,-16200,-16200,ENT.AX
+totalCashFromFinancingActivities,1888933,691420,616296,313414,ENT.AX
+changeToOperatingActivities,749,-1983,-2725,-374,ENT.AX
+issuanceOfStock,1918729,724562,637600,328000,ENT.AX
+netIncome,-1654354,-826073,-467608,-862616,ENT.AX
+changeInCash,474565,676670,114095,-173528,ENT.AX
+totalCashFromOperatingActivities,-1554167,-735372,-391428,-253926,ENT.AX
+depreciation,30866,26596,170852,514007,ENT.AX
+otherCashflowsFromInvestingActivities,5909,5909,5909,5909,ENT.AX
+changeToAccountReceivables,-30251,-8449,-4801,8920,ENT.AX
+otherCashflowsFromFinancingActivities,-13596,-33142,-21304,-14586,ENT.AX
+changeToNetincome,88123,30881,15000,51109,ENT.AX
+capitalExpenditures,-16110,-55478,-260773,-233016,ENT.AX

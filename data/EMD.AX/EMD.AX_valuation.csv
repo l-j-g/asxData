@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,EMD.AX
+1,Enterprise Value,,EMD.AX
+2,Trailing P/E,,EMD.AX
+3,Forward P/E,,EMD.AX
+4,PEG Ratio (5 yr expected),,EMD.AX
+5,Price/Sales (ttm),,EMD.AX
+6,Price/Book (mrq),,EMD.AX
+7,Enterprise Value/Revenue,,EMD.AX
+8,Enterprise Value/EBITDA,,EMD.AX

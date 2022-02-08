@@ -1,0 +1,15 @@
+Breakdown,Value,ticker
+zip,3000,EX1.AX
+sector,Healthcare,EX1.AX
+fullTimeEmployees,41,EX1.AX
+longBusinessSummary,"Exopharm Limited, a clinical-stage company, develops transformative medicines based upon extracellular vesicles (EVs) in Australia. The company's technology includes extracellular vesicle positioning system that allows specific molecules to be attached to the surface of exosomes to guide them to target tissues or cell types; leveraging oligonucleotide packing for amplified dosing, which enables specific RNA molecules to be preferentially loaded into exosomes as a therapeutic cargo; ligand-based exosome affinity purification that isolates and purifies exosomes from biofluids like blood and cell culture media. Its engineered EVs products comprise Fortrexo CoV for the treatment of SARS-CoV-2 infection; Cognevo for the treatment of neuro degeneration; and PlexoDox for the treatment of cancer. Exopharm Limited has a research collaboration with Showa Denko Materials Co., Ltd. The company was incorporated in 2013 and is based in Melbourne, Australia.",EX1.AX
+city,Melbourne,EX1.AX
+phone,61 3 9111 0026,EX1.AX
+state,VIC,EX1.AX
+compensationAsOfEpochDate,1640908800,EX1.AX
+country,Australia,EX1.AX
+website,https://www.exopharm.com,EX1.AX
+maxAge,86400,EX1.AX
+address1,31 Queen Street,EX1.AX
+industry,Biotechnology,EX1.AX
+address2,Level 17,EX1.AX

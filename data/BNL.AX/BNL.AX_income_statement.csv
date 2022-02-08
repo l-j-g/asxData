@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,BNL.AX
+effectOfAccountingCharges,,,,,BNL.AX
+incomeBeforeTax,-1690123,-906955,-1461259,-2373407,BNL.AX
+minorityInterest,,,,,BNL.AX
+netIncome,-1690123,-906955,46697294,-2373407,BNL.AX
+sellingGeneralAdministrative,878740,330178,257317,1264794,BNL.AX
+grossProfit,-41696,-34775,-372602,-141325,BNL.AX
+ebit,-1700441,-958877,-1464462,-2445390,BNL.AX
+operatingIncome,-1700441,-958877,-1464462,-2445390,BNL.AX
+otherOperatingExpenses,667930,396512,584781,953138,BNL.AX
+interestExpense,,,,,BNL.AX
+extraordinaryItems,,,,,BNL.AX
+nonRecurring,,,,,BNL.AX
+otherItems,,,,,BNL.AX
+incomeTaxExpense,0,0,0,0,BNL.AX
+totalRevenue,5635,10793,50249,345509,BNL.AX
+totalOperatingExpenses,1706076,969670,1514711,2790899,BNL.AX
+costOfRevenue,47331,45568,422851,486834,BNL.AX
+totalOtherIncomeExpenseNet,10318,51922,3203,71983,BNL.AX
+discontinuedOperations,,,48158553.0,48158553.0,BNL.AX
+netIncomeFromContinuingOps,-1690123,-906955,-1461259,-2373407,BNL.AX
+netIncomeApplicableToCommonShares,-1690123,-906955,46697294,-2373407,BNL.AX

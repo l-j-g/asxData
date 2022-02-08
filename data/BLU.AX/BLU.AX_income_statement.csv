@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,BLU.AX
+effectOfAccountingCharges,,,,,BLU.AX
+incomeBeforeTax,-995000,-5057000,-5880000,-1577000,BLU.AX
+minorityInterest,,,,,BLU.AX
+netIncome,-995000,-5057000,-5880000,-1577000,BLU.AX
+sellingGeneralAdministrative,1037000,1052000,1210000,1176000,BLU.AX
+grossProfit,0,0,0,-36000,BLU.AX
+ebit,-1037000,-5210000,-5926000,-1631000,BLU.AX
+operatingIncome,-1037000,-5210000,-5926000,-1631000,BLU.AX
+otherOperatingExpenses,,,,,BLU.AX
+interestExpense,,,,,BLU.AX
+extraordinaryItems,,,,,BLU.AX
+nonRecurring,,,,,BLU.AX
+otherItems,,,,,BLU.AX
+incomeTaxExpense,0,0,0,0,BLU.AX
+totalRevenue,0,0,0,0,BLU.AX
+totalOperatingExpenses,1037000,5210000,5926000,1631000,BLU.AX
+costOfRevenue,0,0,0,36000,BLU.AX
+totalOtherIncomeExpenseNet,42000,153000,46000,54000,BLU.AX
+discontinuedOperations,,,,,BLU.AX
+netIncomeFromContinuingOps,-995000,-5057000,-5880000,-1577000,BLU.AX
+netIncomeApplicableToCommonShares,-995000,-5057000,-5880000,-1577000,BLU.AX

@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,ECX.AX
+1,Enterprise Value,,ECX.AX
+2,Trailing P/E,,ECX.AX
+3,Forward P/E,,ECX.AX
+4,PEG Ratio (5 yr expected),,ECX.AX
+5,Price/Sales (ttm),,ECX.AX
+6,Price/Book (mrq),,ECX.AX
+7,Enterprise Value/Revenue,,ECX.AX
+8,Enterprise Value/EBITDA,,ECX.AX

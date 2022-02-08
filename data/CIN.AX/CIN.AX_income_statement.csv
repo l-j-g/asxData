@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,CIN.AX
+effectOfAccountingCharges,,,,,CIN.AX
+incomeBeforeTax,21078000,39231000,46419000,42390000,CIN.AX
+minorityInterest,,,,,CIN.AX
+netIncome,21029000,38115000,45526000,41665000,CIN.AX
+sellingGeneralAdministrative,870000,916000,870000,835000,CIN.AX
+grossProfit,21960000,40159000,47301000,43237000,CIN.AX
+ebit,21090000,39243000,46431000,42402000,CIN.AX
+operatingIncome,21090000,39243000,46431000,42402000,CIN.AX
+otherOperatingExpenses,,,,,CIN.AX
+interestExpense,-12000,-12000,-12000,-12000,CIN.AX
+extraordinaryItems,,,,,CIN.AX
+nonRecurring,,,,,CIN.AX
+otherItems,,,,,CIN.AX
+incomeTaxExpense,49000,1116000,893000,725000,CIN.AX
+totalRevenue,21960000,40159000,47301000,43237000,CIN.AX
+totalOperatingExpenses,870000,916000,870000,835000,CIN.AX
+costOfRevenue,0,0,0,0,CIN.AX
+totalOtherIncomeExpenseNet,-12000,-12000,-12000,-12000,CIN.AX
+discontinuedOperations,,,,,CIN.AX
+netIncomeFromContinuingOps,21029000,38115000,45526000,41665000,CIN.AX
+netIncomeApplicableToCommonShares,21029000,38115000,45526000,41665000,CIN.AX

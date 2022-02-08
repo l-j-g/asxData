@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,-66403.0,-75656.0,-272662.0,556034.0,FGL.AX
+netBorrowings,-223158.0,100038.0,-315817.0,-315817.0,FGL.AX
+totalCashFromFinancingActivities,1480192.0,1685970.0,2283248.0,2610668.0,FGL.AX
+issuanceOfStock,1845000.0,1660000.0,2599065.0,2745380.0,FGL.AX
+netIncome,-1230250.0,-1350676.0,-3157934.0,-6004172.0,FGL.AX
+changeInCash,-17259.0,78022.0,-95544.0,-634548.0,FGL.AX
+totalCashFromOperatingActivities,-1497451.0,-1428835.0,-1958806.0,-2454623.0,FGL.AX
+changeToAccountReceivables,22603.0,46760.0,64447.0,-33153.0,FGL.AX
+otherCashflowsFromFinancingActivities,-141650.0,-74068.0,-74068.0,-134712.0,FGL.AX
+changeToNetincome,-223401.0,-107012.0,1328780.0,2999430.0,FGL.AX
+investments,,-60000.0,-60000.0,-60000.0,FGL.AX
+totalCashflowsFromInvestingActivities,,-179113.0,-415214.0,-800433.0,FGL.AX
+depreciation,,57749.0,78563.0,27238.0,FGL.AX
+effectOfExchangeRate,,,-4772.0,9840.0,FGL.AX
+capitalExpenditures,,,-22179.0,-13087.0,FGL.AX

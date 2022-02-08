@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,4007,DMP.AX
+sector,Consumer Cyclical,DMP.AX
+fullTimeEmployees,88000,DMP.AX
+compensationRisk,2,DMP.AX
+auditRisk,5,DMP.AX
+longBusinessSummary,"Domino's Pizza Enterprises Limited operates retail food outlets. The company holds franchise rights for the Domino's brand in Australia, New Zealand, Belgium, France, the Netherlands, Japan, Germany, Luxembourg, Denmark, and Taiwan. It operates a network of approximately 2,949 stores. Domino's Pizza Enterprises Limited was incorporated in 1983 and is based in Brisbane, Australia.",DMP.AX
+city,Brisbane,DMP.AX
+phone,61 7 3633 3333,DMP.AX
+state,QLD,DMP.AX
+shareHolderRightsRisk,7,DMP.AX
+compensationAsOfEpochDate,1640908800,DMP.AX
+governanceEpochDate,1632614400,DMP.AX
+boardRisk,8,DMP.AX
+country,Australia,DMP.AX
+website,https://www.dominos.com.au,DMP.AX
+maxAge,86400,DMP.AX
+overallRisk,7,DMP.AX
+address1,KSD1,DMP.AX
+industry,Restaurants,DMP.AX
+address2,Level 1 485 Kingsford Smith Drive Hamilton,DMP.AX

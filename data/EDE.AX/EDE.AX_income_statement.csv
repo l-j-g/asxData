@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,EDE.AX
+effectOfAccountingCharges,,,,,EDE.AX
+incomeBeforeTax,-5758759,-9133782,-9290007,-11007030,EDE.AX
+minorityInterest,,,,,EDE.AX
+netIncome,-5758759,-9105991,-9216320,-10824707,EDE.AX
+sellingGeneralAdministrative,5233910,7058138,7636213,7355821,EDE.AX
+grossProfit,2342983,1871567,1956086,1114680,EDE.AX
+ebit,-5116064,-8675820,-9246947,-10887710,EDE.AX
+operatingIncome,-5116064,-8675820,-9246947,-10887710,EDE.AX
+otherOperatingExpenses,946245,2199101,2477458,3623225,EDE.AX
+interestExpense,-747810,-477371,-34167,-24572,EDE.AX
+extraordinaryItems,,,,,EDE.AX
+nonRecurring,,,,,EDE.AX
+otherItems,,,,,EDE.AX
+incomeTaxExpense,0,-27791,-73687,-182323,EDE.AX
+totalRevenue,3290202,2431139,2362947,1323212,EDE.AX
+totalOperatingExpenses,8406266,11106959,11609894,12210922,EDE.AX
+costOfRevenue,947219,559572,406861,208532,EDE.AX
+totalOtherIncomeExpenseNet,-642695,-457962,-43060,-119320,EDE.AX
+discontinuedOperations,,,,,EDE.AX
+netIncomeFromContinuingOps,-5758759,-9105991,-9216320,-10824707,EDE.AX
+netIncomeApplicableToCommonShares,-5758759,-9105991,-9216320,-10824707,EDE.AX

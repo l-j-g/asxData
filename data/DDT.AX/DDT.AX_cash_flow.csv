@@ -1,0 +1,18 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,-37770.0,-249753.0,-81575.0,-191008.0,DDT.AX
+totalCashflowsFromInvestingActivities,-14162.0,-40239.0,-64311.0,-139414.0,DDT.AX
+changeToOperatingActivities,-103066.0,-237288.0,-45774.0,-295858.0,DDT.AX
+netIncome,1234982.0,29203.0,-2301317.0,-3119910.0,DDT.AX
+changeInCash,1323034.0,810573.0,-930501.0,-642922.0,DDT.AX
+effectOfExchangeRate,-17025.0,1243.0,25420.0,31942.0,DDT.AX
+totalCashFromOperatingActivities,1354221.0,-463110.0,-1441610.0,-533612.0,DDT.AX
+depreciation,450475.0,177833.0,166104.0,242087.0,DDT.AX
+otherCashflowsFromInvestingActivities,567.0,639.0,1015.0,18558.0,DDT.AX
+changeToInventory,53769.0,159675.0,192767.0,122557.0,DDT.AX
+changeToAccountReceivables,-77907.0,-347517.0,230333.0,164277.0,DDT.AX
+changeToNetincome,-164517.0,4737.0,326257.0,2323680.0,DDT.AX
+capitalExpenditures,-14729.0,-40878.0,-58397.0,-14419.0,DDT.AX
+netBorrowings,,-552323.0,550000.0,550000.0,DDT.AX
+totalCashFromFinancingActivities,,1312679.0,550000.0,-1838.0,DDT.AX
+issuanceOfStock,,1889646.0,1889646.0,1889646.0,DDT.AX
+otherCashflowsFromFinancingActivities,,-24644.0,-24644.0,-1838.0,DDT.AX

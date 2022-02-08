@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,CHR.AX
+1,Enterprise Value,,CHR.AX
+2,Trailing P/E,,CHR.AX
+3,Forward P/E,,CHR.AX
+4,PEG Ratio (5 yr expected),,CHR.AX
+5,Price/Sales (ttm),,CHR.AX
+6,Price/Book (mrq),,CHR.AX
+7,Enterprise Value/Revenue,,CHR.AX
+8,Enterprise Value/EBITDA,,CHR.AX

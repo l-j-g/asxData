@@ -1,0 +1,17 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,54343.0,36797.0,-262039.0,-154463.0,DMC.AX
+totalCashflowsFromInvestingActivities,-5652.0,-501016.0,-503766.0,-3020.0,DMC.AX
+totalCashFromFinancingActivities,2110524.0,1814410.0,796703.0,4892124.0,DMC.AX
+changeToOperatingActivities,28331.0,14585.0,-50743.0,-41267.0,DMC.AX
+issuanceOfStock,2137491.0,1626305.0,841875.0,5227992.0,DMC.AX
+netIncome,-1012844.0,-1958206.0,-2643241.0,-2691460.0,DMC.AX
+changeInCash,832724.0,41301.0,-2440968.0,2243713.0,DMC.AX
+totalCashFromOperatingActivities,-1272148.0,-1272093.0,-2733905.0,-2645391.0,DMC.AX
+depreciation,28888.0,77640.0,144179.0,191613.0,DMC.AX
+changeToInventory,-8701.0,55848.0,20028.0,10637.0,DMC.AX
+changeToAccountReceivables,-305017.0,147413.0,-168629.0,30574.0,DMC.AX
+otherCashflowsFromFinancingActivities,-26967.0,147434.0,-45172.0,-335868.0,DMC.AX
+changeToNetincome,-57148.0,353830.0,226540.0,8975.0,DMC.AX
+capitalExpenditures,-5652.0,-1016.0,-4416.0,-3925.0,DMC.AX
+netBorrowings,,40671.0,40671.0,40671.0,DMC.AX
+otherCashflowsFromInvestingActivities,,,650.0,905.0,DMC.AX

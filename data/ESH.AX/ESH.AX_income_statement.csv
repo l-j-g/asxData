@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,ESH.AX
+effectOfAccountingCharges,,,,,ESH.AX
+incomeBeforeTax,-5483432,-5920945,-4150737,-8296836,ESH.AX
+minorityInterest,,,,-28745.0,ESH.AX
+netIncome,-5483432,-5920945,-4113250,-8504738,ESH.AX
+sellingGeneralAdministrative,3493824,4044446,2486175,1665584,ESH.AX
+grossProfit,-160997,-755362,14022,42637,ESH.AX
+ebit,-3922316,-5042621,-3240117,-2455541,ESH.AX
+operatingIncome,-3922316,-5042621,-3240117,-2455541,ESH.AX
+otherOperatingExpenses,-153872,-153872,-153872,-153872,ESH.AX
+interestExpense,-18945,-16670,-10206,-4262,ESH.AX
+extraordinaryItems,,,,,ESH.AX
+nonRecurring,,,,,ESH.AX
+otherItems,,,,,ESH.AX
+incomeTaxExpense,0,0,0,0,ESH.AX
+totalRevenue,303621,86991,14022,42637,ESH.AX
+totalOperatingExpenses,4225937,5129612,3254139,2498178,ESH.AX
+costOfRevenue,464618,842353,0,0,ESH.AX
+totalOtherIncomeExpenseNet,-1561116,-878324,-910620,-5841295,ESH.AX
+discontinuedOperations,,,311.0,-207902.0,ESH.AX
+netIncomeFromContinuingOps,-5483432,-5920945,-4150737,-8296836,ESH.AX
+netIncomeApplicableToCommonShares,-5483432,-5920945,-4113250,-8504738,ESH.AX

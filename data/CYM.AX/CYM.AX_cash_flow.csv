@@ -1,0 +1,18 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+changeToLiabilities,64915.0,210487.0,-78297.0,30178.0,CYM.AX
+totalCashflowsFromInvestingActivities,-2687727.0,-1856341.0,-147780.0,-40865.0,CYM.AX
+netBorrowings,-39438.0,-22002.0,-22002.0,-22002.0,CYM.AX
+totalCashFromFinancingActivities,5564097.0,4257022.0,1914445.0,579979.0,CYM.AX
+changeToOperatingActivities,33675.0,-28879.0,28799.0,10524.0,CYM.AX
+issuanceOfStock,6000000.0,4561500.0,1963159.0,607904.0,CYM.AX
+netIncome,-997366.0,-2354202.0,-5892371.0,-894116.0,CYM.AX
+changeInCash,1907637.0,1555286.0,1171279.0,-60513.0,CYM.AX
+totalCashFromOperatingActivities,-968733.0,-845395.0,-594681.0,-594522.0,CYM.AX
+depreciation,40353.0,24280.0,24280.0,247107.0,CYM.AX
+changeToAccountReceivables,-3153.0,47565.0,12448.0,81.0,CYM.AX
+otherCashflowsFromFinancingActivities,-396465.0,-282476.0,-48714.0,-27925.0,CYM.AX
+changeToNetincome,-107157.0,1255354.0,5334740.0,11704.0,CYM.AX
+capitalExpenditures,-2687727.0,-1633004.0,-1633004.0,-40865.0,CYM.AX
+investments,,-100000.0,-100000.0,-100000.0,CYM.AX
+otherCashflowsFromInvestingActivities,,-127354.0,-152468.0,-152468.0,CYM.AX
+effectOfExchangeRate,,,-705.0,-5105.0,CYM.AX

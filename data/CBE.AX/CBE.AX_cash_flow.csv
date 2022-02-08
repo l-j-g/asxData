@@ -1,0 +1,17 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,ticker
+investments,-498279.0,-498279.0,-498279.0,CBE.AX
+changeToLiabilities,63645.0,19336.0,138462.0,CBE.AX
+totalCashflowsFromInvestingActivities,-3068172.0,-1713527.0,-252529.0,CBE.AX
+totalCashFromFinancingActivities,5210424.0,10184928.0,417222.0,CBE.AX
+changeToOperatingActivities,-27850.0,-20000.0,-20000.0,CBE.AX
+issuanceOfStock,5602096.0,10875286.0,438017.0,CBE.AX
+netIncome,-2747597.0,-1972245.0,-138655.0,CBE.AX
+changeInCash,974652.0,6993664.0,164500.0,CBE.AX
+totalCashFromOperatingActivities,-1167600.0,-1477737.0,-194.0,CBE.AX
+depreciation,1525.0,172.0,172.0,CBE.AX
+otherCashflowsFromInvestingActivities,-271241.0,-271241.0,-271241.0,CBE.AX
+changeToAccountReceivables,85213.0,-77703.0,-77703.0,CBE.AX
+otherCashflowsFromFinancingActivities,-391672.0,-690358.0,-24948.0,CBE.AX
+changeToNetincome,1457464.0,572703.0,572703.0,CBE.AX
+capitalExpenditures,-2298652.0,-1185527.0,-273244.0,CBE.AX
+netBorrowings,,,4154.0,CBE.AX

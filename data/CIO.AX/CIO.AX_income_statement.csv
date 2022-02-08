@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,CIO.AX
+effectOfAccountingCharges,,,,,CIO.AX
+incomeBeforeTax,-5692742,-2392816,-1999966,-5020996,CIO.AX
+minorityInterest,,,,,CIO.AX
+netIncome,-5692742,-2392816,-1999966,-4922329,CIO.AX
+sellingGeneralAdministrative,2213163,3574504,3196181,4686010,CIO.AX
+grossProfit,504749,1486498,1425706,-154609,CIO.AX
+ebit,-3230990,-2207560,-1804735,-4873848,CIO.AX
+operatingIncome,-3230990,-2207560,-1804735,-4873848,CIO.AX
+otherOperatingExpenses,,,,,CIO.AX
+interestExpense,-112943,-318524,-195574,-152111,CIO.AX
+extraordinaryItems,,,,,CIO.AX
+nonRecurring,,,,,CIO.AX
+otherItems,,,,,CIO.AX
+incomeTaxExpense,0,0,0,0,CIO.AX
+totalRevenue,1196657,3817964,2598084,1669943,CIO.AX
+totalOperatingExpenses,4427647,6025524,4402819,6543791,CIO.AX
+costOfRevenue,691908,2331466,1172378,1824552,CIO.AX
+totalOtherIncomeExpenseNet,-2461752,-185256,-195231,-147148,CIO.AX
+discontinuedOperations,,,,98667.0,CIO.AX
+netIncomeFromContinuingOps,-5692742,-2392816,-1999966,-5020996,CIO.AX
+netIncomeApplicableToCommonShares,-5692742,-2392816,-1999966,-4922329,CIO.AX

@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,CGA.AX
+1,Enterprise Value,,CGA.AX
+2,Trailing P/E,,CGA.AX
+3,Forward P/E,,CGA.AX
+4,PEG Ratio (5 yr expected),,CGA.AX
+5,Price/Sales (ttm),,CGA.AX
+6,Price/Book (mrq),,CGA.AX
+7,Enterprise Value/Revenue,,CGA.AX
+8,Enterprise Value/EBITDA,,CGA.AX

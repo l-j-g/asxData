@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,2000,CCP.AX
+sector,Financial Services,CCP.AX
+fullTimeEmployees,1733,CCP.AX
+compensationRisk,3,CCP.AX
+auditRisk,4,CCP.AX
+longBusinessSummary,"Credit Corp Group Limited provides debt purchase and collection, and consumer lending services in Australia and the United States. The company operates through three segments: Debt Ledger Purchasing Â Australia and New Zealand, Debt Ledger Purchasing Â United States, and Consumer Lending Â Australia and New Zealand. The company offers debt sale, contingency and agency collection, local government debt recovery, and hardship and insolvency management services, as well as various loan products. It provides financial services under the Wallet Wizard, ClearCash, CarStart Finance, Resolvr, and Wizpay brands. Credit Corp Group Limited was founded in 1992 and is headquartered in Sydney, Australia.",CCP.AX
+city,Sydney,CCP.AX
+phone,61 2 8651 5000,CCP.AX
+state,NSW,CCP.AX
+shareHolderRightsRisk,5,CCP.AX
+compensationAsOfEpochDate,1640908800,CCP.AX
+governanceEpochDate,1632614400,CCP.AX
+boardRisk,6,CCP.AX
+country,Australia,CCP.AX
+website,https://www.creditcorp.com.au,CCP.AX
+maxAge,86400,CCP.AX
+overallRisk,4,CCP.AX
+address1,201 Kent Street,CCP.AX
+fax,1300 483 012,CCP.AX
+industry,Credit Services,CCP.AX
+address2,Level 15,CCP.AX

@@ -1,0 +1,12 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+investments,132263.0,132263.0,132263.0,132263.0,E79.AX
+changeToLiabilities,11646.0,-12980.0,406.0,5824.0,E79.AX
+totalCashflowsFromInvestingActivities,132263.0,132263.0,132263.0,132263.0,E79.AX
+totalCashFromFinancingActivities,-20250.0,-20250.0,-20250.0,-20250.0,E79.AX
+netIncome,22731.0,-159329.0,-53934.0,-73215.0,E79.AX
+changeInCash,10180.0,-175492.0,-52472.0,-65199.0,E79.AX
+totalCashFromOperatingActivities,-101833.0,-175492.0,-52472.0,-65199.0,E79.AX
+changeToAccountReceivables,-3947.0,-3183.0,403.0,2192.0,E79.AX
+otherCashflowsFromFinancingActivities,-20250.0,-20250.0,-20250.0,-20250.0,E79.AX
+changeToNetincome,-132263.0,-132263.0,-132263.0,-132263.0,E79.AX
+depreciation,,,653.0,653.0,E79.AX

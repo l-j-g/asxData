@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,18629.0,-150664.0,100396.0,119311.0,BXN.AX
+netBorrowings,-46783.0,-52325.0,-52325.0,-52325.0,BXN.AX
+totalCashFromFinancingActivities,-46783.0,-52325.0,-52325.0,1348602.0,BXN.AX
+netIncome,-495725.0,-593095.0,-1265882.0,-1311840.0,BXN.AX
+changeInCash,-145676.0,-20023.0,-1541995.0,-565960.0,BXN.AX
+effectOfExchangeRate,-152027.0,13909.0,20732.0,112195.0,BXN.AX
+totalCashFromOperatingActivities,53134.0,48249.0,-1390362.0,-1855355.0,BXN.AX
+depreciation,67600.0,96619.0,17885.0,13296.0,BXN.AX
+changeToInventory,398425.0,-54324.0,-84939.0,-527330.0,BXN.AX
+changeToAccountReceivables,15683.0,483562.0,-241898.0,-259223.0,BXN.AX
+changeToNetincome,28858.0,169211.0,39532.0,110163.0,BXN.AX
+totalCashflowsFromInvestingActivities,,-33662.0,-172365.0,-171402.0,BXN.AX
+capitalExpenditures,,-33662.0,-63667.0,-171402.0,BXN.AX
+issuanceOfStock,,,,1361540.0,BXN.AX
+otherCashflowsFromFinancingActivities,,,,-12938.0,BXN.AX

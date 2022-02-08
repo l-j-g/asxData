@@ -1,0 +1,17 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,162279.0,127263.0,188011.0,248245.0,COY.AX
+totalCashflowsFromInvestingActivities,-513396.0,-2090392.0,-1947719.0,-1185209.0,COY.AX
+netBorrowings,-44028.0,-42791.0,-42791.0,-5764.0,COY.AX
+totalCashFromFinancingActivities,-44028.0,5960989.0,2367088.0,2696063.0,COY.AX
+changeToOperatingActivities,11940.0,-18176.0,-18176.0,-7191.0,COY.AX
+netIncome,-1045713.0,-1212613.0,-875980.0,-627966.0,COY.AX
+changeInCash,-1230355.0,3074613.0,-67199.0,1061102.0,COY.AX
+effectOfExchangeRate,-1599.0,-5888.0,-252.0,241.0,COY.AX
+totalCashFromOperatingActivities,-671332.0,-790096.0,-486316.0,-449993.0,COY.AX
+depreciation,47180.0,40634.0,5251.0,7421.0,COY.AX
+changeToAccountReceivables,-29244.0,15526.0,-22938.0,1001.0,COY.AX
+changeToNetincome,182226.0,257270.0,219340.0,-71503.0,COY.AX
+capitalExpenditures,-513396.0,-2090392.0,-1947719.0,-1182811.0,COY.AX
+issuanceOfStock,,6062560.0,2417674.0,2870000.0,COY.AX
+otherCashflowsFromFinancingActivities,,-58780.0,-50586.0,-168173.0,COY.AX
+otherCashflowsFromInvestingActivities,,,,-2398.0,COY.AX

@@ -1,0 +1,18 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,-171417.0,0.0,-241366.0,0.0,FIJ.AX
+totalCashflowsFromInvestingActivities,-259367.0,-135570.0,4515409.0,-1232.0,FIJ.AX
+netBorrowings,-89225.0,725000.0,725000.0,240372.0,FIJ.AX
+totalCashFromFinancingActivities,4155567.0,2786759.0,2786759.0,169113.0,FIJ.AX
+changeToOperatingActivities,23810.0,23810.0,101499.0,101499.0,FIJ.AX
+issuanceOfStock,4244792.0,2061759.0,2061759.0,2061759.0,FIJ.AX
+netIncome,-3390522.0,-3766407.0,-4829454.0,-386253.0,FIJ.AX
+changeInCash,-246092.0,-887641.0,2305840.0,4946.0,FIJ.AX
+effectOfExchangeRate,-1960.0,-1960.0,-1960.0,-1960.0,FIJ.AX
+totalCashFromOperatingActivities,-4140332.0,-3538830.0,-2209569.0,-162935.0,FIJ.AX
+depreciation,156980.0,165583.0,30098.0,578.0,FIJ.AX
+otherCashflowsFromInvestingActivities,-300.0,-300.0,-300.0,-300.0,FIJ.AX
+changeToInventory,-470675.0,-137700.0,-253403.0,-253403.0,FIJ.AX
+changeToAccountReceivables,-446105.0,-9692.0,-76528.0,83066.0,FIJ.AX
+changeToNetincome,157597.0,209386.0,3043815.0,139674.0,FIJ.AX
+capitalExpenditures,-41175.0,-135570.0,-366400.0,-366400.0,FIJ.AX
+otherCashflowsFromFinancingActivities,,,,-71259.0,FIJ.AX

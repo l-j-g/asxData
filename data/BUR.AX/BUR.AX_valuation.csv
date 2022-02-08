@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,BUR.AX
+1,Enterprise Value,,BUR.AX
+2,Trailing P/E,,BUR.AX
+3,Forward P/E,,BUR.AX
+4,PEG Ratio (5 yr expected),,BUR.AX
+5,Price/Sales (ttm),,BUR.AX
+6,Price/Book (mrq),,BUR.AX
+7,Enterprise Value/Revenue,,BUR.AX
+8,Enterprise Value/EBITDA,,BUR.AX

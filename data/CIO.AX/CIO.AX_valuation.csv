@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,CIO.AX
+1,Enterprise Value,,CIO.AX
+2,Trailing P/E,,CIO.AX
+3,Forward P/E,,CIO.AX
+4,PEG Ratio (5 yr expected),,CIO.AX
+5,Price/Sales (ttm),,CIO.AX
+6,Price/Book (mrq),,CIO.AX
+7,Enterprise Value/Revenue,,CIO.AX
+8,Enterprise Value/EBITDA,,CIO.AX

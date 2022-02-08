@@ -1,0 +1,14 @@
+Breakdown,Value,ticker
+zip,2000,CPT.AX
+sector,Technology,CPT.AX
+longBusinessSummary,"Cipherpoint Limited provides solutions that help businesses and governments identify, protect, and control access to sensitive information in Australasia, the United States, the United Kingdom, Germany, and Singapore. It offers cp.Discover, a sharepoint compliance and sensitive data discovery tool; cp.Protect, a suite of integrated data protection, advanced encryption, and privacy compliance solutions for Microsoft sharepoint, sharepoint online, onedrive, and windows file servers; and cp.OEM, a capability that packages core modules with REST APIs ready for developers to integrate into applications to provide discovery, classification, access control, encryption, and auditing of content. The company also offers cp.Content, a tool which moves files from various locations and applications into a single repository that includes file and mail management, and SAP archiving. It serves education, financial services, government, healthcare, and legal industries. The company was formerly known as Covata Limited and changed its name to Cipherpoint Limited in December 2019. Cipherpoint Limited was incorporated in 2006 and is based in Sydney, Australia.",CPT.AX
+city,Sydney,CPT.AX
+phone,61 2 8412 8200,CPT.AX
+state,NSW,CPT.AX
+compensationAsOfEpochDate,1640908800,CPT.AX
+country,Australia,CPT.AX
+website,https://www.cipherpoint.com,CPT.AX
+maxAge,86400,CPT.AX
+address1,171 Clarence Street,CPT.AX
+industry,Software—Infrastructure,CPT.AX
+address2,Level 8 Suite 4,CPT.AX

@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,CMD.AX
+effectOfAccountingCharges,,,,,CMD.AX
+incomeBeforeTax,-230470,-10628147,-419848,-619307,CMD.AX
+minorityInterest,,,,,CMD.AX
+netIncome,-230470,-10628147,-419848,-619307,CMD.AX
+sellingGeneralAdministrative,249253,259346,347408,427138,CMD.AX
+grossProfit,104023,74252,4077,17921,CMD.AX
+ebit,-230470,-210552,-419848,-619307,CMD.AX
+operatingIncome,-230470,-210552,-419848,-619307,CMD.AX
+otherOperatingExpenses,,,,,CMD.AX
+interestExpense,,,,,CMD.AX
+extraordinaryItems,,,,,CMD.AX
+nonRecurring,,,,,CMD.AX
+otherItems,,,,,CMD.AX
+incomeTaxExpense,0,0,0,0,CMD.AX
+totalRevenue,104023,74252,4077,17921,CMD.AX
+totalOperatingExpenses,334493,284804,423925,637228,CMD.AX
+costOfRevenue,0,0,0,0,CMD.AX
+totalOtherIncomeExpenseNet,0,-10417595,0,0,CMD.AX
+discontinuedOperations,,,,,CMD.AX
+netIncomeFromContinuingOps,-230470,-10628147,-419848,-619307,CMD.AX
+netIncomeApplicableToCommonShares,-230470,-10628147,-419848,-619307,CMD.AX

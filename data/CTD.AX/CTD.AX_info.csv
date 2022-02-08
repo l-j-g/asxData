@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,4000,CTD.AX
+sector,Consumer Cyclical,CTD.AX
+compensationRisk,3,CTD.AX
+auditRisk,5,CTD.AX
+longBusinessSummary,"Corporate Travel Management Limited, a travel management solutions company, manages the purchase and delivery of travel services for the corporate market. It operates through four segments: Australia and New Zealand, North America, Asia, and Europe. The company provides strategic account management, small business travel, and event travel management services; and resource travel management products, which include shift management tools, emergency evacuation solutions, charter negotiation, and expense solutions. It also offers sport travel and leisure travel management services. Corporate Travel Management Limited was founded in 1994 and is headquartered in Brisbane, Australia.",CTD.AX
+city,Brisbane,CTD.AX
+phone,61 7 3211 2400,CTD.AX
+state,QLD,CTD.AX
+shareHolderRightsRisk,1,CTD.AX
+compensationAsOfEpochDate,1640908800,CTD.AX
+governanceEpochDate,1632614400,CTD.AX
+boardRisk,1,CTD.AX
+country,Australia,CTD.AX
+website,https://www.travelctm.com,CTD.AX
+maxAge,86400,CTD.AX
+overallRisk,1,CTD.AX
+address1,307 Queen Street,CTD.AX
+fax,61 7 3236 1930,CTD.AX
+industry,Travel Services,CTD.AX
+address2,Level 24,CTD.AX

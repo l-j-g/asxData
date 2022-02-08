@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,BLZ.AX
+effectOfAccountingCharges,,,,,BLZ.AX
+incomeBeforeTax,-2428354,-756163,-710573,-2306071,BLZ.AX
+minorityInterest,,,,,BLZ.AX
+netIncome,-2428354,-756163,-710573,-2161702,BLZ.AX
+sellingGeneralAdministrative,456834,361027,497104,334214,BLZ.AX
+grossProfit,-1402400,0,0,-10162,BLZ.AX
+ebit,-2353685,-681789,-583622,-1785764,BLZ.AX
+operatingIncome,-2353685,-681789,-583622,-1785764,BLZ.AX
+otherOperatingExpenses,84673,24667,63502,44670,BLZ.AX
+interestExpense,,,,,BLZ.AX
+extraordinaryItems,,,,,BLZ.AX
+nonRecurring,,,,,BLZ.AX
+otherItems,,,,,BLZ.AX
+incomeTaxExpense,0,0,0,-144369,BLZ.AX
+totalRevenue,100,0,0,0,BLZ.AX
+totalOperatingExpenses,2353785,681789,583622,1785764,BLZ.AX
+costOfRevenue,1402500,0,0,10162,BLZ.AX
+totalOtherIncomeExpenseNet,-74669,-74374,-126951,-520307,BLZ.AX
+discontinuedOperations,,,,,BLZ.AX
+netIncomeFromContinuingOps,-2428354,-756163,-710573,-2161702,BLZ.AX
+netIncomeApplicableToCommonShares,-2428354,-756163,-710573,-2161702,BLZ.AX

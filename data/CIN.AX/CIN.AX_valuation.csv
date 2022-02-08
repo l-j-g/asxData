@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,CIN.AX
+1,Enterprise Value,,CIN.AX
+2,Trailing P/E,,CIN.AX
+3,Forward P/E,,CIN.AX
+4,PEG Ratio (5 yr expected),,CIN.AX
+5,Price/Sales (ttm),,CIN.AX
+6,Price/Book (mrq),,CIN.AX
+7,Enterprise Value/Revenue,,CIN.AX
+8,Enterprise Value/EBITDA,,CIN.AX

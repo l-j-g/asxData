@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,6000,DCN.AX
+sector,Basic Materials,DCN.AX
+compensationRisk,10,DCN.AX
+auditRisk,8,DCN.AX
+longBusinessSummary,"Dacian Gold Limited engages in the exploration, mining, and processing of gold properties in Australia. The company primarily focuses on its 100% owned Mount Morgans Gold project located in Laverton, Western Australia. Dacian Gold Limited was incorporated in 2011 and is based in Perth, Australia.",DCN.AX
+city,Perth,DCN.AX
+phone,61 8 6323 9000,DCN.AX
+state,WA,DCN.AX
+shareHolderRightsRisk,1,DCN.AX
+compensationAsOfEpochDate,1640908800,DCN.AX
+governanceEpochDate,1632614400,DCN.AX
+boardRisk,6,DCN.AX
+country,Australia,DCN.AX
+website,https://www.daciangold.com.au,DCN.AX
+maxAge,86400,DCN.AX
+overallRisk,9,DCN.AX
+address1,58 Mounts Bay Road,DCN.AX
+fax,61 8 6323 9099,DCN.AX
+industry,Gold,DCN.AX
+address2,Level 19,DCN.AX

@@ -1,0 +1,14 @@
+Breakdown,Value,ticker
+zip,3000,BID.AX
+sector,Technology,BID.AX
+longBusinessSummary,"Bill Identity Limited, a technology company, provides utility bill management solutions in Australia, New Zealand, the United States, the United Kingdom, and Europe. The company's cloud-based platform simplifies the complex energy spend management process by using automation and enables organizations to have complete control over their energy spend. Its robotic process automation platform is utilized to automatically capture and validate invoices, automate the payable function, discover cost reduction opportunities, and provide real-time energy and utility bill information and accurate financial capabilities. The company was formerly known as BidEnergy Limited. Bill Identity Limited is headquartered in Melbourne, Australia.",BID.AX
+city,Melbourne,BID.AX
+phone,61 3 8608 0781,BID.AX
+state,VIC,BID.AX
+compensationAsOfEpochDate,1640908800,BID.AX
+country,Australia,BID.AX
+website,https://www.billidentity.com,BID.AX
+maxAge,86400,BID.AX
+address1,360 Elizabeth Street,BID.AX
+industry,Software—Application,BID.AX
+address2,Level 49,BID.AX

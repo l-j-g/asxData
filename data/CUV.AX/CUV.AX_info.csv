@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,3000,CUV.AX
+sector,Healthcare,CUV.AX
+compensationRisk,5,CUV.AX
+auditRisk,9,CUV.AX
+longBusinessSummary,"Clinuvel Pharmaceuticals Limited, a biopharmaceutical company, focuses on developing and commercializing treatments for patients with genetic, metabolic, and life-threatening disorders in Australia, Europe, the United States, Switzerland, and internationally. Its lead drug candidate is SCENESSE, a systemic photoprotective drug for the prevention of phototoxicity in adult patients with erythropoietic protoporphyria (EPP). The company's pipeline products include CUV9900, an alpha-melanocyte stimulating hormone analogue; Parvysmelanotide (VLRX001), which provoke increased and prolonged cellular activity; and PRÃNUMBRA, a liquid injectable formulation of afamelanotide. Clinuvel Pharmaceuticals Limited has a collaboration agreement with HK Winhealth Pharma Group Co. Limited t to treat EPP patients with SCENESSE under a named patient program in the People's Republic of China. The company was founded in 1987 and is headquartered in Melbourne, Australia.",CUV.AX
+city,Melbourne,CUV.AX
+phone,61 3 9660 4900,CUV.AX
+state,VIC,CUV.AX
+shareHolderRightsRisk,10,CUV.AX
+compensationAsOfEpochDate,1640908800,CUV.AX
+governanceEpochDate,1632614400,CUV.AX
+boardRisk,5,CUV.AX
+country,Australia,CUV.AX
+website,https://www.clinuvel.com,CUV.AX
+maxAge,86400,CUV.AX
+overallRisk,8,CUV.AX
+address1,535 Bourke Street,CUV.AX
+fax,61 3 9660 4909,CUV.AX
+industry,Biotechnology,CUV.AX
+address2,Level 11,CUV.AX

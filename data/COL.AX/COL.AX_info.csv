@@ -1,0 +1,20 @@
+Breakdown,Value,ticker
+zip,3123,COL.AX
+sector,Consumer Defensive,COL.AX
+fullTimeEmployees,120000,COL.AX
+compensationRisk,2,COL.AX
+auditRisk,3,COL.AX
+longBusinessSummary,"Coles Group Limited operates as a retailer in Australia. It operates through Supermarkets, Liquor, and Express segments. The company provides fresh produce and groceries through 831 supermarkets; and coles.com.au, which offers a choice of home delivery, including same-day, overnight drop and go services, and pick up from click and collect locations. Its Coles Financial Services provides insurance, credit cards, and personal loans to Australian families. The company is also involved in the retailing of liquor through its 924 stores under the Liquorland, First Choice, First Choice Liquor, and Vintage Cellars brand names, including online liquor delivery services through Coles Online and Liquor Direct. In addition, it operates 721 fuel and convenience stores; and offers lifestyle services, as well as operates as the participating partner in the flybuys loyalty program. The company was formerly known as Coles Myer Ltd. and changed its name to Coles Group Limited. Coles Group Limited was founded in 1914 and is based in Hawthorn East, Australia.",COL.AX
+city,Hawthorn East,COL.AX
+phone,61 3 9829 5111,COL.AX
+state,VIC,COL.AX
+shareHolderRightsRisk,5,COL.AX
+compensationAsOfEpochDate,1640908800,COL.AX
+governanceEpochDate,1632614400,COL.AX
+boardRisk,2,COL.AX
+country,Australia,COL.AX
+website,https://www.colesgroup.com.au,COL.AX
+maxAge,86400,COL.AX
+overallRisk,2,COL.AX
+address1,800 Toorak Road,COL.AX
+industry,Grocery Stores,COL.AX

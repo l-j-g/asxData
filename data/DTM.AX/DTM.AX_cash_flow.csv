@@ -1,0 +1,15 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,-1505,39905,-42845,62331,DTM.AX
+totalCashflowsFromInvestingActivities,-3867618,-1053251,-1803247,-571373,DTM.AX
+totalCashFromFinancingActivities,4721579,1974427,2018092,1724142,DTM.AX
+changeToOperatingActivities,3234,-2143,-12361,4754,DTM.AX
+issuanceOfStock,4997274,2068000,2122687,1833816,DTM.AX
+netIncome,-790839,-552450,-893381,-2453665,DTM.AX
+changeInCash,209299,558346,-343721,456739,DTM.AX
+totalCashFromOperatingActivities,-644662,-362830,-558566,-696030,DTM.AX
+depreciation,11025,10121,339909,1667509,DTM.AX
+otherCashflowsFromInvestingActivities,59,-795,-24000,-18000,DTM.AX
+changeToAccountReceivables,-52821,24237,-24888,-13960,DTM.AX
+otherCashflowsFromFinancingActivities,-275695,-93573,-104595,-109674,DTM.AX
+changeToNetincome,186244,117500,75000,37001,DTM.AX
+capitalExpenditures,-3914423,-1003220,-1517049,-553373,DTM.AX

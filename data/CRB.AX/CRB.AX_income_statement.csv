@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,CRB.AX
+effectOfAccountingCharges,,,,,CRB.AX
+incomeBeforeTax,-156814,-804771,-520502,-2506500,CRB.AX
+minorityInterest,,,,,CRB.AX
+netIncome,-156814,-804771,-520502,-2506500,CRB.AX
+sellingGeneralAdministrative,750288,922040,826734,1748792,CRB.AX
+grossProfit,10172,41244,57542,110566,CRB.AX
+ebit,-754146,-734771,-619049,-2628100,CRB.AX
+operatingIncome,-754146,-734771,-619049,-2628100,CRB.AX
+otherOperatingExpenses,,-168617.0,-574647.0,-674290.0,CRB.AX
+interestExpense,,,,,CRB.AX
+extraordinaryItems,,,,,CRB.AX
+nonRecurring,,,,,CRB.AX
+otherItems,,,,,CRB.AX
+incomeTaxExpense,0,0,0,0,CRB.AX
+totalRevenue,10172,41244,57542,110566,CRB.AX
+totalOperatingExpenses,764318,776015,676591,2738666,CRB.AX
+costOfRevenue,0,0,0,0,CRB.AX
+totalOtherIncomeExpenseNet,597332,-70000,98547,121600,CRB.AX
+discontinuedOperations,,,,,CRB.AX
+netIncomeFromContinuingOps,-156814,-804771,-520502,-2506500,CRB.AX
+netIncomeApplicableToCommonShares,-156814,-804771,-520502,-2506500,CRB.AX

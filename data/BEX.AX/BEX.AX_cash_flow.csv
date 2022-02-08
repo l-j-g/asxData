@@ -1,0 +1,18 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,ticker
+investments,-644959,-17617,-17617,BEX.AX
+changeToLiabilities,949718,1874761,0,BEX.AX
+totalCashflowsFromInvestingActivities,-117163,201523,-1200000,BEX.AX
+netBorrowings,1316796,600965,600965,BEX.AX
+totalCashFromFinancingActivities,21500935,600965,2302991,BEX.AX
+changeToOperatingActivities,51264,-36698,-36698,BEX.AX
+issuanceOfStock,21491416,21491416,2302991,BEX.AX
+netIncome,-10967024,-2109485,-122937,BEX.AX
+changeInCash,14801586,699379,977655,BEX.AX
+effectOfExchangeRate,-29256,22061,22061,BEX.AX
+totalCashFromOperatingActivities,-6552930,-125170,-125336,BEX.AX
+depreciation,89188,167860,167860,BEX.AX
+otherCashflowsFromInvestingActivities,-21468,-10713,-1200000,BEX.AX
+changeToAccountReceivables,-234759,161091,161091,BEX.AX
+otherCashflowsFromFinancingActivities,-1307277,-1307277,-1307277,BEX.AX
+changeToNetincome,751438,-404872,-2399,BEX.AX
+capitalExpenditures,-72756,-7727,-7727,BEX.AX
