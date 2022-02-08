@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,IHR.AX
+effectOfAccountingCharges,,,,,IHR.AX
+incomeBeforeTax,-7633419,-4820837,-5432113,-4679807,IHR.AX
+minorityInterest,,,,,IHR.AX
+netIncome,-7633419,-4820837,-5432113,-4679807,IHR.AX
+sellingGeneralAdministrative,2663304,1658848,2294758,1854081,IHR.AX
+grossProfit,-3077736,-1351538,-1564916,-1779038,IHR.AX
+ebit,-7542390,-4717796,-5393987,-4536892,IHR.AX
+operatingIncome,-7542390,-4717796,-5393987,-4536892,IHR.AX
+otherOperatingExpenses,-131645,-164871,-48989,-48989,IHR.AX
+interestExpense,-127490,-125635,-75094,-4877,IHR.AX
+extraordinaryItems,,,,,IHR.AX
+nonRecurring,,,,,IHR.AX
+otherItems,,,,,IHR.AX
+incomeTaxExpense,0,0,0,0,IHR.AX
+totalRevenue,2640310,1319882,478838,260893,IHR.AX
+totalOperatingExpenses,10182700,6037678,5872825,4797785,IHR.AX
+costOfRevenue,5718046,2671420,2043754,2039931,IHR.AX
+totalOtherIncomeExpenseNet,-91029,-103041,-38126,-142915,IHR.AX
+discontinuedOperations,,,,,IHR.AX
+netIncomeFromContinuingOps,-7633419,-4820837,-5432113,-4679807,IHR.AX
+netIncomeApplicableToCommonShares,-7633419,-4820837,-5432113,-4679807,IHR.AX

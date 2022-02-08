@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,GEN.AX
+effectOfAccountingCharges,,,,,GEN.AX
+incomeBeforeTax,-2812286,-1079665,-4872941,-1918170,GEN.AX
+minorityInterest,-65802,-58518,-49765,1647,GEN.AX
+netIncome,-2804809,-1072857,-4872941,-1918170,GEN.AX
+sellingGeneralAdministrative,2261041,773503,4439683,1466767,GEN.AX
+grossProfit,0,0,0,0,GEN.AX
+ebit,-2382212,-1060513,-4874121,-1918656,GEN.AX
+operatingIncome,-2382212,-1060513,-4874121,-1918656,GEN.AX
+otherOperatingExpenses,,,181121.0,431020.0,GEN.AX
+interestExpense,-116875,-9811,-9811,-9811,GEN.AX
+extraordinaryItems,,,,,GEN.AX
+nonRecurring,,,,,GEN.AX
+otherItems,,,,,GEN.AX
+incomeTaxExpense,0,0,0,0,GEN.AX
+totalRevenue,0,0,0,0,GEN.AX
+totalOperatingExpenses,2382212,1060513,4874121,1918656,GEN.AX
+costOfRevenue,0,0,0,0,GEN.AX
+totalOtherIncomeExpenseNet,-430074,-19152,1180,486,GEN.AX
+discontinuedOperations,,,,,GEN.AX
+netIncomeFromContinuingOps,-2812286,-1079665,-4872941,-1918170,GEN.AX
+netIncomeApplicableToCommonShares,-2804809,-1072857,-4872941,-1918170,GEN.AX

@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,SWF.AX
+1,Enterprise Value,,SWF.AX
+2,Trailing P/E,,SWF.AX
+3,Forward P/E,,SWF.AX
+4,PEG Ratio (5 yr expected),,SWF.AX
+5,Price/Sales (ttm),,SWF.AX
+6,Price/Book (mrq),,SWF.AX
+7,Enterprise Value/Revenue,,SWF.AX
+8,Enterprise Value/EBITDA,,SWF.AX

@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,SVM.AX
+effectOfAccountingCharges,,,,,SVM.AX
+incomeBeforeTax,-5067300,-3050844,-6434541,-5287412,SVM.AX
+minorityInterest,,,,,SVM.AX
+netIncome,-5067300,-3050844,-6434541,-5287412,SVM.AX
+sellingGeneralAdministrative,1422279,938001,1035564,938443,SVM.AX
+grossProfit,0,0,0,0,SVM.AX
+ebit,-5462263,-3142250,-6497062,-5367509,SVM.AX
+operatingIncome,-5462263,-3142250,-6497062,-5367509,SVM.AX
+otherOperatingExpenses,-107334,-107334,-359745,-29246,SVM.AX
+interestExpense,,,,,SVM.AX
+extraordinaryItems,,,,,SVM.AX
+nonRecurring,,,,,SVM.AX
+otherItems,,,,,SVM.AX
+incomeTaxExpense,0,0,0,0,SVM.AX
+totalRevenue,0,0,0,0,SVM.AX
+totalOperatingExpenses,5462263,3142250,6497062,5367509,SVM.AX
+costOfRevenue,0,0,0,0,SVM.AX
+totalOtherIncomeExpenseNet,394963,91406,62521,80097,SVM.AX
+discontinuedOperations,,,,,SVM.AX
+netIncomeFromContinuingOps,-5067300,-3050844,-6434541,-5287412,SVM.AX
+netIncomeApplicableToCommonShares,-5067300,-3050844,-6434541,-5287412,SVM.AX

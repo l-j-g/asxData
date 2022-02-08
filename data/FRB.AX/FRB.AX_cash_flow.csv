@@ -1,0 +1,15 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,146048.0,0.0,0.0,0.0,FRB.AX
+totalCashflowsFromInvestingActivities,-779227.0,-779227.0,-45000.0,-20000.0,FRB.AX
+totalCashFromFinancingActivities,4890381.0,4890381.0,1634010.0,999318.0,FRB.AX
+issuanceOfStock,5515020.0,5515020.0,5515020.0,5515020.0,FRB.AX
+netIncome,-3394941.0,-655739.0,-1589010.0,-979318.0,FRB.AX
+changeInCash,3807985.0,3807985.0,3807985.0,3807985.0,FRB.AX
+totalCashFromOperatingActivities,-303169.0,-303169.0,-1589010.0,-979318.0,FRB.AX
+depreciation,4913.0,4913.0,4913.0,4913.0,FRB.AX
+otherCashflowsFromInvestingActivities,-4547.0,-4547.0,-4547.0,-4547.0,FRB.AX
+changeToAccountReceivables,-104992.0,-104992.0,-104992.0,-104992.0,FRB.AX
+otherCashflowsFromFinancingActivities,-624639.0,-624639.0,-624639.0,-624639.0,FRB.AX
+changeToNetincome,3045803.0,3045803.0,3045803.0,3045803.0,FRB.AX
+capitalExpenditures,-774680.0,-774680.0,-45000.0,-20000.0,FRB.AX
+netBorrowings,,,1634010.0,999318.0,FRB.AX

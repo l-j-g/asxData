@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,6005,RED.AX
+sector,Basic Materials,RED.AX
+compensationRisk,2,RED.AX
+auditRisk,8,RED.AX
+longBusinessSummary,"Red 5 Limited engages in the exploration, production, and mining of gold deposits and mineral properties in the Philippines and Australia. The company holds interests in the Siana Gold project located in the Island of Mindanao, the Philippines; King of the Hills Gold project located in the Eastern Goldfields of Western Australia; and Darlot Gold mine situated in the north-east of Perth in Western Australia. Red 5 Limited was incorporated in 1995 and is based in West Perth, Australia.",RED.AX
+city,West Perth,RED.AX
+phone,61 8 9322 4455,RED.AX
+state,WA,RED.AX
+shareHolderRightsRisk,1,RED.AX
+compensationAsOfEpochDate,1640908800,RED.AX
+governanceEpochDate,1643673600,RED.AX
+boardRisk,7,RED.AX
+country,Australia,RED.AX
+website,https://www.red5limited.com,RED.AX
+maxAge,86400,RED.AX
+overallRisk,5,RED.AX
+address1,35 Ventnor Avenue,RED.AX
+fax,61 8 9481 5950,RED.AX
+industry,Gold,RED.AX
+address2,Level 2,RED.AX

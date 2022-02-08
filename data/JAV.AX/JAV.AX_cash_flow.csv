@@ -1,0 +1,15 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,162825.0,-17563.0,-109125.0,-75369.0,JAV.AX
+totalCashFromFinancingActivities,2593074.0,1376989.0,393682.0,1866633.0,JAV.AX
+changeToOperatingActivities,-1926129.0,-516844.0,-217516.0,-803941.0,JAV.AX
+issuanceOfStock,2720000.0,1595232.0,211948.0,2200000.0,JAV.AX
+netIncome,-639979.0,-471211.0,-13090902.0,-3002429.0,JAV.AX
+changeInCash,323172.0,541058.0,-689571.0,-884032.0,JAV.AX
+totalCashFromOperatingActivities,-2269902.0,-835931.0,-1079224.0,-2515856.0,JAV.AX
+changeToAccountReceivables,-13119.0,-33585.0,-15974.0,2530.0,JAV.AX
+otherCashflowsFromFinancingActivities,-126926.0,-218243.0,-18266.0,-333367.0,JAV.AX
+changeToNetincome,146500.0,40435.0,96182.0,887546.0,JAV.AX
+depreciation,,162837.0,12258111.0,475807.0,JAV.AX
+totalCashflowsFromInvestingActivities,,,-4029.0,-234809.0,JAV.AX
+netBorrowings,,,200000.0,200000.0,JAV.AX
+capitalExpenditures,,,-4029.0,-456575.0,JAV.AX

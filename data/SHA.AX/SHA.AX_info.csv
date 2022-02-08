@@ -1,0 +1,14 @@
+Breakdown,Value,ticker
+zip,2000,SHA.AX
+sector,Industrials,SHA.AX
+fullTimeEmployees,421,SHA.AX
+longBusinessSummary,"SHAPE Australia Corporation Limited, together with its subsidiaries, engages in the construction, fit-out, and refurbishment of commercial properties in Australia. It provides fit-out and refurbishment services to hospitality, healthcare, education, and retail sectors, as well as for commercial customers and governments. The company was founded in 1989 and is based in Sydney, Australia.",SHA.AX
+city,Sydney,SHA.AX
+phone,61 2 9906 6977,SHA.AX
+state,NSW,SHA.AX
+country,Australia,SHA.AX
+website,https://shape.com.au,SHA.AX
+maxAge,86400,SHA.AX
+address1,155 Clarence Street,SHA.AX
+industry,Engineering & Construction,SHA.AX
+address2,Level 11,SHA.AX

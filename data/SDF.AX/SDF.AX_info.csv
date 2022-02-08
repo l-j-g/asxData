@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,2000,SDF.AX
+sector,Financial Services,SDF.AX
+compensationRisk,3,SDF.AX
+auditRisk,1,SDF.AX
+longBusinessSummary,"Steadfast Group Limited provides general insurance brokerage services Australasia, Asia, and Europe. It also provides insurance underwriting services and related services. The company operates a network of 457 general insurance brokers and 24 underwriting agencies. Steadfast Group Limited was founded in 1996 and is based in Sydney, Australia.",SDF.AX
+city,Sydney,SDF.AX
+phone,61 2 9495 6500,SDF.AX
+state,NSW,SDF.AX
+shareHolderRightsRisk,7,SDF.AX
+compensationAsOfEpochDate,1640908800,SDF.AX
+governanceEpochDate,1632614400,SDF.AX
+boardRisk,4,SDF.AX
+country,Australia,SDF.AX
+website,https://www.steadfast.com.au,SDF.AX
+maxAge,86400,SDF.AX
+overallRisk,3,SDF.AX
+address1,99 Bathurst Street,SDF.AX
+fax,61 2 9495 6565,SDF.AX
+industry,Insurance Brokers,SDF.AX
+address2,Level 4,SDF.AX

@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,3143,REG.AX
+sector,Healthcare,REG.AX
+compensationRisk,5,REG.AX
+auditRisk,5,REG.AX
+longBusinessSummary,"Regis Healthcare Limited provides residential aged care services in Australia. It offers home care services, including personal hygiene, dressing and undressing, and mobility and transportation; home help services, such as cooking and cleaning, shopping and transportation, and facilitating social outings; aged care facilities; owns and operates specialist retirement and independent living villages, which provides laundry, meals, cleaning, and allied health services consist of physiotherapy, podiatry, diversional therapy, and therapeutic activities. The company also offers companionship and government-funded and private home care services; aged care services, including ageing-in-place, respite care, specialist dementia care, and palliative care services; in-home disability support and veterans' home care services; Day Respite Programs for carers; and therapeutic services to people living in the community, in retirement villages, and aged care facilities. As of June 30, 2021, it owned and operated 65 aged care facilities. The company was formerly known as Fairway Investment Holdings Pty Ltd. and changed its name to Regis Healthcare Limited in September 2014. Regis Healthcare Limited was founded in 1994 and is based in Armadale, Australia.",REG.AX
+city,Armadale,REG.AX
+phone,61 3 8573 0444,REG.AX
+state,VIC,REG.AX
+shareHolderRightsRisk,6,REG.AX
+compensationAsOfEpochDate,1640908800,REG.AX
+governanceEpochDate,1643673600,REG.AX
+boardRisk,6,REG.AX
+country,Australia,REG.AX
+website,https://www.regis.com.au,REG.AX
+maxAge,86400,REG.AX
+overallRisk,5,REG.AX
+address1,615 Dandenong Road,REG.AX
+fax,61 3 8573 0466,REG.AX
+industry,Medical Care Facilities,REG.AX
+address2,Level 2,REG.AX

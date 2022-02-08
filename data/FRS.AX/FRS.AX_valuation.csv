@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,FRS.AX
+1,Enterprise Value,,FRS.AX
+2,Trailing P/E,,FRS.AX
+3,Forward P/E,,FRS.AX
+4,PEG Ratio (5 yr expected),,FRS.AX
+5,Price/Sales (ttm),,FRS.AX
+6,Price/Book (mrq),,FRS.AX
+7,Enterprise Value/Revenue,,FRS.AX
+8,Enterprise Value/EBITDA,,FRS.AX

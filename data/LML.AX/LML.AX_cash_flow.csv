@@ -1,0 +1,14 @@
+Breakdown,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,2017-06-30 00:00:00,ticker
+changeToLiabilities,7736.0,-17032.0,-38521.0,20829.0,LML.AX
+totalCashflowsFromInvestingActivities,-179638.0,-214615.0,-1882675.0,-2397130.0,LML.AX
+changeToOperatingActivities,-6924.0,153026.0,-328893.0,138385.0,LML.AX
+netIncome,-861875.0,-894053.0,-1241309.0,-1387440.0,LML.AX
+changeInCash,-812711.0,-798890.0,272967.0,-776313.0,LML.AX
+totalCashFromOperatingActivities,-633073.0,-584275.0,-1472244.0,-1057579.0,LML.AX
+depreciation,241776.0,223052.0,178135.0,227952.0,LML.AX
+otherCashflowsFromInvestingActivities,15027.0,48635.0,49943.0,49524.0,LML.AX
+changeToNetincome,-13984.0,-49510.0,-42158.0,-58292.0,LML.AX
+capitalExpenditures,-194665.0,-264024.0,-1498745.0,-2460290.0,LML.AX
+totalCashFromFinancingActivities,,,3627886.0,2678397.0,LML.AX
+issuanceOfStock,,,3664000.0,2947095.0,LML.AX
+otherCashflowsFromFinancingActivities,,,-36114.0,-268698.0,LML.AX

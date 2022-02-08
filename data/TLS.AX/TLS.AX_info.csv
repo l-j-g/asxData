@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,3000,TLS.AX
+sector,Communication Services,TLS.AX
+fullTimeEmployees,27015,TLS.AX
+compensationRisk,1,TLS.AX
+auditRisk,2,TLS.AX
+longBusinessSummary,"Telstra Corporation Limited provides telecommunications and information services to businesses, governments, and individuals in Australia and internationally. It operates in four segments: Telstra Consumer and Small Business, Telstra Enterprise, Networks and IT, and Telstra InfraCo. The company offers telecommunication products, services, and solutions across mobiles, fixed and mobile broadband, media, and digital content in prepaid and post-paid services, as well as operates call centers, Telstra shops, and the Telstra dealership network. It also provides network capacity and management, unified communications, cloud, industry solutions, integrated and monitoring services to government and large enterprise customers; builds and manages digital platforms; and provides telecommunication products and services to other carriers, carriage service providers, and internet service providers. In addition, the company operates the fixed passive network infrastructure, including data centers, exchanges, poles, ducts, pits and pipes, fiber network, and mobile towers; provides wholesale customers with access to network infrastructure; provides long-term access to components of infrastructure and network services under the infrastructure services agreement and commercial contracts; and designs and constructs fiber, exchanges, and other infrastructure. The company was formerly known as Australian and Overseas Telecommunications Corporation Limited and changed its name to Telstra Corporation Limited in April 1993. Telstra Corporation Limited was founded in 1901 and is based in Melbourne, Australia.",TLS.AX
+city,Melbourne,TLS.AX
+phone,61 3 8647 4838,TLS.AX
+state,VIC,TLS.AX
+shareHolderRightsRisk,10,TLS.AX
+compensationAsOfEpochDate,1640908800,TLS.AX
+governanceEpochDate,1643673600,TLS.AX
+boardRisk,9,TLS.AX
+country,Australia,TLS.AX
+website,https://www.telstra.com.au,TLS.AX
+maxAge,86400,TLS.AX
+overallRisk,8,TLS.AX
+address1,242 Exhibition Street,TLS.AX
+fax,61 3 9650 0989,TLS.AX
+industry,Telecom Services,TLS.AX
+address2,Level 41,TLS.AX

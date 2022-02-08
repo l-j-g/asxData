@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,6000,MLX.AX
+sector,Basic Materials,MLX.AX
+compensationRisk,5,MLX.AX
+auditRisk,10,MLX.AX
+longBusinessSummary,"Metals X Limited engages in the production of tin in Australia. It holds a 50% interest in the Renison tin project located on the west coast of Tasmania. The company was incorporated in 2004 and is based in Perth, Australia.",MLX.AX
+city,Perth,MLX.AX
+phone,61 8 9220 5700,MLX.AX
+state,WA,MLX.AX
+shareHolderRightsRisk,1,MLX.AX
+compensationAsOfEpochDate,1640908800,MLX.AX
+governanceEpochDate,1632614400,MLX.AX
+boardRisk,6,MLX.AX
+country,Australia,MLX.AX
+website,https://www.metalsx.com.au,MLX.AX
+maxAge,86400,MLX.AX
+overallRisk,7,MLX.AX
+address1,197 St Georges Terrace,MLX.AX
+fax,61 8 9220 5757,MLX.AX
+industry,Other Industrial Metals & Mining,MLX.AX
+address2,Level 5,MLX.AX

@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,2000,OFX.AX
+sector,Financial Services,OFX.AX
+fullTimeEmployees,400,OFX.AX
+compensationRisk,5,OFX.AX
+auditRisk,1,OFX.AX
+longBusinessSummary,"OFX Group Limited provides international payments and foreign exchange services in Australia, New Zealand, Europe, North America, Asia, and internationally. It operates through five segments, Australia and New Zealand, Europe, North America, Asia, and International Payment Solutions. The company offers international payment services, such as bank to bank currency transfer services to businesses and consumers. It also provides international payment solutions, including OFX IT platform; client service; compliance sophistication; banking relationships; and payments services. The company was formerly known as OzForex Group Limited and changed its name to OFX Group Limited in September 2016. OFX Group Limited was founded in 1998 and is headquartered in Sydney, Australia.",OFX.AX
+city,Sydney,OFX.AX
+phone,61 2 8667 8000,OFX.AX
+state,NSW,OFX.AX
+shareHolderRightsRisk,1,OFX.AX
+compensationAsOfEpochDate,1640908800,OFX.AX
+governanceEpochDate,1632614400,OFX.AX
+boardRisk,2,OFX.AX
+country,Australia,OFX.AX
+website,https://www.ofx.com,OFX.AX
+maxAge,86400,OFX.AX
+overallRisk,1,OFX.AX
+address1,60 Margaret Street,OFX.AX
+fax,61 2 8667 8080,OFX.AX
+industry,Capital Markets,OFX.AX
+address2,Level 19,OFX.AX

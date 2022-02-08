@@ -1,0 +1,15 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,-11150.0,50794.0,-118106.0,43854.0,GME.AX
+totalCashflowsFromInvestingActivities,-1248176.0,-1149405.0,-2126499.0,-2667894.0,GME.AX
+netBorrowings,-69167.0,-48131.0,-48131.0,-48131.0,GME.AX
+totalCashFromFinancingActivities,1415925.0,-48131.0,1300571.0,1969308.0,GME.AX
+issuanceOfStock,1518720.0,1518720.0,1325648.0,2039824.0,GME.AX
+netIncome,-186321.0,-237305.0,-277265.0,-1084387.0,GME.AX
+changeInCash,80206.0,-1132122.0,-470847.0,-491268.0,GME.AX
+totalCashFromOperatingActivities,-87543.0,65414.0,355081.0,207318.0,GME.AX
+depreciation,120476.0,239732.0,589796.0,1150277.0,GME.AX
+otherCashflowsFromInvestingActivities,5788.0,-3000.0,-3000.0,-3000.0,GME.AX
+changeToAccountReceivables,-10548.0,12193.0,89612.0,96467.0,GME.AX
+otherCashflowsFromFinancingActivities,-33628.0,-33628.0,-25077.0,-70516.0,GME.AX
+capitalExpenditures,-1253964.0,-1146405.0,-2126499.0,-2667894.0,GME.AX
+changeToNetincome,,,69937.0,69937.0,GME.AX

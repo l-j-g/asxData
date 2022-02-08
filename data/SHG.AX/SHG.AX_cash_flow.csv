@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,ticker
+investments,-300000,-273250,SHG.AX
+changeToLiabilities,29860,160661,SHG.AX
+totalCashflowsFromInvestingActivities,-610568,-311173,SHG.AX
+netBorrowings,826166,540830,SHG.AX
+totalCashFromFinancingActivities,6517821,1140830,SHG.AX
+changeToOperatingActivities,43067,43067,SHG.AX
+issuanceOfStock,5691655,600000,SHG.AX
+netIncome,-4456097,-849106,SHG.AX
+changeInCash,4005139,156662,SHG.AX
+effectOfExchangeRate,5050,-15192,SHG.AX
+totalCashFromOperatingActivities,-1907164,-657803,SHG.AX
+depreciation,130691,38910,SHG.AX
+changeToAccountReceivables,149481,-84493,SHG.AX
+changeToNetincome,2195834,76225,SHG.AX
+capitalExpenditures,-50486,-50486,SHG.AX

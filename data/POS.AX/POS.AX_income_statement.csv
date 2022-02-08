@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,POS.AX
+effectOfAccountingCharges,,,,,POS.AX
+incomeBeforeTax,-10933000,-12852000,-10495000,-9654000,POS.AX
+minorityInterest,,,,,POS.AX
+netIncome,-10933000,-12852000,-10495000,-9654000,POS.AX
+sellingGeneralAdministrative,3755000,2671000,3080593,1681000,POS.AX
+grossProfit,0,0,0,141000,POS.AX
+ebit,-10401000,-11902000,-9810593,-5270000,POS.AX
+operatingIncome,-10401000,-11902000,-9810593,-5270000,POS.AX
+otherOperatingExpenses,299000,258000,442000,-5000,POS.AX
+interestExpense,-806000,-2514000,-2284000,-2021000,POS.AX
+extraordinaryItems,,,,,POS.AX
+nonRecurring,,,,,POS.AX
+otherItems,,,,,POS.AX
+incomeTaxExpense,0,0,0,0,POS.AX
+totalRevenue,0,0,0,141000,POS.AX
+totalOperatingExpenses,10401000,11902000,9810593,5411000,POS.AX
+costOfRevenue,0,0,0,0,POS.AX
+totalOtherIncomeExpenseNet,-532000,-950000,-684407,-4384000,POS.AX
+discontinuedOperations,,,,,POS.AX
+netIncomeFromContinuingOps,-10933000,-12852000,-10495000,-9654000,POS.AX
+netIncomeApplicableToCommonShares,-10933000,-12852000,-10495000,-9654000,POS.AX

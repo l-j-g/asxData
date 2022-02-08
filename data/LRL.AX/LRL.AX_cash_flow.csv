@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,-122312.0,224071.0,133172.0,68132.0,LRL.AX
+totalCashflowsFromInvestingActivities,3972233.0,548812.0,-497099.0,-46274.0,LRL.AX
+netBorrowings,-16603.0,-31379.0,-2000000.0,-849226.0,LRL.AX
+totalCashFromFinancingActivities,246515.0,-31379.0,-1983561.0,5284860.0,LRL.AX
+changeToOperatingActivities,-1008.0,-30177.0,-51083.0,-1167.0,LRL.AX
+issuanceOfStock,263118.0,263118.0,16439.0,7200000.0,LRL.AX
+netIncome,-4071442.0,-617418.0,-736481.0,-1770838.0,LRL.AX
+changeInCash,3157313.0,-92671.0,-3294045.0,4423702.0,LRL.AX
+totalCashFromOperatingActivities,-1061435.0,-610104.0,-813385.0,-814884.0,LRL.AX
+depreciation,3013081.0,104122.0,3305.0,3305.0,LRL.AX
+otherCashflowsFromInvestingActivities,3062836.0,650000.0,650000.0,650000.0,LRL.AX
+changeToAccountReceivables,75387.0,-297937.0,-162298.0,-182727.0,LRL.AX
+changeToNetincome,-159820.0,7235.0,7235.0,1071716.0,LRL.AX
+capitalExpenditures,-590603.0,-101188.0,-497099.0,-46274.0,LRL.AX
+otherCashflowsFromFinancingActivities,,,,-1065914.0,LRL.AX

@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,3000,PPS.AX
+sector,Financial Services,PPS.AX
+compensationRisk,6,PPS.AX
+auditRisk,7,PPS.AX
+longBusinessSummary,"Praemium Limited, together with its subsidiaries, provides managed accounts platform, investment management, portfolio administration, and reporting and financial planning software in Australia and internationally. It offers managed accounts platform that enables advisers and wealth managers to construct the managed account solutions for their clients; virtual managed accounts (VMA) and VMA administration services; and WealthCraft, a CRM and financial planning software. The company also provides advice solutions comprising practice management, report building and plan generation, remuneration, lead generation, and client engagement services; and investments related products. It serves financial advisers, brokers, and accountants. Praemium Limited was incorporated in 2001 and is based in Melbourne, Australia.",PPS.AX
+city,Melbourne,PPS.AX
+phone,61 3 8622 1222,PPS.AX
+state,VIC,PPS.AX
+shareHolderRightsRisk,6,PPS.AX
+compensationAsOfEpochDate,1640908800,PPS.AX
+governanceEpochDate,1643673600,PPS.AX
+boardRisk,8,PPS.AX
+country,Australia,PPS.AX
+website,https://www.praemium.com.au,PPS.AX
+maxAge,86400,PPS.AX
+overallRisk,7,PPS.AX
+address1,367 Collins Street,PPS.AX
+fax,61 3 8622 1200,PPS.AX
+industry,Capital Markets,PPS.AX
+address2,Level 19,PPS.AX

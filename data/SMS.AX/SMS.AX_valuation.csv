@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,SMS.AX
+1,Enterprise Value,,SMS.AX
+2,Trailing P/E,,SMS.AX
+3,Forward P/E,,SMS.AX
+4,PEG Ratio (5 yr expected),,SMS.AX
+5,Price/Sales (ttm),,SMS.AX
+6,Price/Book (mrq),,SMS.AX
+7,Enterprise Value/Revenue,,SMS.AX
+8,Enterprise Value/EBITDA,,SMS.AX

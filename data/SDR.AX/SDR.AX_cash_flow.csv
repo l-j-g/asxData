@@ -1,0 +1,17 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,ticker
+changeToLiabilities,1356000.0,3852000.0,SDR.AX
+totalCashflowsFromInvestingActivities,-15855000.0,-16619000.0,SDR.AX
+netBorrowings,-2268000.0,-2211000.0,SDR.AX
+totalCashFromFinancingActivities,-2268000.0,46374000.0,SDR.AX
+changeToOperatingActivities,8157000.0,6382000.0,SDR.AX
+netIncome,-121770000.0,-4899000.0,SDR.AX
+changeInCash,-15035000.0,30007000.0,SDR.AX
+effectOfExchangeRate,555000.0,-1208000.0,SDR.AX
+totalCashFromOperatingActivities,2533000.0,1460000.0,SDR.AX
+depreciation,12978000.0,9706000.0,SDR.AX
+otherCashflowsFromInvestingActivities,1249000.0,-324000.0,SDR.AX
+changeToAccountReceivables,-1549000.0,-4220000.0,SDR.AX
+changeToNetincome,102744000.0,-9468000.0,SDR.AX
+capitalExpenditures,-932000.0,-1064000.0,SDR.AX
+issuanceOfStock,,50000000.0,SDR.AX
+otherCashflowsFromFinancingActivities,,-1415000.0,SDR.AX

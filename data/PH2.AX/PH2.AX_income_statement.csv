@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,PH2.AX
+effectOfAccountingCharges,,,,,PH2.AX
+incomeBeforeTax,-2779000,-3246000,-2288000,-1400000,PH2.AX
+minorityInterest,,,,,PH2.AX
+netIncome,-2779000,-3246000,-2288000,-1400000,PH2.AX
+sellingGeneralAdministrative,1221000,709000,784000,968000,PH2.AX
+grossProfit,-58000,27000,67000,162000,PH2.AX
+ebit,-1771000,-1034000,-2249000,-1400000,PH2.AX
+operatingIncome,-1771000,-1034000,-2249000,-1400000,PH2.AX
+otherOperatingExpenses,460000,237000,1530000,538000,PH2.AX
+interestExpense,,,,,PH2.AX
+extraordinaryItems,,,,,PH2.AX
+nonRecurring,,,,,PH2.AX
+otherItems,,,,,PH2.AX
+incomeTaxExpense,0,0,0,0,PH2.AX
+totalRevenue,4000,27000,67000,162000,PH2.AX
+totalOperatingExpenses,1775000,1061000,2316000,1562000,PH2.AX
+costOfRevenue,62000,0,0,0,PH2.AX
+totalOtherIncomeExpenseNet,-1008000,-2212000,-39000,0,PH2.AX
+discontinuedOperations,,,,,PH2.AX
+netIncomeFromContinuingOps,-2779000,-3246000,-2288000,-1400000,PH2.AX
+netIncomeApplicableToCommonShares,-2779000,-3246000,-2288000,-1400000,PH2.AX

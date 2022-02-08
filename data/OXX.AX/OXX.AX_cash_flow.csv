@@ -1,0 +1,18 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+investments,98954.0,98954.0,98954.0,106302.0,OXX.AX
+changeToLiabilities,11887.0,-290186.0,432016.0,8102.0,OXX.AX
+totalCashflowsFromInvestingActivities,-412442.0,-172950.0,4162153.0,-3462359.0,OXX.AX
+totalCashFromFinancingActivities,700093.0,700093.0,-2924092.0,11588.0,OXX.AX
+changeToOperatingActivities,129461.0,129461.0,129461.0,129461.0,OXX.AX
+issuanceOfStock,750000.0,750000.0,750000.0,12071.0,OXX.AX
+netIncome,-300198.0,-5264733.0,-4264324.0,-21501847.0,OXX.AX
+changeInCash,218675.0,-1309534.0,459047.0,-4334934.0,OXX.AX
+totalCashFromOperatingActivities,-68976.0,-1136584.0,-842945.0,-1033220.0,OXX.AX
+changeToAccountReceivables,62551.0,-240538.0,-83447.0,40878.0,OXX.AX
+otherCashflowsFromFinancingActivities,-49907.0,-49907.0,-49907.0,-483.0,OXX.AX
+changeToNetincome,27323.0,28933.0,-4190960.0,4430478.0,OXX.AX
+capitalExpenditures,-511396.0,-172950.0,-228991.0,-371310.0,OXX.AX
+depreciation,,4629940.0,7262178.0,23652138.0,OXX.AX
+netBorrowings,,,-2924092.0,-2924092.0,OXX.AX
+effectOfExchangeRate,,,63931.0,149057.0,OXX.AX
+otherCashflowsFromInvestingActivities,,,4391144.0,-3197351.0,OXX.AX

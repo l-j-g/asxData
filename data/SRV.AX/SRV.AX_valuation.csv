@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,SRV.AX
+1,Enterprise Value,,SRV.AX
+2,Trailing P/E,,SRV.AX
+3,Forward P/E,,SRV.AX
+4,PEG Ratio (5 yr expected),,SRV.AX
+5,Price/Sales (ttm),,SRV.AX
+6,Price/Book (mrq),,SRV.AX
+7,Enterprise Value/Revenue,,SRV.AX
+8,Enterprise Value/EBITDA,,SRV.AX

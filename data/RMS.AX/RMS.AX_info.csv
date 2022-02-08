@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,6004,RMS.AX
+sector,Basic Materials,RMS.AX
+compensationRisk,3,RMS.AX
+auditRisk,9,RMS.AX
+longBusinessSummary,"Ramelius Resources Limited, together with its subsidiaries, engages in the exploration, mine development and operation, production, and sale of gold in Australia. It operates the Mt Magnet, Vivien, Edna May, and Marda gold mines around Western Australia, as well as holds interests in the Tampia and Penny gold projects. The company was incorporated in 1979 and is based in East Perth, Australia.",RMS.AX
+city,East Perth,RMS.AX
+phone,61 8 9202 1127,RMS.AX
+state,WA,RMS.AX
+shareHolderRightsRisk,1,RMS.AX
+compensationAsOfEpochDate,1640908800,RMS.AX
+governanceEpochDate,1632614400,RMS.AX
+boardRisk,6,RMS.AX
+country,Australia,RMS.AX
+website,https://www.rameliusresources.com.au,RMS.AX
+maxAge,86400,RMS.AX
+overallRisk,4,RMS.AX
+address1,130 Royal Street,RMS.AX
+fax,61 8 9202 1127,RMS.AX
+industry,Gold,RMS.AX
+address2,Level 1,RMS.AX

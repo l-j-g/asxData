@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,GES.AX
+effectOfAccountingCharges,,,,,GES.AX
+incomeBeforeTax,-2200876,-1769950,-1810520,-1609979,GES.AX
+minorityInterest,-36073,-32641,-30206,-28716,GES.AX
+netIncome,-2197444,-1767515,-1809030,-1579318,GES.AX
+sellingGeneralAdministrative,949170,1296817,1242808,1594985,GES.AX
+grossProfit,101943,1156,395,2845,GES.AX
+ebit,-1411434,-1346104,-1399424,-1592140,GES.AX
+operatingIncome,-1411434,-1346104,-1399424,-1592140,GES.AX
+otherOperatingExpenses,,,,,GES.AX
+interestExpense,-788087,-848593,-655660,-329682,GES.AX
+extraordinaryItems,,,,,GES.AX
+nonRecurring,,,,,GES.AX
+otherItems,,,,,GES.AX
+incomeTaxExpense,0,0,0,0,GES.AX
+totalRevenue,101943,1156,395,2845,GES.AX
+totalOperatingExpenses,1513377,1347260,1399819,1594985,GES.AX
+costOfRevenue,0,0,0,0,GES.AX
+totalOtherIncomeExpenseNet,-789442,-423846,-411096,-17839,GES.AX
+discontinuedOperations,,,,,GES.AX
+netIncomeFromContinuingOps,-2200876,-1769950,-1810520,-1609979,GES.AX
+netIncomeApplicableToCommonShares,-2197444,-1767515,-1809030,-1579318,GES.AX

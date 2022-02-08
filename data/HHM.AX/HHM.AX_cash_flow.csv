@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+investments,3223.0,535939.0,535939.0,-430000.0,HHM.AX
+changeToLiabilities,14549.0,-10457.0,8044.0,-12623.0,HHM.AX
+totalCashflowsFromInvestingActivities,-130652.0,451961.0,-18684.0,-542692.0,HHM.AX
+netBorrowings,213571.0,-315831.0,-250000.0,-100000.0,HHM.AX
+totalCashFromFinancingActivities,213571.0,-315831.0,-250000.0,1357941.0,HHM.AX
+changeToOperatingActivities,-2313.0,-1822.0,-1768.0,11496.0,HHM.AX
+netIncome,708431.0,-1731937.0,-1656026.0,545516.0,HHM.AX
+changeInCash,-70337.0,-76232.0,-484909.0,590387.0,HHM.AX
+totalCashFromOperatingActivities,-153256.0,-212362.0,-216225.0,-224862.0,HHM.AX
+depreciation,67118.0,144133.0,1502.0,5203.0,HHM.AX
+changeToAccountReceivables,2682.0,-3840.0,2773.0,-3010.0,HHM.AX
+changeToNetincome,-943723.0,1391561.0,1429250.0,-771444.0,HHM.AX
+capitalExpenditures,-133875.0,-83978.0,-18684.0,-112692.0,HHM.AX
+issuanceOfStock,,,,1475935.0,HHM.AX
+otherCashflowsFromFinancingActivities,,,,-17994.0,HHM.AX

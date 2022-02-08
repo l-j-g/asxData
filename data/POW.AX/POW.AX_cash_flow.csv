@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,-93196.0,45065.0,-200834.0,-86121.0,POW.AX
+totalCashFromFinancingActivities,1876519.0,1876519.0,1876519.0,4229331.0,POW.AX
+issuanceOfStock,1995862.0,1995862.0,1995862.0,4148795.0,POW.AX
+netIncome,-700447.0,-1319217.0,-4579296.0,-3669481.0,POW.AX
+changeInCash,1155572.0,-526627.0,-1129296.0,2252663.0,POW.AX
+totalCashFromOperatingActivities,-720947.0,-526627.0,-1684776.0,-1427703.0,POW.AX
+depreciation,11162.0,13768.0,13942.0,8446.0,POW.AX
+changeToAccountReceivables,-10319.0,18582.0,26059.0,-39459.0,POW.AX
+otherCashflowsFromFinancingActivities,-119343.0,-119343.0,-119343.0,80536.0,POW.AX
+changeToNetincome,71853.0,716628.0,3055168.0,2368486.0,POW.AX
+changeToOperatingActivities,,-1453.0,185.0,-9574.0,POW.AX
+investments,,,560171.0,-393500.0,POW.AX
+totalCashflowsFromInvestingActivities,,,555602.0,-448500.0,POW.AX
+effectOfExchangeRate,,,-122.0,-122.0,POW.AX
+capitalExpenditures,,,-4569.0,-55000.0,POW.AX

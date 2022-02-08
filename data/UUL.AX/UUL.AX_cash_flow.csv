@@ -1,0 +1,15 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,398429.0,5347.0,-19972.0,-23249.0,UUL.AX
+netBorrowings,-21748.0,-552789.0,273411.0,1644692.0,UUL.AX
+totalCashFromFinancingActivities,2723729.0,-552789.0,655921.0,1644692.0,UUL.AX
+changeToOperatingActivities,-59455.0,11946.0,25502.0,21516.0,UUL.AX
+issuanceOfStock,2745477.0,2745477.0,382510.0,382510.0,UUL.AX
+netIncome,-250506.0,-268038.0,-538099.0,-418898.0,UUL.AX
+changeInCash,2801783.0,-191738.0,-84902.0,-743340.0,UUL.AX
+totalCashFromOperatingActivities,78054.0,369240.0,-405296.0,-486686.0,UUL.AX
+changeToAccountReceivables,827.0,-16941.0,60160.0,-62624.0,UUL.AX
+changeToNetincome,-11241.0,49066.0,66568.0,-4151.0,UUL.AX
+totalCashflowsFromInvestingActivities,,-8189.0,-335527.0,-1901346.0,UUL.AX
+depreciation,,309.0,545.0,720.0,UUL.AX
+changeToInventory,,587551.0,587551.0,587551.0,UUL.AX
+capitalExpenditures,,,,-403.0,UUL.AX

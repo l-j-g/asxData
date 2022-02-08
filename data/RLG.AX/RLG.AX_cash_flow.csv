@@ -1,0 +1,18 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,883505.0,82799.0,-137444.0,385381.0,RLG.AX
+totalCashflowsFromInvestingActivities,16042.0,-390617.0,-248980.0,-8790.0,RLG.AX
+totalCashFromFinancingActivities,5786238.0,2275095.0,4196519.0,4196519.0,RLG.AX
+changeToOperatingActivities,-9510.0,-771.0,-771.0,-771.0,RLG.AX
+issuanceOfStock,6260168.0,2431498.0,4500000.0,4500000.0,RLG.AX
+netIncome,-4991382.0,-3442596.0,-3309485.0,-3967854.0,RLG.AX
+changeInCash,2472147.0,-750536.0,1423638.0,-3078148.0,RLG.AX
+effectOfExchangeRate,50360.0,-7792.0,8358.0,16288.0,RLG.AX
+totalCashFromOperatingActivities,-3380493.0,-2627222.0,-2532259.0,-3085646.0,RLG.AX
+depreciation,13107.0,7395.0,24822.0,37164.0,RLG.AX
+otherCashflowsFromInvestingActivities,41721.0,-16679.0,-16679.0,-16679.0,RLG.AX
+changeToInventory,-356743.0,24518.0,24518.0,24518.0,RLG.AX
+changeToAccountReceivables,-773645.0,90336.0,583038.0,114320.0,RLG.AX
+otherCashflowsFromFinancingActivities,-473930.0,-156403.0,-274701.0,-274701.0,RLG.AX
+changeToNetincome,1343263.0,97068.0,35015.0,72669.0,RLG.AX
+capitalExpenditures,-25679.0,-7990.0,-6738.0,-8790.0,RLG.AX
+netBorrowings,,,-28780.0,-28780.0,RLG.AX

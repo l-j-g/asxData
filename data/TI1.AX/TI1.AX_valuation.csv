@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,TI1.AX
+1,Enterprise Value,,TI1.AX
+2,Trailing P/E,,TI1.AX
+3,Forward P/E,,TI1.AX
+4,PEG Ratio (5 yr expected),,TI1.AX
+5,Price/Sales (ttm),,TI1.AX
+6,Price/Book (mrq),,TI1.AX
+7,Enterprise Value/Revenue,,TI1.AX
+8,Enterprise Value/EBITDA,,TI1.AX

@@ -1,0 +1,17 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,ticker
+totalLiab,176790.0,22046.0,8309.0,WC1.AX
+totalStockholderEquity,296522.0,51304.0,18407.0,WC1.AX
+totalAssets,473312.0,73350.0,26716.0,WC1.AX
+commonStock,290521.0,20.0,20.0,WC1.AX
+retainedEarnings,-452849.0,51284.0,18387.0,WC1.AX
+treasuryStock,458850.0,,,WC1.AX
+cash,352511.0,50195.0,10604.0,WC1.AX
+totalCurrentLiabilities,176790.0,22046.0,8309.0,WC1.AX
+otherStockholderEquity,458850.0,,,WC1.AX
+propertyPlantEquipment,55455.0,3155.0,1795.0,WC1.AX
+totalCurrentAssets,417857.0,70195.0,24921.0,WC1.AX
+netTangibleAssets,296522.0,51304.0,18407.0,WC1.AX
+netReceivables,65346.0,,4317.0,WC1.AX
+accountsPayable,62332.0,,,WC1.AX
+otherCurrentLiab,,21540.0,8309.0,WC1.AX
+otherCurrentAssets,,20000.0,10000.0,WC1.AX

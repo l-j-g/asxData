@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,3000,WCG.AX
+sector,Technology,WCG.AX
+fullTimeEmployees,350,WCG.AX
+compensationRisk,8,WCG.AX
+auditRisk,10,WCG.AX
+longBusinessSummary,"Webcentral Limited operates as a licensed telecommunications carrier in Australia and New Zealand. The company offers data connectivity, cloud and data center, and managed services. It provides cloud-based solutions and network services; and operates fiber and wireless infrastructure, management of cloud computing environment, and data center facilities. In addition, the company engages in domain name registrations and renewals, website and email hosting, website development, search engine marketing, and social advertising campaigns for businesses. Webcentral Limited was incorporated in 2013 and is headquartered in Melbourne, Australia.",WCG.AX
+city,Melbourne,WCG.AX
+phone,61 1 3001 01112,WCG.AX
+state,VIC,WCG.AX
+shareHolderRightsRisk,1,WCG.AX
+compensationAsOfEpochDate,1640908800,WCG.AX
+governanceEpochDate,1632614400,WCG.AX
+boardRisk,10,WCG.AX
+country,Australia,WCG.AX
+website,https://www.webcentral.com.au,WCG.AX
+maxAge,86400,WCG.AX
+overallRisk,10,WCG.AX
+address1,505 Little Collins Street,WCG.AX
+industry,Information Technology Services,WCG.AX
+address2,Level 7,WCG.AX

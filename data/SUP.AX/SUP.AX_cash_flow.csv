@@ -1,0 +1,16 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+changeToLiabilities,-436287.0,-307082.0,787513.0,-25907.0,SUP.AX
+totalCashflowsFromInvestingActivities,-581535.0,-361431.0,-747541.0,-30000.0,SUP.AX
+totalCashFromFinancingActivities,2456251.0,3768587.0,7211308.0,-325324.0,SUP.AX
+changeToOperatingActivities,-1894.0,63926.0,-63964.0,-63964.0,SUP.AX
+issuanceOfStock,2600001.0,3768587.0,7500000.0,7500000.0,SUP.AX
+netIncome,-2618354.0,-7017034.0,-16244767.0,-374785.0,SUP.AX
+changeInCash,60701.0,-3467539.0,4229051.0,-718331.0,SUP.AX
+totalCashFromOperatingActivities,-1814015.0,-6874695.0,-2234716.0,-363007.0,SUP.AX
+depreciation,2458.0,2001.0,2347.0,505.0,SUP.AX
+changeToAccountReceivables,144365.0,-123704.0,-54394.0,37180.0,SUP.AX
+otherCashflowsFromFinancingActivities,-143750.0,-143750.0,-288692.0,-288692.0,SUP.AX
+changeToNetincome,1095697.0,507198.0,13338549.0,13338549.0,SUP.AX
+capitalExpenditures,-581535.0,-361431.0,-823929.0,-30000.0,SUP.AX
+otherCashflowsFromInvestingActivities,,,-20000.0,-20000.0,SUP.AX
+netBorrowings,,,,-325324.0,SUP.AX

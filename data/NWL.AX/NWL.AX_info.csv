@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,3000,NWL.AX
+sector,Financial Services,NWL.AX
+compensationRisk,3,NWL.AX
+auditRisk,6,NWL.AX
+longBusinessSummary,"Netwealth Group Limited, a financial services company, engages in the wealth management business in Australia. It offers superannuation products, including accumulation and retirement income products; managed accounts; and managed funds, as well as investor directed portfolio services for self-managed super and non-super investments. The company also provides investment wrap products for self-managed super fund (SMSF) clients; investment options, such as listed and international securities, managed account models, managed funds, term deposits, premium services, and investor rewards; insurance products; forms and documents; and resources and tools, as well as advisory, licensee, and private wealth solutions. In addition, it offers a superannuation master fund, separately managed accounts, and self-managed superannuation administration services; and portfolio management tools, performance tools, investment research tools, and mobile access tools. The company offers its financial services to investors and non-institutional intermediaries, including financial advisers, private clients, and high net worth firms. Netwealth Group Limited was founded in 1999 and is headquartered in Melbourne, Australia.",NWL.AX
+city,Melbourne,NWL.AX
+phone,61 3 9655 1300,NWL.AX
+state,VIC,NWL.AX
+shareHolderRightsRisk,1,NWL.AX
+compensationAsOfEpochDate,1640908800,NWL.AX
+governanceEpochDate,1643673600,NWL.AX
+boardRisk,5,NWL.AX
+country,Australia,NWL.AX
+website,https://www.netwealth.com.au,NWL.AX
+maxAge,86400,NWL.AX
+overallRisk,3,NWL.AX
+address1,180 Flinders Street,NWL.AX
+fax,61 3 9655 1333,NWL.AX
+industry,Capital Markets,NWL.AX
+address2,Level 6,NWL.AX

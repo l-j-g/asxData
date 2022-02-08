@@ -1,0 +1,20 @@
+Breakdown,Value,ticker
+zip,55401,SZL.AX
+sector,Financial Services,SZL.AX
+fullTimeEmployees,280,SZL.AX
+compensationRisk,5,SZL.AX
+auditRisk,10,SZL.AX
+longBusinessSummary,"Sezzle Inc. operates as a technology-enabled payments company in United States, Canada, India, and Europe. The company provides a payments platform that facilitates payments between consumers with merchants. Its platform enables customers to make online purchases and split the payment for the purchase in four equal interest free payments over six weeks. The company offers its payment solution to online stores, as well as brick-and-mortar retailers. Sezzle Inc. was incorporated in 2016 and is headquartered in Minneapolis, Minnesota.",SZL.AX
+city,Minneapolis,SZL.AX
+state,MN,SZL.AX
+shareHolderRightsRisk,7,SZL.AX
+compensationAsOfEpochDate,1609372800,SZL.AX
+governanceEpochDate,1643673600,SZL.AX
+boardRisk,8,SZL.AX
+country,United States,SZL.AX
+website,https://www.sezzle.com,SZL.AX
+maxAge,86400,SZL.AX
+overallRisk,8,SZL.AX
+address1,251 1st Avenue North,SZL.AX
+industry,Credit Services,SZL.AX
+address2,Suite 200,SZL.AX

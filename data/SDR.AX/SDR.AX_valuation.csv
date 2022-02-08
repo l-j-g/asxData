@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,SDR.AX
+1,Enterprise Value,,SDR.AX
+2,Trailing P/E,,SDR.AX
+3,Forward P/E,,SDR.AX
+4,PEG Ratio (5 yr expected),,SDR.AX
+5,Price/Sales (ttm),,SDR.AX
+6,Price/Book (mrq),,SDR.AX
+7,Enterprise Value/Revenue,,SDR.AX
+8,Enterprise Value/EBITDA,,SDR.AX

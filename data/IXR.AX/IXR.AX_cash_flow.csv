@@ -1,0 +1,18 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+investments,-1210048.0,-1031673.0,-1031673.0,-1031673.0,IXR.AX
+changeToLiabilities,93524.0,21314.0,-203461.0,-182900.0,IXR.AX
+totalCashflowsFromInvestingActivities,-4119255.0,-1557370.0,59189.0,-894.0,IXR.AX
+totalCashFromFinancingActivities,15677357.0,2506982.0,1229181.0,1755930.0,IXR.AX
+changeToOperatingActivities,-8989.0,136.0,-1805.0,-235.0,IXR.AX
+issuanceOfStock,15677357.0,2666320.0,1425000.0,1649000.0,IXR.AX
+netIncome,-2377629.0,-1486254.0,-978314.0,-2004581.0,IXR.AX
+changeInCash,10225597.0,138780.0,368159.0,-218662.0,IXR.AX
+totalCashFromOperatingActivities,-1332505.0,-810905.0,-934585.0,-1808433.0,IXR.AX
+otherCashflowsFromInvestingActivities,213949.0,213949.0,213949.0,213949.0,IXR.AX
+changeToAccountReceivables,-46848.0,-16761.0,-16083.0,81291.0,IXR.AX
+changeToNetincome,1007437.0,670660.0,261724.0,241957.0,IXR.AX
+capitalExpenditures,-3165136.0,-525697.0,-525697.0,-894.0,IXR.AX
+effectOfExchangeRate,,73.0,14374.0,-165265.0,IXR.AX
+otherCashflowsFromFinancingActivities,,-159338.0,-95819.0,6930.0,IXR.AX
+netBorrowings,,,-100000.0,100000.0,IXR.AX
+depreciation,,,3354.0,56035.0,IXR.AX

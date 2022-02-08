@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,492913.0,-263583.0,-1147792.0,1621034.0,IVX.AX
+changeToOperatingActivities,-18245.0,-29784.0,-37687.0,46475.0,IVX.AX
+netIncome,-1482951.0,-953894.0,-1064098.0,-4870133.0,IVX.AX
+changeInCash,417975.0,-152470.0,-2120058.0,1973885.0,IVX.AX
+totalCashFromOperatingActivities,417975.0,-152470.0,-2105693.0,707087.0,IVX.AX
+depreciation,277867.0,277906.0,309568.0,1325135.0,IVX.AX
+changeToAccountReceivables,247705.0,-113674.0,-1458.0,-94334.0,IVX.AX
+changeToNetincome,900686.0,930559.0,-164226.0,2678910.0,IVX.AX
+totalCashflowsFromInvestingActivities,,,-13608.0,-13608.0,IVX.AX
+effectOfExchangeRate,,,-757.0,-1357.0,IVX.AX
+capitalExpenditures,,,-6054.0,-6054.0,IVX.AX
+netBorrowings,,,,-1237600.0,IVX.AX
+totalCashFromFinancingActivities,,,,1268155.0,IVX.AX
+issuanceOfStock,,,,3207534.0,IVX.AX
+otherCashflowsFromFinancingActivities,,,,-701779.0,IVX.AX

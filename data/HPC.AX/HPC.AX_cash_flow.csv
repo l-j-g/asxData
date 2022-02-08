@@ -1,0 +1,15 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,ticker
+changeToLiabilities,668938.0,177632.0,HPC.AX
+totalCashflowsFromInvestingActivities,2731925.0,-20477.0,HPC.AX
+changeToOperatingActivities,-380965.0,61676.0,HPC.AX
+netIncome,-743663.0,-3434151.0,HPC.AX
+changeInCash,-1091473.0,200086.0,HPC.AX
+effectOfExchangeRate,38925.0,-40817.0,HPC.AX
+totalCashFromOperatingActivities,-3862323.0,-2781297.0,HPC.AX
+depreciation,23488.0,11727.0,HPC.AX
+changeToInventory,-716699.0,718163.0,HPC.AX
+changeToAccountReceivables,-191966.0,-81961.0,HPC.AX
+changeToNetincome,-2521456.0,-234383.0,HPC.AX
+capitalExpenditures,-18075.0,-20477.0,HPC.AX
+totalCashFromFinancingActivities,,3042677.0,HPC.AX
+issuanceOfStock,,3042677.0,HPC.AX

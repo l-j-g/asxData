@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,6005,STX.AX
+sector,Energy,STX.AX
+compensationRisk,9,STX.AX
+auditRisk,2,STX.AX
+longBusinessSummary,"Strike Energy Limited explores for and develops oil and gas resources in Australia. The company primarily focuses on the West Erregulla project located in the Perth Basin. Strike Energy Limited was incorporated in 1997 and is headquartered in West Perth, Australia.",STX.AX
+city,West Perth,STX.AX
+phone,61 8 7099 7400,STX.AX
+state,WA,STX.AX
+shareHolderRightsRisk,1,STX.AX
+compensationAsOfEpochDate,1640908800,STX.AX
+governanceEpochDate,1643673600,STX.AX
+boardRisk,8,STX.AX
+country,Australia,STX.AX
+website,https://www.strikeenergy.com.au,STX.AX
+maxAge,86400,STX.AX
+overallRisk,6,STX.AX
+address1,66 Kings Park Road,STX.AX
+fax,61 2 8003 9282,STX.AX
+industry,Oil & Gas E&P,STX.AX
+address2,Level 2,STX.AX

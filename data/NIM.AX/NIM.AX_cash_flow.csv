@@ -1,0 +1,13 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,ticker
+changeToLiabilities,0,0,0,NIM.AX
+totalCashflowsFromInvestingActivities,-50630,-50630,-50630,NIM.AX
+netBorrowings,-145164,101783,134872,NIM.AX
+totalCashFromFinancingActivities,1429830,394783,134872,NIM.AX
+issuanceOfStock,1627269,293000,293000,NIM.AX
+netIncome,-677971,-170210,-134906,NIM.AX
+changeInCash,754016,218535,-34,NIM.AX
+totalCashFromOperatingActivities,-625184,-176248,-134906,NIM.AX
+depreciation,7050,7050,7050,NIM.AX
+otherCashflowsFromFinancingActivities,-52275,-52275,-52275,NIM.AX
+changeToNetincome,45737,-6038,-6038,NIM.AX
+capitalExpenditures,-50630,-50630,-50630,NIM.AX

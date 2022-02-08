@@ -1,0 +1,20 @@
+Breakdown,Value,ticker
+zip,3008,VEA.AX
+sector,Energy,VEA.AX
+compensationRisk,5,VEA.AX
+auditRisk,4,VEA.AX
+longBusinessSummary,"Viva Energy Group Limited operates as an energy company in Australia, Singapore, and Papua New Guinea. The company operates through three segments: Retail, Fuels and Marketing; Refining; and Supply, Corporate and Overheads. The Retail, Fuels and Marketing segment supplies and markets fuel products through a network of approximately 1,300 retail service stations, as well as to other retail operators and wholesalers. It is also involved in supplying of fuel, lubricants, and specialty hydrocarbon products to commercial customers in the aviation, marine, transport, resources, and construction and manufacturing industries. This segment sells its products primarily under Shell, Liberty, Westside Petroleum, and Viva Energy brands. The Refining segment owns and operates a refinery in Geelong, Victoria. It offers petroleum products, such as gasoline, diesel, jet fuel, aviation gasoline, gas, solvents, bitumen, and other specialty products. The Supply, Corporate and Overheads segment owns and manages an integrated supply chain of terminals, storage tanks, depots, pipelines, and distribution assets in Australia. The company was incorporated in 2018 and is based in Docklands, Australia.",VEA.AX
+city,Docklands,VEA.AX
+phone,61 3 8823 4444,VEA.AX
+state,VIC,VEA.AX
+shareHolderRightsRisk,1,VEA.AX
+compensationAsOfEpochDate,1609372800,VEA.AX
+governanceEpochDate,1632614400,VEA.AX
+boardRisk,4,VEA.AX
+country,Australia,VEA.AX
+website,https://www.vivaenergy.com.au,VEA.AX
+maxAge,86400,VEA.AX
+overallRisk,2,VEA.AX
+address1,720 Bourke Street,VEA.AX
+industry,Oil & Gas Refining & Marketing,VEA.AX
+address2,Level 16,VEA.AX

@@ -1,0 +1,18 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+investments,1942112.0,3890993.0,3890993.0,3890993.0,KGD.AX
+changeToLiabilities,-68845.0,73094.0,0.0,0.0,KGD.AX
+totalCashflowsFromInvestingActivities,1938813.0,745303.0,745303.0,-345431.0,KGD.AX
+netBorrowings,-121810.0,-301600.0,396000.0,20000.0,KGD.AX
+totalCashFromFinancingActivities,-121810.0,-305597.0,396000.0,571157.0,KGD.AX
+changeToOperatingActivities,-51028.0,-618896.0,-19712.0,185245.0,KGD.AX
+netIncome,-548943.0,49727.0,-422008.0,-14915126.0,KGD.AX
+changeInCash,1167586.0,13357.0,-32491.0,-360112.0,KGD.AX
+totalCashFromOperatingActivities,-649417.0,-426348.0,-428491.0,-571567.0,KGD.AX
+depreciation,12320.0,1783.0,547.0,1586.0,KGD.AX
+changeToNetincome,7079.0,76450.0,12682.0,14156728.0,KGD.AX
+capitalExpenditures,-3299.0,-3299.0,-3299.0,-3299.0,KGD.AX
+otherCashflowsFromInvestingActivities,,-3145690.0,-3145690.0,-345431.0,KGD.AX
+changeToAccountReceivables,,-8506.0,-8506.0,-8506.0,KGD.AX
+otherCashflowsFromFinancingActivities,,-3997.0,-3997.0,-74940.0,KGD.AX
+issuanceOfStock,,,,626097.0,KGD.AX
+effectOfExchangeRate,,,,-14270.0,KGD.AX

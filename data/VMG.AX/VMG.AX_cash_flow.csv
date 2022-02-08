@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,47000.0,-505000.0,12000.0,406000.0,VMG.AX
+totalCashflowsFromInvestingActivities,19000.0,19000.0,19000.0,988000.0,VMG.AX
+changeToOperatingActivities,-141000.0,-420000.0,-296000.0,-654000.0,VMG.AX
+netIncome,-927000.0,-1719000.0,-1904000.0,-2881000.0,VMG.AX
+changeInCash,-965000.0,-2637000.0,1281000.0,2588000.0,VMG.AX
+totalCashFromOperatingActivities,-984000.0,-2637000.0,-1617000.0,-2388000.0,VMG.AX
+depreciation,10000.0,11000.0,13000.0,96000.0,VMG.AX
+otherCashflowsFromInvestingActivities,19000.0,19000.0,19000.0,979000.0,VMG.AX
+changeToAccountReceivables,14000.0,-4000.0,18000.0,140000.0,VMG.AX
+changeToNetincome,13000.0,13000.0,540000.0,341000.0,VMG.AX
+netBorrowings,,,-1102000.0,-1102000.0,VMG.AX
+totalCashFromFinancingActivities,,,2898000.0,3988000.0,VMG.AX
+issuanceOfStock,,,4000000.0,4000000.0,VMG.AX
+changeToInventory,,,,164000.0,VMG.AX
+otherCashflowsFromFinancingActivities,,,,-12000.0,VMG.AX

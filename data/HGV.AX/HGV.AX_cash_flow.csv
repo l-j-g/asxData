@@ -1,0 +1,20 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,69000.0,-6272000.0,5787000.0,-742000.0,HGV.AX
+changeToOperatingActivities,1758000.0,-2524000.0,3053000.0,-673000.0,HGV.AX
+netIncome,-4024000.0,-40082000.0,21620000.0,5144000.0,HGV.AX
+changeInCash,2404000.0,-25350000.0,25045000.0,-22454000.0,HGV.AX
+effectOfExchangeRate,41000.0,244000.0,767000.0,-603000.0,HGV.AX
+totalCashFromOperatingActivities,2363000.0,-24444000.0,24278000.0,-8267000.0,HGV.AX
+depreciation,1000.0,10000.0,7000.0,709000.0,HGV.AX
+changeToAccountReceivables,-4597000.0,68000.0,47000.0,324000.0,HGV.AX
+changeToNetincome,6275000.0,41568000.0,-33129000.0,-11011000.0,HGV.AX
+totalCashFromFinancingActivities,,-1151000.0,-1151000.0,77573000.0,HGV.AX
+issuanceOfStock,,351000.0,351000.0,20542000.0,HGV.AX
+repurchaseOfStock,,-1502000.0,-1502000.0,-1502000.0,HGV.AX
+investments,,,,-7943000.0,HGV.AX
+totalCashflowsFromInvestingActivities,,,,-91157000.0,HGV.AX
+netBorrowings,,,,19130000.0,HGV.AX
+otherCashflowsFromInvestingActivities,,,,334000.0,HGV.AX
+changeToInventory,,,,-2018000.0,HGV.AX
+otherCashflowsFromFinancingActivities,,,,37901000.0,HGV.AX
+capitalExpenditures,,,,-1764000.0,HGV.AX

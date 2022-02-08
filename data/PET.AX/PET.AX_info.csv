@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,3000,PET.AX
+sector,Industrials,PET.AX
+fullTimeEmployees,50,PET.AX
+compensationRisk,9,PET.AX
+auditRisk,10,PET.AX
+longBusinessSummary,"Phoslock Environmental Technologies Limited engages in the design, engineering, and project implementation solutions for water related projects and water treatment products. It offers Phoslock, a lanthanum modified bentonite material that removes excess phosphate from water and reduces the growth of harmful algae; Zeolite that is applied to heavily polluted water in order to bind nitrogen; and Bacteria for use in water treatment processes to enhance the quality of water. The company's products are used to clean up lakes, rivers, canals, and drinking water reservoirs. It operates in Australia and New Zealand; Europe and the United Kingdom; the United States, Canada, and Brazil; and China. The company was formerly known as Phoslock Water Solutions Limited and changed its name to Phoslock Environmental Technologies Limited in August 2018. Phoslock Water Solutions Limited was incorporated in 2002 and is headquartered in Melbourne, Australia.",PET.AX
+city,Melbourne,PET.AX
+phone,61 3 9110 0002,PET.AX
+state,VIC,PET.AX
+shareHolderRightsRisk,7,PET.AX
+compensationAsOfEpochDate,1609372800,PET.AX
+governanceEpochDate,1632614400,PET.AX
+boardRisk,9,PET.AX
+country,Australia,PET.AX
+website,https://www.phoslock.com.au,PET.AX
+maxAge,86400,PET.AX
+overallRisk,10,PET.AX
+address1,1 Collins Street,PET.AX
+industry,Pollution & Treatment Controls,PET.AX
+address2,Level 16,PET.AX

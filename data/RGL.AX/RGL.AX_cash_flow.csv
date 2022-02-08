@@ -1,0 +1,17 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,70339.0,-151342.0,90279.0,-39957.0,RGL.AX
+totalCashflowsFromInvestingActivities,-1065666.0,-357914.0,-2454943.0,-2162279.0,RGL.AX
+netBorrowings,-22370.0,-67915.0,100000.0,-229504.0,RGL.AX
+totalCashFromFinancingActivities,987421.0,1921996.0,883351.0,5565733.0,RGL.AX
+changeToOperatingActivities,2362.0,340.0,13986.0,13986.0,RGL.AX
+issuanceOfStock,1027808.0,2084232.0,821209.0,6415485.0,RGL.AX
+netIncome,-1634151.0,-1661033.0,-3856352.0,-7387689.0,RGL.AX
+changeInCash,-983667.0,871504.0,-2488874.0,2658121.0,RGL.AX
+effectOfExchangeRate,108.0,108.0,-490.0,41059.0,RGL.AX
+totalCashFromOperatingActivities,-905530.0,-692578.0,-916792.0,-786392.0,RGL.AX
+depreciation,76630.0,52618.0,2835442.0,17356.0,RGL.AX
+changeToAccountReceivables,-176854.0,-8481.0,16656.0,-11543.0,RGL.AX
+otherCashflowsFromFinancingActivities,-18017.0,-94321.0,-37858.0,-620248.0,RGL.AX
+changeToNetincome,756144.0,1075320.0,-16803.0,6621455.0,RGL.AX
+capitalExpenditures,-1704009.0,-357914.0,-2454943.0,-1948180.0,RGL.AX
+otherCashflowsFromInvestingActivities,,,,-226666.0,RGL.AX

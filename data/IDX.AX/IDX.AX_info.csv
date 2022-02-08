@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,3000,IDX.AX
+sector,Healthcare,IDX.AX
+fullTimeEmployees,1524,IDX.AX
+compensationRisk,3,IDX.AX
+auditRisk,4,IDX.AX
+longBusinessSummary,"Integral Diagnostics Limited, a healthcare services company, provides diagnostic imaging services to general practitioners, medical specialists, and allied health professionals and their patients in Australia and New Zealand. The company provides its services through 67 radiology clinics. Integral Diagnostics Limited was incorporated in 2008 and is headquartered in Melbourne, Australia.",IDX.AX
+city,Melbourne,IDX.AX
+phone,61 3 5339 0704,IDX.AX
+state,VIC,IDX.AX
+shareHolderRightsRisk,1,IDX.AX
+compensationAsOfEpochDate,1640908800,IDX.AX
+governanceEpochDate,1632614400,IDX.AX
+boardRisk,1,IDX.AX
+country,Australia,IDX.AX
+website,https://www.integraldiagnostics.com.au,IDX.AX
+maxAge,86400,IDX.AX
+overallRisk,1,IDX.AX
+address1,45 William Street,IDX.AX
+fax,61 3 9321 4926,IDX.AX
+industry,Diagnostics & Research,IDX.AX
+address2,Suite 9.02 Level 9,IDX.AX

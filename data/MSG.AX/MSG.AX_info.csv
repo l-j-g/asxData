@@ -1,0 +1,15 @@
+Breakdown,Value,ticker
+zip,6027,MSG.AX
+sector,Industrials,MSG.AX
+fullTimeEmployees,600,MSG.AX
+longBusinessSummary,"MCS Services Limited, together with its subsidiaries, provides guard security and related services in Australia. It offers uniformed unarmed guards at retail shopping centers, government offices, health facilities, commercial properties, sports stadia, and events in the Perth metropolitan area and Western Australia. The company also provides covert security, mobile patrol, and response vehicle services. In addition, it engages in supplying, installing, and commissioning of security alarms, CCTV, biometric, and access control systems to the commercial, industrial, and domestic sectors. The company was founded in 2005 and is headquartered in Joondalup, Australia.",MSG.AX
+city,Joondalup,MSG.AX
+phone,61 8 9301 2420,MSG.AX
+state,WA,MSG.AX
+compensationAsOfEpochDate,1640908800,MSG.AX
+country,Australia,MSG.AX
+website,https://mcssecurity.com.au,MSG.AX
+maxAge,86400,MSG.AX
+address1,"3/108, Winton Road",MSG.AX
+fax,61 8 9301 2421,MSG.AX
+industry,Security & Protection Services,MSG.AX

@@ -1,0 +1,16 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+changeToLiabilities,-260146.0,160084.0,91496.0,-44557.0,PRS.AX
+totalCashflowsFromInvestingActivities,-936857.0,-802292.0,-1064757.0,-898166.0,PRS.AX
+totalCashFromFinancingActivities,5335513.0,1065000.0,577500.0,1649054.0,PRS.AX
+changeToOperatingActivities,2761.0,3951.0,3951.0,3951.0,PRS.AX
+issuanceOfStock,5750000.0,1065000.0,577500.0,1649054.0,PRS.AX
+netIncome,-1398053.0,-394826.0,-546953.0,-497622.0,PRS.AX
+changeInCash,4110716.0,56444.0,-892746.0,219028.0,PRS.AX
+totalCashFromOperatingActivities,-287940.0,-206264.0,-408239.0,-536799.0,PRS.AX
+depreciation,13365.0,16721.0,18628.0,7994.0,PRS.AX
+changeToAccountReceivables,27555.0,7615.0,9571.0,-9840.0,PRS.AX
+otherCashflowsFromFinancingActivities,-414487.0,-414487.0,-414487.0,-414487.0,PRS.AX
+changeToNetincome,1326578.0,191.0,81.0,914.0,PRS.AX
+capitalExpenditures,-936857.0,-802292.0,-1064758.0,-898166.0,PRS.AX
+effectOfExchangeRate,,1.0,2750.0,4939.0,PRS.AX
+otherCashflowsFromInvestingActivities,,,1.0,1.0,PRS.AX

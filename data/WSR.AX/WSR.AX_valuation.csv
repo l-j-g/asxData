@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,WSR.AX
+1,Enterprise Value,,WSR.AX
+2,Trailing P/E,,WSR.AX
+3,Forward P/E,,WSR.AX
+4,PEG Ratio (5 yr expected),,WSR.AX
+5,Price/Sales (ttm),,WSR.AX
+6,Price/Book (mrq),,WSR.AX
+7,Enterprise Value/Revenue,,WSR.AX
+8,Enterprise Value/EBITDA,,WSR.AX

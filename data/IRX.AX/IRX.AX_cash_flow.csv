@@ -1,0 +1,17 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+changeToLiabilities,104819.0,-124700.0,-361294.0,-195516.0,IRX.AX
+totalCashflowsFromInvestingActivities,-4302.0,-36342.0,-137038.0,13676.0,IRX.AX
+totalCashFromFinancingActivities,2370695.0,2370695.0,2370695.0,-547800.0,IRX.AX
+changeToOperatingActivities,-70658.0,-11809.0,-10303.0,-9747.0,IRX.AX
+issuanceOfStock,2407228.0,2407228.0,2407228.0,2407228.0,IRX.AX
+netIncome,-1205276.0,-2387735.0,-1675720.0,-2746076.0,IRX.AX
+changeInCash,1294557.0,-1889591.0,-2201503.0,-3094489.0,IRX.AX
+effectOfExchangeRate,-22600.0,12935.0,12935.0,12935.0,IRX.AX
+totalCashFromOperatingActivities,-1049236.0,-1866184.0,-2064465.0,-2560365.0,IRX.AX
+changeToAccountReceivables,92532.0,58751.0,77106.0,159227.0,IRX.AX
+otherCashflowsFromFinancingActivities,-36533.0,-36533.0,-36533.0,-547800.0,IRX.AX
+changeToNetincome,29347.0,538162.0,-165366.0,88172.0,IRX.AX
+depreciation,,61147.0,33140.0,31945.0,IRX.AX
+capitalExpenditures,,-36342.0,-88790.0,-59371.0,IRX.AX
+investments,,,,-120000.0,IRX.AX
+otherCashflowsFromInvestingActivities,,,,206664.0,IRX.AX

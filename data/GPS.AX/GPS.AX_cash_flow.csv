@@ -1,0 +1,13 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+netIncome,-1393000.0,-1454000.0,-261000.0,40000.0,GPS.AX
+changeToNetincome,211000.0,769000.0,-879000.0,-669000.0,GPS.AX
+changeToAccountReceivables,638000.0,-41000.0,200000.0,162000.0,GPS.AX
+changeToLiabilities,84000.0,578000.0,605000.0,406000.0,GPS.AX
+totalCashFromOperatingActivities,-460000.0,-148000.0,-163000.0,280000.0,GPS.AX
+changeInCash,-460000.0,452000.0,-173000.0,-109000.0,GPS.AX
+totalCashFromFinancingActivities,,600000.0,-283000.0,-389000.0,GPS.AX
+issuanceOfStock,,600000.0,600000.0,600000.0,GPS.AX
+totalCashflowsFromInvestingActivities,,,273000.0,273000.0,GPS.AX
+netBorrowings,,,-283000.0,-389000.0,GPS.AX
+depreciation,,,172000.0,341000.0,GPS.AX
+otherCashflowsFromInvestingActivities,,,150000.0,150000.0,GPS.AX

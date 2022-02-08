@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,44290.0,92904.0,WRK.AX
+effectOfAccountingCharges,,,,,WRK.AX
+incomeBeforeTax,-3788972,-3671857,-12969059,-3087152,WRK.AX
+minorityInterest,,,,,WRK.AX
+netIncome,-3788972,-3666012,-13022078,-2554325,WRK.AX
+sellingGeneralAdministrative,2870891,2397384,2118980,1700612,WRK.AX
+grossProfit,1640743,990175,1338727,1315094,WRK.AX
+ebit,-3847334,-3725124,-3283400,-3109048,WRK.AX
+operatingIncome,-3847334,-3725124,-3283400,-3109048,WRK.AX
+otherOperatingExpenses,618830,344933,326630,300398,WRK.AX
+interestExpense,-2255,-24183,-665,-551,WRK.AX
+extraordinaryItems,,,,,WRK.AX
+nonRecurring,,,,,WRK.AX
+otherItems,,,,,WRK.AX
+incomeTaxExpense,0,-5845,53019,-532827,WRK.AX
+totalRevenue,2099224,1494154,1795357,1774736,WRK.AX
+totalOperatingExpenses,5946558,5219278,5078757,4883784,WRK.AX
+costOfRevenue,458481,503979,456630,459642,WRK.AX
+totalOtherIncomeExpenseNet,58362,53267,-9685659,21896,WRK.AX
+discontinuedOperations,,,,,WRK.AX
+netIncomeFromContinuingOps,-3788972,-3666012,-13022078,-2554325,WRK.AX
+netIncomeApplicableToCommonShares,-3788972,-3666012,-13022078,-2554325,WRK.AX

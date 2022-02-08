@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,-78028.0,10921.0,-310562.0,882932.0,SKN.AX
+totalCashflowsFromInvestingActivities,-36410.0,-30000.0,-6148.0,-192965.0,SKN.AX
+netBorrowings,100000.0,300000.0,200000.0,99000.0,SKN.AX
+totalCashFromFinancingActivities,2819745.0,2017677.0,1745168.0,281500.0,SKN.AX
+issuanceOfStock,2719745.0,1805532.0,1744963.0,182500.0,SKN.AX
+netIncome,-3042523.0,-1910234.0,-1967761.0,-2728114.0,SKN.AX
+changeInCash,81685.0,89709.0,-79423.0,-1211492.0,SKN.AX
+totalCashFromOperatingActivities,-2701650.0,-1897968.0,-1818443.0,-1300027.0,SKN.AX
+depreciation,392826.0,387491.0,390794.0,298177.0,SKN.AX
+changeToInventory,-67520.0,-137984.0,76397.0,-393607.0,SKN.AX
+changeToAccountReceivables,79156.0,-433742.0,56933.0,12147.0,SKN.AX
+changeToNetincome,3357.0,181777.0,135027.0,880940.0,SKN.AX
+otherCashflowsFromFinancingActivities,,-87855.0,-199795.0,-199795.0,SKN.AX
+changeToOperatingActivities,,,,-59718.0,SKN.AX
+otherCashflowsFromInvestingActivities,,,,196584.0,SKN.AX

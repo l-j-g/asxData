@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,OLL.AX
+effectOfAccountingCharges,,,,,OLL.AX
+incomeBeforeTax,-5624265,-7719951,-4547890,-4117000,OLL.AX
+minorityInterest,,,,,OLL.AX
+netIncome,-5624265,-7719951,-4391627,-3918000,OLL.AX
+sellingGeneralAdministrative,2110735,1125616,1616234,1375000,OLL.AX
+grossProfit,-3405879,-3211455,-2991531,-2575000,OLL.AX
+ebit,-5770183,-4399930,-4566167,-4042000,OLL.AX
+operatingIncome,-5770183,-4399930,-4566167,-4042000,OLL.AX
+otherOperatingExpenses,,,-65560.0,26000.0,OLL.AX
+interestExpense,-17544,-31044,-11686,-89000,OLL.AX
+extraordinaryItems,,,,,OLL.AX
+nonRecurring,,,,,OLL.AX
+otherItems,,,,,OLL.AX
+incomeTaxExpense,0,0,-156263,-199000,OLL.AX
+totalRevenue,1888636,1602613,1765095,1174000,OLL.AX
+totalOperatingExpenses,7658819,6002543,6331262,5216000,OLL.AX
+costOfRevenue,5294515,4814068,4756626,3749000,OLL.AX
+totalOtherIncomeExpenseNet,145918,-3320021,18277,-75000,OLL.AX
+discontinuedOperations,,,,,OLL.AX
+netIncomeFromContinuingOps,-5624265,-7719951,-4391627,-3918000,OLL.AX
+netIncomeApplicableToCommonShares,-5624265,-7719951,-4391627,-3918000,OLL.AX

@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,PNX.AX
+effectOfAccountingCharges,,,,,PNX.AX
+incomeBeforeTax,-1255883,-1655714,-1299818,-1253295,PNX.AX
+minorityInterest,,,,,PNX.AX
+netIncome,-1256079,-1505525,-1079982,-1000675,PNX.AX
+sellingGeneralAdministrative,1122916,1026365,1002257,956535,PNX.AX
+grossProfit,112681,70000,60431,24920,PNX.AX
+ebit,-1195020,-1637571,-1244042,-1139591,PNX.AX
+operatingIncome,-1195020,-1637571,-1244042,-1139591,PNX.AX
+otherOperatingExpenses,73017,105072,83696,91421,PNX.AX
+interestExpense,-403,-403,-403,-59845,PNX.AX
+extraordinaryItems,,,,,PNX.AX
+nonRecurring,,,,,PNX.AX
+otherItems,,,,,PNX.AX
+incomeTaxExpense,196,-150189,-219836,-252620,PNX.AX
+totalRevenue,112681,70000,60431,24920,PNX.AX
+totalOperatingExpenses,1307701,1707571,1304473,1164511,PNX.AX
+costOfRevenue,0,0,0,0,PNX.AX
+totalOtherIncomeExpenseNet,-60863,-18143,-55776,-113704,PNX.AX
+discontinuedOperations,,,,,PNX.AX
+netIncomeFromContinuingOps,-1256079,-1505525,-1079982,-1000675,PNX.AX
+netIncomeApplicableToCommonShares,-1256079,-1505525,-1079982,-1000675,PNX.AX

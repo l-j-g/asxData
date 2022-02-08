@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,4000,SXY.AX
+sector,Energy,SXY.AX
+compensationRisk,10,SXY.AX
+auditRisk,4,SXY.AX
+longBusinessSummary,"Senex Energy Limited, together with its subsidiaries, engages in the exploration, development, and production of oil and gas resources in Australia. It primarily holds oil and gas assets in the Surat Basin located in Queensland. The company was formerly known as Victoria Petroleum NL and changed its name to Senex Energy Limited in 2010. Senex Energy Limited was incorporated in 1980 and is headquartered in Brisbane, Australia.",SXY.AX
+city,Brisbane,SXY.AX
+phone,61 7 3335 9000,SXY.AX
+state,QLD,SXY.AX
+shareHolderRightsRisk,7,SXY.AX
+compensationAsOfEpochDate,1640908800,SXY.AX
+governanceEpochDate,1643673600,SXY.AX
+boardRisk,3,SXY.AX
+country,Australia,SXY.AX
+website,https://www.senexenergy.com.au,SXY.AX
+maxAge,86400,SXY.AX
+overallRisk,6,SXY.AX
+address1,180 Ann Street,SXY.AX
+fax,61 7 3335 9999,SXY.AX
+industry,Oil & Gas E&P,SXY.AX
+address2,Level 30,SXY.AX

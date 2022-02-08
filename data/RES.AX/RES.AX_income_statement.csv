@@ -1,0 +1,23 @@
+Breakdown,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,2017-06-30 00:00:00,ticker
+researchDevelopment,,,,,RES.AX
+effectOfAccountingCharges,,,,,RES.AX
+incomeBeforeTax,-21587000,-6043000,-10342000,-1975000,RES.AX
+minorityInterest,,,,,RES.AX
+netIncome,-21587000,-6043000,-10342000,-1974000,RES.AX
+sellingGeneralAdministrative,4795000,4782000,5678000,6601000,RES.AX
+grossProfit,174000,80000,333000,577000,RES.AX
+ebit,-4698000,-4457000,-5927000,-6411000,RES.AX
+operatingIncome,-4698000,-4457000,-5927000,-6411000,RES.AX
+otherOperatingExpenses,,,,,RES.AX
+interestExpense,-2836000,-594000,-1627000,-3000,RES.AX
+extraordinaryItems,,,,,RES.AX
+nonRecurring,,,,,RES.AX
+otherItems,,,,,RES.AX
+incomeTaxExpense,0,0,0,-1000,RES.AX
+totalRevenue,174000,80000,333000,577000,RES.AX
+totalOperatingExpenses,4872000,4537000,6260000,6988000,RES.AX
+costOfRevenue,0,0,0,0,RES.AX
+totalOtherIncomeExpenseNet,-16889000,-1586000,-4415000,4436000,RES.AX
+discontinuedOperations,,,,,RES.AX
+netIncomeFromContinuingOps,-21587000,-6043000,-10342000,-1974000,RES.AX
+netIncomeApplicableToCommonShares,-21587000,-6043000,-10342000,-1974000,RES.AX

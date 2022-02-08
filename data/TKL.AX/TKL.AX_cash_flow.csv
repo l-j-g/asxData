@@ -1,0 +1,13 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,17479.0,-316369.0,275986.0,45954.0,TKL.AX
+totalCashflowsFromInvestingActivities,-2900.0,250000.0,-8663.0,-1035.0,TKL.AX
+totalCashFromFinancingActivities,2125835.0,-5602.0,481833.0,1848933.0,TKL.AX
+issuanceOfStock,2239681.0,2239681.0,508845.0,2009710.0,TKL.AX
+netIncome,-1705258.0,-862658.0,-1412947.0,-1265290.0,TKL.AX
+changeInCash,476830.0,-782799.0,-599735.0,647227.0,TKL.AX
+totalCashFromOperatingActivities,-1646105.0,-1027197.0,-1072905.0,-1200671.0,TKL.AX
+depreciation,53129.0,4493.0,21709.0,16660.0,TKL.AX
+changeToAccountReceivables,-11455.0,28877.0,-9353.0,-20158.0,TKL.AX
+otherCashflowsFromFinancingActivities,-113846.0,-5602.0,-27012.0,-160777.0,TKL.AX
+capitalExpenditures,-2900.0,-2900.0,-8663.0,-1035.0,TKL.AX
+changeToNetincome,,118460.0,51700.0,22163.0,TKL.AX

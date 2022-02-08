@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,3000,IRE.AX
+sector,Technology,IRE.AX
+fullTimeEmployees,2250,IRE.AX
+compensationRisk,10,IRE.AX
+auditRisk,1,IRE.AX
+longBusinessSummary,"Iress Limited designs and develops software and services for the financial services industry in Australia, New Zealand, Asia, North America, Europe, South Africa, and the United Kingdom. It offers client management, business automation, portfolio data, research, financial planning tools, scaled advice journeys, digital client solutions, data-driven compliance and analytics, and consent infrastructure-as-a-service; and market data, trading interfaces, order and execution management, smart order routing, FIX services, portfolio management, securities lending, analytical tools, algorithmic trading, market making, CFD clearing, post trade solutions, and trading and market data APIs. The company also provides connectivity, client relationship management, wealth management, funds registry, digital advice, digital member portal, fund administration services, automated workflow, application processing, connectivity, mortgage comparison, mortgage advice, lender connectivity, quoting, comparison, and application processing solutions. It offers its solutions to institutional and independent advisory clients; institutional sell-side, retail, and online brokers; investment, fund, private client, and wealth managers; retail and investment platforms; superannuation funds; and mortgage lenders and intermediaries. The company was formerly known as IRESS Market Technology Limited and changed its name to IRESS Limited in May 2012. Iress Limited was incorporated in 1993 and is based in Melbourne, Australia.",IRE.AX
+city,Melbourne,IRE.AX
+phone,61 3 9018 5800,IRE.AX
+state,VIC,IRE.AX
+shareHolderRightsRisk,1,IRE.AX
+compensationAsOfEpochDate,1609372800,IRE.AX
+governanceEpochDate,1643673600,IRE.AX
+boardRisk,6,IRE.AX
+country,Australia,IRE.AX
+website,https://www.iress.com,IRE.AX
+maxAge,86400,IRE.AX
+overallRisk,8,IRE.AX
+address1,385 Bourke Street,IRE.AX
+fax,61 3 9018 5844,IRE.AX
+industry,Software—Application,IRE.AX
+address2,Level 16,IRE.AX

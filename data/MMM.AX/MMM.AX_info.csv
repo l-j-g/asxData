@@ -1,0 +1,19 @@
+Breakdown,Value,ticker
+zip,10999,MMM.AX
+sector,Consumer Cyclical,MMM.AX
+fullTimeEmployees,1273,MMM.AX
+compensationRisk,6,MMM.AX
+auditRisk,7,MMM.AX
+longBusinessSummary,"Marley Spoon AG provides subscription-based weekly meal kit services in Australia, the United States, Austria, Belgium, Denmark, Sweden, Germany, and the Netherlands. The company creates original recipes and delivers ingredients directly to customers for them to prepare and cook. As of December 31, 2020, it had approximately 327,000 active customers across the Marley Spoon and Dinnerly brands. The company was founded in 2014 and is headquartered in Berlin, Germany.",MMM.AX
+city,Berlin,MMM.AX
+phone,49 17 1611 5916,MMM.AX
+shareHolderRightsRisk,10,MMM.AX
+compensationAsOfEpochDate,1609372800,MMM.AX
+governanceEpochDate,1632614400,MMM.AX
+boardRisk,1,MMM.AX
+country,Germany,MMM.AX
+website,https://www.marleyspoon.de,MMM.AX
+maxAge,86400,MMM.AX
+overallRisk,5,MMM.AX
+address1,Paul-Lincke-Ufer 39/40,MMM.AX
+industry,Restaurants,MMM.AX

@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,3000,SSM.AX
+sector,Industrials,SSM.AX
+compensationRisk,9,SSM.AX
+auditRisk,3,SSM.AX
+longBusinessSummary,"Service Stream Limited engages in the access, design, build, installation, and maintenance of networks in Australia. It operates in two segments, Telecommunications and Utilities. The Telecommunications segment provides various operations, maintenance, installation, design, and construction services to owners of fixed-line and wireless telecommunication, including customer connections; service and network assurance; site acquisition; and design, construction, and installation of broadband, wireless, and fixed-line project services, as well as projects for asset remediation, augmentation, and relocation. The Utilities segment offers operations, maintenance, design, and construction services, as well as range of specialist metering, new energy, and inspection services to gas, water, and electricity network owners and other customers. Its services include asset upgrades and replacement; design, engineering, and construction services for network assets and energy-related products; and meter reading and network assurance, as well as specialist inspection, auditing, and compliance services. The company was incorporated in 1996 and is headquartered in Melbourne, Australia.",SSM.AX
+city,Melbourne,SSM.AX
+phone,61 3 9677 8888,SSM.AX
+state,VIC,SSM.AX
+shareHolderRightsRisk,1,SSM.AX
+compensationAsOfEpochDate,1640908800,SSM.AX
+governanceEpochDate,1632614400,SSM.AX
+boardRisk,7,SSM.AX
+country,Australia,SSM.AX
+website,https://www.servicestream.com.au,SSM.AX
+maxAge,86400,SSM.AX
+overallRisk,7,SSM.AX
+address1,357 Collins Street,SSM.AX
+fax,61 3 9677 8877,SSM.AX
+industry,Engineering & Construction,SSM.AX
+address2,Level 4,SSM.AX

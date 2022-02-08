@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,IHR.AX
+1,Enterprise Value,,IHR.AX
+2,Trailing P/E,,IHR.AX
+3,Forward P/E,,IHR.AX
+4,PEG Ratio (5 yr expected),,IHR.AX
+5,Price/Sales (ttm),,IHR.AX
+6,Price/Book (mrq),,IHR.AX
+7,Enterprise Value/Revenue,,IHR.AX
+8,Enterprise Value/EBITDA,,IHR.AX

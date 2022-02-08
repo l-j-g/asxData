@@ -1,0 +1,17 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,ticker
+changeToLiabilities,151000.0,-179000.0,201000.0,NGS.AX
+totalCashflowsFromInvestingActivities,-76000.0,-16000.0,-20000.0,NGS.AX
+netBorrowings,1180000.0,1180000.0,1180000.0,NGS.AX
+totalCashFromFinancingActivities,5694000.0,5694000.0,-289000.0,NGS.AX
+changeToOperatingActivities,162000.0,144000.0,156000.0,NGS.AX
+issuanceOfStock,4514000.0,4514000.0,4514000.0,NGS.AX
+netIncome,-4361000.0,-2031000.0,-44000.0,NGS.AX
+changeInCash,4050000.0,-1817000.0,-16000.0,NGS.AX
+totalCashFromOperatingActivities,-1568000.0,-1801000.0,293000.0,NGS.AX
+depreciation,10000.0,9000.0,1000.0,NGS.AX
+otherCashflowsFromInvestingActivities,4000.0,-1000.0,-7000.0,NGS.AX
+changeToInventory,-9000.0,-64000.0,-72000.0,NGS.AX
+changeToAccountReceivables,-26000.0,-5000.0,16000.0,NGS.AX
+changeToNetincome,2505000.0,325000.0,35000.0,NGS.AX
+capitalExpenditures,-5000.0,-15000.0,-13000.0,NGS.AX
+dividendsPaid,,,-289000.0,NGS.AX

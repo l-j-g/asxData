@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,HTA.AX
+effectOfAccountingCharges,,,,,HTA.AX
+incomeBeforeTax,825441000,-154870000,4475000,-37557000,HTA.AX
+minorityInterest,,,,,HTA.AX
+netIncome,825441000,-154870000,4475000,-37557000,HTA.AX
+sellingGeneralAdministrative,,,,,HTA.AX
+grossProfit,-185000,4274000,10619000,6164000,HTA.AX
+ebit,-185000,4274000,9457000,4942000,HTA.AX
+operatingIncome,-185000,4274000,9457000,4942000,HTA.AX
+otherOperatingExpenses,,,1162000.0,1222000.0,HTA.AX
+interestExpense,,,,,HTA.AX
+extraordinaryItems,,,,,HTA.AX
+nonRecurring,,,,,HTA.AX
+otherItems,,,,,HTA.AX
+incomeTaxExpense,0,0,0,0,HTA.AX
+totalRevenue,1272000,5697000,10619000,6164000,HTA.AX
+totalOperatingExpenses,1457000,1423000,1162000,1222000,HTA.AX
+costOfRevenue,1457000,1423000,0,0,HTA.AX
+totalOtherIncomeExpenseNet,825626000,-159144000,-4982000,-42499000,HTA.AX
+discontinuedOperations,,,,,HTA.AX
+netIncomeFromContinuingOps,825441000,-154870000,4475000,-37557000,HTA.AX
+netIncomeApplicableToCommonShares,825441000,-154870000,4475000,-37557000,HTA.AX

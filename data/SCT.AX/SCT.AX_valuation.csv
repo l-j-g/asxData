@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,SCT.AX
+1,Enterprise Value,,SCT.AX
+2,Trailing P/E,,SCT.AX
+3,Forward P/E,,SCT.AX
+4,PEG Ratio (5 yr expected),,SCT.AX
+5,Price/Sales (ttm),,SCT.AX
+6,Price/Book (mrq),,SCT.AX
+7,Enterprise Value/Revenue,,SCT.AX
+8,Enterprise Value/EBITDA,,SCT.AX

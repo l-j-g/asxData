@@ -1,0 +1,15 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,8087,-42298,132198,-33974,IOD.AX
+totalCashflowsFromInvestingActivities,-111104,-111104,-111104,-111104,IOD.AX
+netBorrowings,-95727,-94334,-16810,-16809,IOD.AX
+totalCashFromFinancingActivities,1664287,2221547,1102284,798866,IOD.AX
+changeToOperatingActivities,35620,-26755,-74779,110883,IOD.AX
+issuanceOfStock,1769999,2387882,1241889,910353,IOD.AX
+netIncome,-2204414,-2420824,-1113823,-882710,IOD.AX
+changeInCash,-87636,606287,-14456,-46147,IOD.AX
+totalCashFromOperatingActivities,-1640819,-1615260,-1116740,-845013,IOD.AX
+depreciation,90537,90381,7560,7560,IOD.AX
+otherCashflowsFromInvestingActivities,-111104,-111104,-111104,-111104,IOD.AX
+changeToAccountReceivables,66135,54273,-72060,29892,IOD.AX
+otherCashflowsFromFinancingActivities,-9985,-72001,-122795,-94678,IOD.AX
+changeToNetincome,363216,717144,717144,-80481,IOD.AX

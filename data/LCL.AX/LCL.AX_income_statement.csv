@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,LCL.AX
+effectOfAccountingCharges,,,,,LCL.AX
+incomeBeforeTax,-3717752,-4158184,-7833968,-1050486,LCL.AX
+minorityInterest,,,,,LCL.AX
+netIncome,-3717752,-4158184,-7833968,-1050486,LCL.AX
+sellingGeneralAdministrative,1086251,1386076,2822519,422662,LCL.AX
+grossProfit,84624,0,0,759,LCL.AX
+ebit,-3416184,-3217463,-7140876,-1033264,LCL.AX
+operatingIncome,-3416184,-3217463,-7140876,-1033264,LCL.AX
+otherOperatingExpenses,1693755,1407391,1407391,155350,LCL.AX
+interestExpense,-61867,-8312,-22915,-17222,LCL.AX
+extraordinaryItems,,,,,LCL.AX
+nonRecurring,,,,,LCL.AX
+otherItems,,,,,LCL.AX
+incomeTaxExpense,0,0,0,0,LCL.AX
+totalRevenue,84624,0,0,759,LCL.AX
+totalOperatingExpenses,3500808,3217463,7140876,1034023,LCL.AX
+costOfRevenue,0,0,0,0,LCL.AX
+totalOtherIncomeExpenseNet,-301568,-940721,-693092,-17222,LCL.AX
+discontinuedOperations,,,,,LCL.AX
+netIncomeFromContinuingOps,-3717752,-4158184,-7833968,-1050486,LCL.AX
+netIncomeApplicableToCommonShares,-3717752,-4158184,-7833968,-1050486,LCL.AX

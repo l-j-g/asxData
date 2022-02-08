@@ -1,0 +1,23 @@
+Breakdown,2021-02-28 00:00:00,2020-02-29 00:00:00,2019-02-28 00:00:00,2018-02-28 00:00:00,ticker
+researchDevelopment,,,,,ORM.AX
+effectOfAccountingCharges,,,,,ORM.AX
+incomeBeforeTax,-224574,-531667,-599983,-700078,ORM.AX
+minorityInterest,,,,,ORM.AX
+netIncome,-224574,-531667,-599983,-700078,ORM.AX
+sellingGeneralAdministrative,340346,339021,351621,335662,ORM.AX
+grossProfit,0,0,0,0,ORM.AX
+ebit,-534961,-531836,-600446,-701356,ORM.AX
+operatingIncome,-534961,-531836,-600446,-701356,ORM.AX
+otherOperatingExpenses,141664,108092,144409,141471,ORM.AX
+interestExpense,,,,,ORM.AX
+extraordinaryItems,,,,,ORM.AX
+nonRecurring,,,,,ORM.AX
+otherItems,,,,,ORM.AX
+incomeTaxExpense,0,0,0,0,ORM.AX
+totalRevenue,0,0,0,0,ORM.AX
+totalOperatingExpenses,534961,531836,600446,701356,ORM.AX
+costOfRevenue,0,0,0,0,ORM.AX
+totalOtherIncomeExpenseNet,310387,169,463,1278,ORM.AX
+discontinuedOperations,,,,,ORM.AX
+netIncomeFromContinuingOps,-224574,-531667,-599983,-700078,ORM.AX
+netIncomeApplicableToCommonShares,-224574,-531667,-599983,-700078,ORM.AX

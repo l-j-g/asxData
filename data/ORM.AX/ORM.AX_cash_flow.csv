@@ -1,0 +1,12 @@
+Breakdown,2021-02-28 00:00:00,2020-02-29 00:00:00,2019-02-28 00:00:00,2018-02-28 00:00:00,ticker
+changeToLiabilities,-10400.0,254682.0,185145.0,147935.0,ORM.AX
+netBorrowings,65000.0,65000.0,65000.0,65000.0,ORM.AX
+totalCashFromFinancingActivities,240000.0,160000.0,505000.0,200000.0,ORM.AX
+changeToOperatingActivities,10086.0,3533.0,16422.0,17823.0,ORM.AX
+issuanceOfStock,175000.0,160000.0,465000.0,200000.0,ORM.AX
+netIncome,-224574.0,-531667.0,-599983.0,-700078.0,ORM.AX
+changeInCash,15112.0,-109317.0,67794.0,-338455.0,ORM.AX
+totalCashFromOperatingActivities,-224888.0,-269317.0,-437206.0,-538455.0,ORM.AX
+changeToAccountReceivables,,4135.0,1210.0,-4135.0,ORM.AX
+otherCashflowsFromFinancingActivities,,,40000.0,40000.0,ORM.AX
+changeToNetincome,,,-40000.0,-40000.0,ORM.AX

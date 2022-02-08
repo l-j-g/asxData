@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,PRS.AX
+effectOfAccountingCharges,,,,,PRS.AX
+incomeBeforeTax,-1398053,-394826,-546953,-497001,PRS.AX
+minorityInterest,,,,,PRS.AX
+netIncome,-1398053,-394826,-546953,-497622,PRS.AX
+sellingGeneralAdministrative,632731,379611,515428,496742,PRS.AX
+grossProfit,8994,0,0,0,PRS.AX
+ebit,-1398078,-396332,-552994,-511048,PRS.AX
+operatingIncome,-1398078,-396332,-552994,-511048,PRS.AX
+otherOperatingExpenses,,,,,PRS.AX
+interestExpense,,,-1347.0,-566.0,PRS.AX
+extraordinaryItems,,,,,PRS.AX
+nonRecurring,,,,,PRS.AX
+otherItems,,,,,PRS.AX
+incomeTaxExpense,0,0,0,273,PRS.AX
+totalRevenue,8994,0,0,0,PRS.AX
+totalOperatingExpenses,1407072,396332,552994,511048,PRS.AX
+costOfRevenue,0,0,0,0,PRS.AX
+totalOtherIncomeExpenseNet,25,1506,6041,14047,PRS.AX
+discontinuedOperations,,,,,PRS.AX
+netIncomeFromContinuingOps,-1398053,-394826,-546953,-497274,PRS.AX
+netIncomeApplicableToCommonShares,-1398053,-394826,-546953,-497622,PRS.AX

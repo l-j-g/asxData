@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,16978000,15038000,13898000,10530000,LME.AX
+effectOfAccountingCharges,,,,,LME.AX
+incomeBeforeTax,-249000,-2142000,-3187000,-2464000,LME.AX
+minorityInterest,,,,,LME.AX
+netIncome,-265000,-2017000,-3187000,-2464000,LME.AX
+sellingGeneralAdministrative,26957000,22879000,17804000,16557000,LME.AX
+grossProfit,43317000,35754000,28913000,24670000,LME.AX
+ebit,-618000,-2163000,-2789000,-2417000,LME.AX
+operatingIncome,-618000,-2163000,-2789000,-2417000,LME.AX
+otherOperatingExpenses,,,,,LME.AX
+interestExpense,,,,,LME.AX
+extraordinaryItems,,,,,LME.AX
+nonRecurring,,,,,LME.AX
+otherItems,,,,,LME.AX
+incomeTaxExpense,16000,-125000,0,0,LME.AX
+totalRevenue,56585000,47443000,40118000,34889000,LME.AX
+totalOperatingExpenses,57203000,49606000,42907000,37306000,LME.AX
+costOfRevenue,13268000,11689000,11205000,10219000,LME.AX
+totalOtherIncomeExpenseNet,369000,21000,-398000,-47000,LME.AX
+discontinuedOperations,,,,,LME.AX
+netIncomeFromContinuingOps,-265000,-2017000,-3187000,-2464000,LME.AX
+netIncomeApplicableToCommonShares,-265000,-35145000,-3187000,-2464000,LME.AX

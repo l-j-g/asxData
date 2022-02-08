@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,6000,WES.AX
+sector,Consumer Cyclical,WES.AX
+fullTimeEmployees,114000,WES.AX
+compensationRisk,2,WES.AX
+auditRisk,2,WES.AX
+longBusinessSummary,"Wesfarmers Limited primarily engages in the retail business in Australia, New Zealand, the United Kingdom, and internationally. The company is involved in the retail sale of building materials, home and garden improvement, and outdoor living products through its Bunnings stores; apparel, homewares, and general merchandise, including toys, leisure, entertainment, home, consumables, electrical products, and accessories; and office products and solutions, such as office supplies, technology, furniture, art supplies, education resources, and helpful services, including print and copy and on-site tech support through its 168 Officeworks stores. It also provides hardware and software repairs, system security solutions, wireless and wired networking services, virus and spyware prevention and removal, and data backup and recovery solutions through Geeks2U. In addition, the company manufactures and supplies ammonia, ammonium nitrate, and industrial chemicals; manufactures, imports, and distributes phosphate, nitrogen, and potassium-based fertilizers in blended, compound, and liquid form; supplies polyvinyl chloride resins used in various products comprising piping, cable insulation, floor coverings, building profiles, packaging, and compounds; produces wood-plastic composite products; and manufactures and distributes sodium cyanide for gold extraction in mining industry. Further, it extracts, markets, and distributes liquefied petroleum gas and liquefied natural gas; supplies and distributes maintenance, repair, operating products, and industrial safety products and services; manufacturers and markets industrial gases and equipment; distributes tools, safety gear, work wear, and industrial supplies; and provides risk management and compliance services, as well as offers property management services and other businesses. Additionally, the company sells its products online. Wesfarmers Limited was founded in 1914 and is headquartered in Perth, Australia.",WES.AX
+city,Perth,WES.AX
+phone,61 8 9327 4211,WES.AX
+state,WA,WES.AX
+shareHolderRightsRisk,1,WES.AX
+compensationAsOfEpochDate,1640908800,WES.AX
+governanceEpochDate,1632614400,WES.AX
+boardRisk,1,WES.AX
+country,Australia,WES.AX
+website,https://www.wesfarmers.com.au,WES.AX
+maxAge,86400,WES.AX
+overallRisk,1,WES.AX
+address1,Brookfield Place Tower 2,WES.AX
+fax,61 8 9327 4216,WES.AX
+industry,Home Improvement Retail,WES.AX
+address2,Level 14 123 St Georges Terrace,WES.AX

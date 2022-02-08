@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,PTR.AX
+1,Enterprise Value,,PTR.AX
+2,Trailing P/E,,PTR.AX
+3,Forward P/E,,PTR.AX
+4,PEG Ratio (5 yr expected),,PTR.AX
+5,Price/Sales (ttm),,PTR.AX
+6,Price/Book (mrq),,PTR.AX
+7,Enterprise Value/Revenue,,PTR.AX
+8,Enterprise Value/EBITDA,,PTR.AX

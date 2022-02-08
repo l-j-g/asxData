@@ -1,0 +1,20 @@
+Breakdown,Value,ticker
+zip,2000,TYR.AX
+sector,Technology,TYR.AX
+compensationRisk,8,TYR.AX
+auditRisk,4,TYR.AX
+longBusinessSummary,"Tyro Payments Limited provides payment solutions to merchants in Australia. The company operates through Payments and Banking segments. It offers electronic funds transfer at point of sale (EFTPOS) solutions, business loans, and banking products. The company acquires credit, debit, and EFTPOS cards; and offers Medicare and private health fund claiming and rebating services. It also accepts ecommerce payment solution for online businesses; and provides complementary banking solutions, including a loan in the form of a merchant cash advance and a term-deposit account. In addition, the company offers Tyro Go, a mobile payments dongle; Medipass, a digital health payment platform, that links healthcare funders, healthcare providers, and patients to streamline claims approval and payment acceptance; and Tyro Connect, a platform to promote data driven insights from customers activities for hospitality business, as well as security and fraud protection services. It primarily serves health, hospitality, services, accommodation, corporate, and retail industries. Tyro Payments Limited was incorporated in 2003 and is based in Sydney, Australia.",TYR.AX
+city,Sydney,TYR.AX
+phone,61 2 8907 1700,TYR.AX
+state,NSW,TYR.AX
+shareHolderRightsRisk,1,TYR.AX
+compensationAsOfEpochDate,1640908800,TYR.AX
+governanceEpochDate,1632614400,TYR.AX
+boardRisk,6,TYR.AX
+country,Australia,TYR.AX
+website,https://www.tyro.com,TYR.AX
+maxAge,86400,TYR.AX
+overallRisk,5,TYR.AX
+address1,1/155 Clarence Street,TYR.AX
+fax,61 2 8907 1700,TYR.AX
+industry,Software—Infrastructure,TYR.AX

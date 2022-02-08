@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,MIR.AX
+effectOfAccountingCharges,,,,,MIR.AX
+incomeBeforeTax,7213000,6974000,9555000,11316000,MIR.AX
+minorityInterest,,,,,MIR.AX
+netIncome,6440000,6393000,8913000,10360000,MIR.AX
+sellingGeneralAdministrative,2519000,2452000,2370000,2315000,MIR.AX
+grossProfit,9850000,9548000,12010000,13631000,MIR.AX
+ebit,7331000,7096000,9640000,11316000,MIR.AX
+operatingIncome,7331000,7096000,9640000,11316000,MIR.AX
+otherOperatingExpenses,,,,,MIR.AX
+interestExpense,-118000,-122000,-85000,-85000,MIR.AX
+extraordinaryItems,,,,,MIR.AX
+nonRecurring,,,,,MIR.AX
+otherItems,,,,,MIR.AX
+incomeTaxExpense,773000,581000,642000,956000,MIR.AX
+totalRevenue,9850000,9548000,12010000,13631000,MIR.AX
+totalOperatingExpenses,2519000,2452000,2370000,2315000,MIR.AX
+costOfRevenue,0,0,0,0,MIR.AX
+totalOtherIncomeExpenseNet,-118000,-122000,-85000,0,MIR.AX
+discontinuedOperations,,,,,MIR.AX
+netIncomeFromContinuingOps,6440000,6393000,8913000,10360000,MIR.AX
+netIncomeApplicableToCommonShares,6440000,6393000,8913000,10360000,MIR.AX

@@ -1,0 +1,23 @@
+Breakdown,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,2017-06-30 00:00:00,ticker
+researchDevelopment,,,78000.0,337587.0,PCH.AX
+effectOfAccountingCharges,,,,,PCH.AX
+incomeBeforeTax,-665322,-863902,-1277312,-1468845,PCH.AX
+minorityInterest,,,,,PCH.AX
+netIncome,-665322,-863902,-1608411,-2531556,PCH.AX
+sellingGeneralAdministrative,383300,882636,1082978,998099,PCH.AX
+grossProfit,287,345422,198177,406,PCH.AX
+ebit,-515726,-793302,-1148775,-1393115,PCH.AX
+operatingIncome,-515726,-793302,-1148775,-1393115,PCH.AX
+otherOperatingExpenses,9720,18408,37334,2835,PCH.AX
+interestExpense,-5644,-4381,-4381,-708,PCH.AX
+extraordinaryItems,,,,,PCH.AX
+nonRecurring,,,,,PCH.AX
+otherItems,,,,,PCH.AX
+incomeTaxExpense,0,0,0,0,PCH.AX
+totalRevenue,287,345422,198177,406,PCH.AX
+totalOperatingExpenses,516013,1138724,1346952,1393521,PCH.AX
+costOfRevenue,0,0,0,0,PCH.AX
+totalOtherIncomeExpenseNet,-149596,-70600,-128537,-75730,PCH.AX
+discontinuedOperations,,,-331099.0,-1062711.0,PCH.AX
+netIncomeFromContinuingOps,-665322,-863902,-1277312,-1468845,PCH.AX
+netIncomeApplicableToCommonShares,-665322,-863902,-1608411,-2531556,PCH.AX

@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,GED.AX
+1,Enterprise Value,,GED.AX
+2,Trailing P/E,,GED.AX
+3,Forward P/E,,GED.AX
+4,PEG Ratio (5 yr expected),,GED.AX
+5,Price/Sales (ttm),,GED.AX
+6,Price/Book (mrq),,GED.AX
+7,Enterprise Value/Revenue,,GED.AX
+8,Enterprise Value/EBITDA,,GED.AX

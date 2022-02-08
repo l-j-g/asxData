@@ -1,0 +1,17 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,-64206.0,15175.0,27337.0,-10318.0,SER.AX
+totalCashflowsFromInvestingActivities,-1652604.0,-776860.0,-338170.0,-254507.0,SER.AX
+netBorrowings,-8500.0,8500.0,8500.0,8500.0,SER.AX
+totalCashFromFinancingActivities,3511955.0,1080605.0,300000.0,2155148.0,SER.AX
+changeToOperatingActivities,9125.0,-12031.0,-6703.0,-2645.0,SER.AX
+issuanceOfStock,3666002.0,1107500.0,300000.0,2178171.0,SER.AX
+netIncome,-2265126.0,-425684.0,-694845.0,-766260.0,SER.AX
+changeInCash,1131454.0,-109008.0,-611165.0,1491066.0,SER.AX
+totalCashFromOperatingActivities,-727897.0,-412753.0,-572995.0,-409575.0,SER.AX
+depreciation,1393746.0,2453.0,106748.0,56261.0,SER.AX
+otherCashflowsFromInvestingActivities,-20000.0,-1000.0,-1000.0,-1000.0,SER.AX
+changeToAccountReceivables,61704.0,-54929.0,-5532.0,2739.0,SER.AX
+otherCashflowsFromFinancingActivities,-145547.0,-35395.0,-35395.0,-23023.0,SER.AX
+changeToNetincome,136860.0,62263.0,62263.0,310648.0,SER.AX
+capitalExpenditures,-1632604.0,-796096.0,-336948.0,-254507.0,SER.AX
+investments,,20236.0,-1222.0,-1222.0,SER.AX

@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,VTI.AX
+effectOfAccountingCharges,,,,,VTI.AX
+incomeBeforeTax,-9236000,-12608000,-16735000,-16981000,VTI.AX
+minorityInterest,,,,,VTI.AX
+netIncome,-9239000,-12617000,-16735000,-16981000,VTI.AX
+sellingGeneralAdministrative,8498000,12534000,14219000,11375000,VTI.AX
+grossProfit,786000,-123000,-2696000,-1370000,VTI.AX
+ebit,-7712000,-12657000,-16915000,-12745000,VTI.AX
+operatingIncome,-7712000,-12657000,-16915000,-12745000,VTI.AX
+otherOperatingExpenses,,,,,VTI.AX
+interestExpense,-334000,-164000,-164000,-1355000,VTI.AX
+extraordinaryItems,,,,,VTI.AX
+nonRecurring,,,,,VTI.AX
+otherItems,,,,,VTI.AX
+incomeTaxExpense,3000,9000,0,0,VTI.AX
+totalRevenue,5105000,5722000,3294000,1049000,VTI.AX
+totalOperatingExpenses,12817000,18379000,20209000,13794000,VTI.AX
+costOfRevenue,4319000,5845000,5990000,2419000,VTI.AX
+totalOtherIncomeExpenseNet,-1524000,49000,180000,-4236000,VTI.AX
+discontinuedOperations,,,,,VTI.AX
+netIncomeFromContinuingOps,-9239000,-12617000,-16735000,-16981000,VTI.AX
+netIncomeApplicableToCommonShares,-9239000,-12617000,-16735000,-16981000,VTI.AX

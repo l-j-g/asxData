@@ -1,0 +1,20 @@
+Breakdown,Value,ticker
+zip,2000,NEA.AX
+sector,Communication Services,NEA.AX
+compensationRisk,4,NEA.AX
+auditRisk,1,NEA.AX
+longBusinessSummary,"Nearmap Ltd provides cloud-based geospatial information services in Australia, New Zealand, Canada, and North America. It offers aerial imagery maps, such as vertical and oblique imagery, Nearmap 3D, Nearmap AI, and Nearmap on OpenSolar. Its solutions are used in architecture and engineering, construction, insurance and financial services, property and real estate, roofing, solar, telecommunication, transportation and logistics, and utilities, as well as government sector. The company was formerly known as ipernica ltd and changed its name to Nearmap Ltd in November 2012. Nearmap Ltd was incorporated in 1998 and is based in Sydney, Australia.",NEA.AX
+city,Sydney,NEA.AX
+phone,61 2 8076 0700,NEA.AX
+state,NSW,NEA.AX
+shareHolderRightsRisk,1,NEA.AX
+compensationAsOfEpochDate,1640908800,NEA.AX
+governanceEpochDate,1632614400,NEA.AX
+boardRisk,6,NEA.AX
+country,Australia,NEA.AX
+website,https://www.nearmap.com.au,NEA.AX
+maxAge,86400,NEA.AX
+overallRisk,3,NEA.AX
+address1,Tower One,NEA.AX
+industry,Internet Content & Information,NEA.AX
+address2,Level 4 International Towers 100 Barangaroo Avenue,NEA.AX

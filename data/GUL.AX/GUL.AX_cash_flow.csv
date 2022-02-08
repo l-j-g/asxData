@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+investments,-3704181,-466027,-2533108,-327325,GUL.AX
+changeToLiabilities,802992,-492,123110,-54175,GUL.AX
+totalCashflowsFromInvestingActivities,-2883468,-466721,-2567110,-328415,GUL.AX
+totalCashFromFinancingActivities,436822,1161469,60000,-162960,GUL.AX
+changeToOperatingActivities,85078,-1164,316830,-104841,GUL.AX
+issuanceOfStock,537000,109201,78000,78000,GUL.AX
+netIncome,1435557,2096822,1029075,1087795,GUL.AX
+changeInCash,478724,2459276,-1572283,290704,GUL.AX
+totalCashFromOperatingActivities,2925369,1764528,934827,782079,GUL.AX
+depreciation,6658,6659,6711,7262,GUL.AX
+otherCashflowsFromInvestingActivities,-29,-694,-710,-710,GUL.AX
+changeToAccountReceivables,-74592,30538,-723779,-301242,GUL.AX
+otherCashflowsFromFinancingActivities,-100178,1052268,-18000,-162960,GUL.AX
+changeToNetincome,666658,-369644,181071,145525,GUL.AX
+capitalExpenditures,-6615,-6615,-33292,-1090,GUL.AX

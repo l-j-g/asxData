@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,268574,268574,268574,268574,OPL.AX
+effectOfAccountingCharges,,,,,OPL.AX
+incomeBeforeTax,-1143432,-883445,-3105138,-3035627,OPL.AX
+minorityInterest,,,,,OPL.AX
+netIncome,-1143432,-925847,-3105138,-3035627,OPL.AX
+sellingGeneralAdministrative,943486,971756,1555056,1577740,OPL.AX
+grossProfit,-397217,-181782,-674333,-1427996,OPL.AX
+ebit,-1327528,-893592,-2255422,-3040593,OPL.AX
+operatingIncome,-1327528,-893592,-2255422,-3040593,OPL.AX
+otherOperatingExpenses,-286030,-260794,-260794,-260794,OPL.AX
+interestExpense,-2168,-30214,-8747,-946,OPL.AX
+extraordinaryItems,,,,,OPL.AX
+nonRecurring,,,,,OPL.AX
+otherItems,,,,,OPL.AX
+incomeTaxExpense,0,42402,0,0,OPL.AX
+totalRevenue,767719,620783,927041,413561,OPL.AX
+totalOperatingExpenses,2095247,1514375,3182463,3454154,OPL.AX
+costOfRevenue,1164936,802565,1601374,1841557,OPL.AX
+totalOtherIncomeExpenseNet,184096,10147,-849716,4966,OPL.AX
+discontinuedOperations,,,,,OPL.AX
+netIncomeFromContinuingOps,-1143432,-925847,-3105138,-3035627,OPL.AX
+netIncomeApplicableToCommonShares,-1143432,-925847,-3105138,-3035627,OPL.AX

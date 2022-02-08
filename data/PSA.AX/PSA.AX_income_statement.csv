@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,PSA.AX
+effectOfAccountingCharges,,,,,PSA.AX
+incomeBeforeTax,4738000,-6279000,-10050000,-11964000,PSA.AX
+minorityInterest,,,,,PSA.AX
+netIncome,1266000,-24241000,-10050000,-11964000,PSA.AX
+sellingGeneralAdministrative,,,,,PSA.AX
+grossProfit,-1039000,-3166000,-2944000,-6801000,PSA.AX
+ebit,-1061000,-3415000,-5234000,-11726000,PSA.AX
+operatingIncome,-1061000,-3415000,-5234000,-11726000,PSA.AX
+otherOperatingExpenses,,,19000.0,-479000.0,PSA.AX
+interestExpense,-3982000,-1604000,-1244000,-383000,PSA.AX
+extraordinaryItems,,,,,PSA.AX
+nonRecurring,,,,,PSA.AX
+otherItems,,,,,PSA.AX
+incomeTaxExpense,0,0,0,0,PSA.AX
+totalRevenue,0,0,3142000,1316000,PSA.AX
+totalOperatingExpenses,1061000,3415000,8376000,13042000,PSA.AX
+costOfRevenue,1039000,3166000,6086000,8117000,PSA.AX
+totalOtherIncomeExpenseNet,5799000,-2864000,-4816000,-238000,PSA.AX
+discontinuedOperations,-3472000,-17962000,-17962000,-17962000,PSA.AX
+netIncomeFromContinuingOps,4738000,-6279000,-10050000,-11964000,PSA.AX
+netIncomeApplicableToCommonShares,1266000,-24241000,-10050000,-11964000,PSA.AX

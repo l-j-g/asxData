@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,MLS.AX
+effectOfAccountingCharges,,,,,MLS.AX
+incomeBeforeTax,-793472,-2251277,-732434,-682854,MLS.AX
+minorityInterest,-75917,-75917,-75917,-75917,MLS.AX
+netIncome,-472829,-1515663,-732434,-3404921,MLS.AX
+sellingGeneralAdministrative,561686,657188,597214,720161,MLS.AX
+grossProfit,6113,1650,12213,183639,MLS.AX
+ebit,-790756,-2115105,-611447,-665062,MLS.AX
+operatingIncome,-790756,-2115105,-611447,-665062,MLS.AX
+otherOperatingExpenses,37108,59601,26446,128540,MLS.AX
+interestExpense,,,,,MLS.AX
+extraordinaryItems,,,,,MLS.AX
+nonRecurring,,,,,MLS.AX
+otherItems,,,,,MLS.AX
+incomeTaxExpense,-320643,-735614,0,0,MLS.AX
+totalRevenue,6113,1650,12213,183639,MLS.AX
+totalOperatingExpenses,796869,2116755,623660,848701,MLS.AX
+costOfRevenue,0,0,0,0,MLS.AX
+totalOtherIncomeExpenseNet,-2716,-136172,-120987,-17792,MLS.AX
+discontinuedOperations,,,,-2722067.0,MLS.AX
+netIncomeFromContinuingOps,-472829,-1515663,-732434,-682854,MLS.AX
+netIncomeApplicableToCommonShares,-472829,-1515663,-732434,-3404921,MLS.AX

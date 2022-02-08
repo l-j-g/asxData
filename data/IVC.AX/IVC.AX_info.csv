@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,2060,IVC.AX
+sector,Consumer Cyclical,IVC.AX
+compensationRisk,4,IVC.AX
+auditRisk,1,IVC.AX
+longBusinessSummary,"InvoCare Limited provides funeral, cemetery, crematoria, and related services in Australia, New Zealand, and Singapore. The company operates approximately 290 funeral home locations, and 18 cemeteries and crematoria that offers burial, memorialization, and cremation services. It also offers pet cremation services under the Patch & Purr, Pets in Peace, Family Pet Care, and the Lanswood and Edenhill brands; and LifeArt coffins. In addition, the company operates MyGriefAssist, an online grief resource website; and MyMemorial, a website that provides range of cremation and burial memorial options. Further, it offers digital funeral planning services under the Funeral Planner brand name; and Guardian Plan, a prepaid funeral plan. InvoCare Limited was incorporated in 2001 and is headquartered in North Sydney, Australia.",IVC.AX
+city,North Sydney,IVC.AX
+phone,61 2 9978 5200,IVC.AX
+state,NSW,IVC.AX
+shareHolderRightsRisk,7,IVC.AX
+compensationAsOfEpochDate,1609372800,IVC.AX
+governanceEpochDate,1632614400,IVC.AX
+boardRisk,3,IVC.AX
+country,Australia,IVC.AX
+website,https://www.invocare.com.au,IVC.AX
+maxAge,86400,IVC.AX
+overallRisk,3,IVC.AX
+address1,40 Mount Street,IVC.AX
+fax,61 2 9978 5298,IVC.AX
+industry,Personal Services,IVC.AX
+address2,Level 5,IVC.AX

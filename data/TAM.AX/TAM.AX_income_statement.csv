@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,TAM.AX
+effectOfAccountingCharges,,,,,TAM.AX
+incomeBeforeTax,-835000,-316000,16522000,-67000,TAM.AX
+minorityInterest,,,,,TAM.AX
+netIncome,-1332000,193000,17181000,12411000,TAM.AX
+sellingGeneralAdministrative,989000,742000,921000,1172000,TAM.AX
+grossProfit,0,0,-128000,0,TAM.AX
+ebit,-1076000,-854000,-999000,-1393000,TAM.AX
+operatingIncome,-1076000,-854000,-999000,-1393000,TAM.AX
+otherOperatingExpenses,56000,99000,-55000,-68000,TAM.AX
+interestExpense,,,,,TAM.AX
+extraordinaryItems,,,,,TAM.AX
+nonRecurring,,,,,TAM.AX
+otherItems,,,,,TAM.AX
+incomeTaxExpense,497000,-509000,-659000,-177000,TAM.AX
+totalRevenue,0,0,0,0,TAM.AX
+totalOperatingExpenses,1076000,854000,999000,1393000,TAM.AX
+costOfRevenue,0,0,128000,0,TAM.AX
+totalOtherIncomeExpenseNet,241000,538000,17521000,1326000,TAM.AX
+discontinuedOperations,,,,12301000.0,TAM.AX
+netIncomeFromContinuingOps,-1332000,193000,17181000,110000,TAM.AX
+netIncomeApplicableToCommonShares,-1332000,193000,17181000,12411000,TAM.AX

@@ -1,0 +1,14 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,733492.0,485352.0,258410.0,13499.0,PO3.AX
+totalCashflowsFromInvestingActivities,-9210.0,-2188.0,-2188.0,-2188.0,PO3.AX
+netBorrowings,151589.0,151589.0,151589.0,52000.0,PO3.AX
+totalCashFromFinancingActivities,151589.0,151589.0,9310287.0,752000.0,PO3.AX
+changeToOperatingActivities,-3312.0,-6211.0,-4566.0,15017.0,PO3.AX
+netIncome,-3087981.0,-4528035.0,-3368196.0,-645453.0,PO3.AX
+changeInCash,-2325339.0,-3948138.0,6169892.0,127522.0,PO3.AX
+effectOfExchangeRate,-97479.0,31182.0,-24589.0,-24589.0,PO3.AX
+totalCashFromOperatingActivities,-2370239.0,-3977132.0,-3115805.0,-624477.0,PO3.AX
+depreciation,4183.0,4358.0,4358.0,4358.0,PO3.AX
+changeToAccountReceivables,-16621.0,67404.0,-1453.0,-7540.0,PO3.AX
+issuanceOfStock,,,9600001.0,700000.0,PO3.AX
+otherCashflowsFromFinancingActivities,,,-289714.0,-289714.0,PO3.AX

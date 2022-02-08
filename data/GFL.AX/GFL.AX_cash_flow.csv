@@ -1,0 +1,14 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+investments,699314.0,-318458.0,359938.0,-4572667.0,GFL.AX
+changeToLiabilities,376812.0,164279.0,-21689.0,-25585.0,GFL.AX
+totalCashflowsFromInvestingActivities,699314.0,-318458.0,359938.0,-4572667.0,GFL.AX
+changeToOperatingActivities,-9081.0,-1770.0,-2122.0,9316.0,GFL.AX
+netIncome,934796.0,68581.0,-346.0,-125706.0,GFL.AX
+changeInCash,281001.0,-499458.0,135739.0,-515556.0,GFL.AX
+effectOfExchangeRate,13592.0,18439.0,-57529.0,-57529.0,GFL.AX
+totalCashFromOperatingActivities,-431905.0,-199439.0,-166670.0,-205677.0,GFL.AX
+changeToAccountReceivables,-7319.0,7146.0,4149.0,-23040.0,GFL.AX
+changeToNetincome,-1727113.0,-437675.0,-146662.0,-40662.0,GFL.AX
+totalCashFromFinancingActivities,,,,4262788.0,GFL.AX
+issuanceOfStock,,,,4289126.0,GFL.AX
+otherCashflowsFromFinancingActivities,,,,-26338.0,GFL.AX

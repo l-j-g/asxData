@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,GLV.AX
+effectOfAccountingCharges,,,,,GLV.AX
+incomeBeforeTax,-1892290,-470295,-1713850,-4654473,GLV.AX
+minorityInterest,,,,,GLV.AX
+netIncome,-1892290,-470295,-4016876,-8147703,GLV.AX
+sellingGeneralAdministrative,684615,557690,685147,524900,GLV.AX
+grossProfit,0,0,-587529,-3713638,GLV.AX
+ebit,-1928602,-512874,-1232195,-4239984,GLV.AX
+operatingIncome,-1928602,-512874,-1232195,-4239984,GLV.AX
+otherOperatingExpenses,102,-74957,-54481,1446,GLV.AX
+interestExpense,-4576,-4576,-4576,-612,GLV.AX
+extraordinaryItems,,,,,GLV.AX
+nonRecurring,,,,,GLV.AX
+otherItems,,,,,GLV.AX
+incomeTaxExpense,0,0,0,0,GLV.AX
+totalRevenue,0,0,0,0,GLV.AX
+totalOperatingExpenses,1928602,512874,1232195,4239984,GLV.AX
+costOfRevenue,0,0,587529,3713638,GLV.AX
+totalOtherIncomeExpenseNet,36312,42579,-481655,-414489,GLV.AX
+discontinuedOperations,,,-2303026.0,-3493230.0,GLV.AX
+netIncomeFromContinuingOps,-1892290,-470295,-1713850,-4654473,GLV.AX
+netIncomeApplicableToCommonShares,-1892290,-470295,-4016876,-8147703,GLV.AX

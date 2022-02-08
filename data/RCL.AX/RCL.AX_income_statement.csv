@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,RCL.AX
+effectOfAccountingCharges,,,,,RCL.AX
+incomeBeforeTax,-1130249,-1027310,-1718173,-1152779,RCL.AX
+minorityInterest,,,,,RCL.AX
+netIncome,-1151371,-981984,-1630423,-1285855,RCL.AX
+sellingGeneralAdministrative,3971324,4697379,3002118,1715085,RCL.AX
+grossProfit,3916195,4434189,2463810,1293431,RCL.AX
+ebit,-1117416,-1021546,-1350469,-1189252,RCL.AX
+operatingIncome,-1117416,-1021546,-1350469,-1189252,RCL.AX
+otherOperatingExpenses,74148,-74298,-75828,-100599,RCL.AX
+interestExpense,-14258,-9563,-238,-3667,RCL.AX
+extraordinaryItems,,,,,RCL.AX
+nonRecurring,,,,,RCL.AX
+otherItems,,,,,RCL.AX
+incomeTaxExpense,21122,-45326,-87750,133076,RCL.AX
+totalRevenue,7289572,7062413,4353119,1767999,RCL.AX
+totalOperatingExpenses,8406988,8083959,5703588,2957251,RCL.AX
+costOfRevenue,3373377,2628224,1889309,474568,RCL.AX
+totalOtherIncomeExpenseNet,-12833,-5764,-367704,36473,RCL.AX
+discontinuedOperations,,,,,RCL.AX
+netIncomeFromContinuingOps,-1151371,-981984,-1630423,-1285855,RCL.AX
+netIncomeApplicableToCommonShares,-1151371,-981984,-1630423,-1285855,RCL.AX

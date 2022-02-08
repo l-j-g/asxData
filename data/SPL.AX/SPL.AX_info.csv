@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,3067,SPL.AX
+sector,Healthcare,SPL.AX
+fullTimeEmployees,50,SPL.AX
+compensationRisk,4,SPL.AX
+auditRisk,6,SPL.AX
+longBusinessSummary,"Starpharma Holdings Limited, a biopharmaceutical company, engages in the research, development, and commercialization of dendrimer products for pharmaceutical, life-science, and other applications worldwide. The company offers VivaGel, a non-antibiotic therapy for the management and prevention of bacterial vaginosis. It also develops VivaGel condom, an antiviral condom; and VIRALEZE, an antiviral nasal spray. In addition, the company develops DEP, a dendrimer drug delivery technology, including DEP docetaxel that is in Phase II clinical trials, DEP cabazitaxel that is in Phase II clinical trial, and DEP irinotecan that is in phase II clinical trials for the treatment of cancer; oncology programs, such as DEP radiopharmaceuticals, DEP HER-2 ADC, and DEP gemcitabine; DEP non-oncology candidates; and DEP AZD0466, which is in Phase I/II clinical trials to treat haematological tumours. The company was founded in 1996 and is headquartered in Abbotsford, Australia.",SPL.AX
+city,Abbotsford,SPL.AX
+phone,61 3 8532 2700,SPL.AX
+state,VIC,SPL.AX
+shareHolderRightsRisk,1,SPL.AX
+compensationAsOfEpochDate,1640908800,SPL.AX
+governanceEpochDate,1643673600,SPL.AX
+boardRisk,2,SPL.AX
+country,Australia,SPL.AX
+website,https://starpharma.com,SPL.AX
+maxAge,86400,SPL.AX
+overallRisk,2,SPL.AX
+address1,4-6 Southampton Crescent,SPL.AX
+fax,61 3 9510 5955,SPL.AX
+industry,Biotechnology,SPL.AX

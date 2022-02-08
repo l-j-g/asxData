@@ -1,0 +1,18 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+investments,-667614.0,-667614.0,-556030.0,-556030.0,QXR.AX
+changeToLiabilities,-418216.0,287819.0,-38010.0,402550.0,QXR.AX
+totalCashflowsFromInvestingActivities,-783482.0,-30137.0,-672765.0,-978420.0,QXR.AX
+totalCashFromFinancingActivities,2099366.0,483833.0,-10680.0,3533401.0,QXR.AX
+issuanceOfStock,2277005.0,483833.0,483833.0,3248240.0,QXR.AX
+netIncome,-1449461.0,-487855.0,-755395.0,-280078.0,QXR.AX
+changeInCash,873830.0,320531.0,-1181691.0,1671778.0,QXR.AX
+totalCashFromOperatingActivities,-442054.0,-133165.0,-498246.0,-883203.0,QXR.AX
+depreciation,115868.0,30137.0,67351.0,149633.0,QXR.AX
+changeToAccountReceivables,-14582.0,1341.0,9310.0,71419.0,QXR.AX
+otherCashflowsFromFinancingActivities,-177639.0,-177639.0,-10680.0,-214839.0,QXR.AX
+changeToNetincome,1324337.0,35393.0,218498.0,-1166824.0,QXR.AX
+capitalExpenditures,-115868.0,-30137.0,-67351.0,-150509.0,QXR.AX
+otherCashflowsFromInvestingActivities,,,-49384.0,-135796.0,QXR.AX
+netBorrowings,,,,500000.0,QXR.AX
+changeToOperatingActivities,,,,-19844.0,QXR.AX
+changeToInventory,,,,-40059.0,QXR.AX

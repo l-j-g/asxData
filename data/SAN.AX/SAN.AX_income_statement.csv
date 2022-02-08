@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,188000.0,188000.0,SAN.AX
+effectOfAccountingCharges,,,,,SAN.AX
+incomeBeforeTax,-480000,-1017000,-706000,319000,SAN.AX
+minorityInterest,,,,,SAN.AX
+netIncome,-480000,-1017000,-706000,319000,SAN.AX
+sellingGeneralAdministrative,454000,475000,505000,792000,SAN.AX
+grossProfit,0,0,0,152000,SAN.AX
+ebit,-461000,-1111000,-699000,-649000,SAN.AX
+operatingIncome,-461000,-1111000,-699000,-649000,SAN.AX
+otherOperatingExpenses,-1000,-1000,-1000,3000,SAN.AX
+interestExpense,-5000,-47000,-4000,-4000,SAN.AX
+extraordinaryItems,,,,,SAN.AX
+nonRecurring,,,,,SAN.AX
+otherItems,,,,,SAN.AX
+incomeTaxExpense,0,0,0,0,SAN.AX
+totalRevenue,0,0,0,152000,SAN.AX
+totalOperatingExpenses,461000,1111000,699000,801000,SAN.AX
+costOfRevenue,0,0,0,0,SAN.AX
+totalOtherIncomeExpenseNet,-19000,94000,-7000,968000,SAN.AX
+discontinuedOperations,,,,,SAN.AX
+netIncomeFromContinuingOps,-480000,-1017000,-706000,319000,SAN.AX
+netIncomeApplicableToCommonShares,-480000,-1017000,-706000,319000,SAN.AX

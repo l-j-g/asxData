@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,3000,IFL.AX
+sector,Financial Services,IFL.AX
+compensationRisk,6,IFL.AX
+auditRisk,4,IFL.AX
+longBusinessSummary,"Insignia Financial Ltd. provides financial advice, portfolio and estate administration, and investment management services in Australia. It offers financial planning advice and stockbroking services, such as investment research, training, compliance support, and access to financial products. The company also provides administration and management services through master trust platforms, which offer a single access point to a range of investment products. In addition, it engages in the management and investment of monies on behalf of corporate, superannuation, and institutional clients, as well as private individual investor clients. The company was formerly known as IOOF Holdings Ltd. and changed its name to Insignia Financial Ltd. in December 2021. Insignia Financial Ltd. was founded in 1846 and is based in Melbourne, Australia.",IFL.AX
+city,Melbourne,IFL.AX
+phone,61 3 8614 4400,IFL.AX
+state,VIC,IFL.AX
+shareHolderRightsRisk,1,IFL.AX
+compensationAsOfEpochDate,1640908800,IFL.AX
+governanceEpochDate,1632614400,IFL.AX
+boardRisk,6,IFL.AX
+country,Australia,IFL.AX
+website,https://www.ioof.com.au,IFL.AX
+maxAge,86400,IFL.AX
+overallRisk,4,IFL.AX
+address1,161 Collins Street,IFL.AX
+fax,61 3 8614 4888,IFL.AX
+industry,Asset Management,IFL.AX
+address2,Level 6,IFL.AX

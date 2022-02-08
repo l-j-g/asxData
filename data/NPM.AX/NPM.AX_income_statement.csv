@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,NPM.AX
+effectOfAccountingCharges,,,,,NPM.AX
+incomeBeforeTax,-1938161,-9947330,-3418469,-4036189,NPM.AX
+minorityInterest,,,,,NPM.AX
+netIncome,-1938161,-9987762,-3418469,-4036189,NPM.AX
+sellingGeneralAdministrative,1273347,1553569,1946291,2295570,NPM.AX
+grossProfit,-31216,-74582,-2400,-18320,NPM.AX
+ebit,-1681615,-2780076,-2178617,-3343073,NPM.AX
+operatingIncome,-1681615,-2780076,-2178617,-3343073,NPM.AX
+otherOperatingExpenses,20714,20714,20714,20714,NPM.AX
+interestExpense,-88726,-67641,-19207,-55562,NPM.AX
+extraordinaryItems,,,,,NPM.AX
+nonRecurring,,,,,NPM.AX
+otherItems,,,,,NPM.AX
+incomeTaxExpense,0,40432,0,0,NPM.AX
+totalRevenue,0,0,0,0,NPM.AX
+totalOperatingExpenses,1681615,2780076,2178617,3343073,NPM.AX
+costOfRevenue,31216,74582,2400,18320,NPM.AX
+totalOtherIncomeExpenseNet,-256546,-7167254,-1239852,-693116,NPM.AX
+discontinuedOperations,,,,,NPM.AX
+netIncomeFromContinuingOps,-1938161,-9987762,-3418469,-4036189,NPM.AX
+netIncomeApplicableToCommonShares,-1938161,-9987762,-3418469,-4036189,NPM.AX

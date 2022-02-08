@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,LPI.AX
+1,Enterprise Value,,LPI.AX
+2,Trailing P/E,,LPI.AX
+3,Forward P/E,,LPI.AX
+4,PEG Ratio (5 yr expected),,LPI.AX
+5,Price/Sales (ttm),,LPI.AX
+6,Price/Book (mrq),,LPI.AX
+7,Enterprise Value/Revenue,,LPI.AX
+8,Enterprise Value/EBITDA,,LPI.AX

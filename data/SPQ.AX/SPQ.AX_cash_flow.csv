@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,0.0,-74512.0,77102.0,-30884.0,SPQ.AX
+totalCashflowsFromInvestingActivities,-1567680.0,-121201.0,-639693.0,-829374.0,SPQ.AX
+totalCashFromFinancingActivities,2769754.0,1277131.0,1277131.0,1780629.0,SPQ.AX
+changeToOperatingActivities,-18061.0,94700.0,130198.0,-28856.0,SPQ.AX
+issuanceOfStock,2925351.0,1322913.0,1322913.0,1864198.0,SPQ.AX
+netIncome,-569583.0,-461100.0,-549373.0,-485087.0,SPQ.AX
+changeInCash,711737.0,900316.0,-782623.0,441361.0,SPQ.AX
+totalCashFromOperatingActivities,-490337.0,-255614.0,-142930.0,-509894.0,SPQ.AX
+depreciation,101935.0,158267.0,13846.0,55494.0,SPQ.AX
+otherCashflowsFromInvestingActivities,-1000.0,-4000.0,-500.0,-500.0,SPQ.AX
+changeToAccountReceivables,-4627.0,-10771.0,-10771.0,-14786.0,SPQ.AX
+otherCashflowsFromFinancingActivities,-155597.0,-45782.0,-45782.0,-83569.0,SPQ.AX
+changeToNetincome,-1.0,37802.0,185297.0,-5775.0,SPQ.AX
+capitalExpenditures,-1566680.0,-307884.0,-803123.0,-828874.0,SPQ.AX
+investments,,190683.0,162042.0,162042.0,SPQ.AX

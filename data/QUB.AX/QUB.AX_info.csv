@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,2000,QUB.AX
+sector,Industrials,QUB.AX
+compensationRisk,3,QUB.AX
+auditRisk,2,QUB.AX
+longBusinessSummary,"Qube Holdings Limited, together with its subsidiaries, provides logistics solutions for import and export supply chain in Australia. The company's Operating Division offers services relating to the import and export of primarily containerized cargo. This division provides various services, including physical and documentary processes, and tasks of the import/export supply chain, such as road and rail transport of containers to and from ports, operation of container parks, customs and quarantine services, warehousing, intermodal terminals, international freight forwarding, and bulk rail haulage for rural commodities. It also offers a range of logistics services relating to the import and export of primarily non-containerized freight with a focus on automotive, bulk, and break bulk products; an integrated logistics solution for the automotive industry covering a range of activities comprising stevedoring, processing, and delivery; and logistics solution from mine-to-ship activities, including transport, stockpile management, storage facilities, and stevedoring. In addition, this division provides stevedoring and related logistics services for the oil and gas industry, forestry products, and project and general cargo; handles a range of commodities that include iron ore, copper, nickel concentrate, and mineral sands; and owns a multi-user facility for the stevedoring industry. The company's Property Division owns a 243-hectare parcel of land in the Moorebank logistics park project; and provides container stevedoring services in Australia. The company was formerly known as Qube Logistics Holdings Limited and changed its name to Qube Holdings Limited in November 2012. Qube Holdings Limited was incorporated in 2011 and is based in Sydney, Australia.",QUB.AX
+city,Sydney,QUB.AX
+phone,61 2 9080 1900,QUB.AX
+state,NSW,QUB.AX
+shareHolderRightsRisk,6,QUB.AX
+compensationAsOfEpochDate,1640908800,QUB.AX
+governanceEpochDate,1643673600,QUB.AX
+boardRisk,3,QUB.AX
+country,Australia,QUB.AX
+website,https://www.qube.com.au,QUB.AX
+maxAge,86400,QUB.AX
+overallRisk,2,QUB.AX
+address1,45 Clarence Street,QUB.AX
+fax,61 2 9080 1999,QUB.AX
+industry,Integrated Freight & Logistics,QUB.AX
+address2,Level 27,QUB.AX

@@ -1,0 +1,17 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,422471.0,3072.0,3995.0,27647.0,HPR.AX
+totalCashflowsFromInvestingActivities,-252521.0,1312908.0,-48621.0,53096.0,HPR.AX
+netBorrowings,-332535.0,-353988.0,-1055409.0,-1055409.0,HPR.AX
+totalCashFromFinancingActivities,-332535.0,-353988.0,128932.0,-119456.0,HPR.AX
+changeToOperatingActivities,-67222.0,-84638.0,-19791.0,27922.0,HPR.AX
+netIncome,-1296837.0,-1133402.0,-723967.0,-363485.0,HPR.AX
+changeInCash,-1081276.0,797162.0,-132278.0,-344879.0,HPR.AX
+effectOfExchangeRate,-19280.0,51447.0,11138.0,7315.0,HPR.AX
+totalCashFromOperatingActivities,-476940.0,-213206.0,-223727.0,-285835.0,HPR.AX
+depreciation,278106.0,213320.0,134864.0,43663.0,HPR.AX
+changeToAccountReceivables,-46047.0,28024.0,-78868.0,3091.0,HPR.AX
+changeToNetincome,232589.0,760418.0,460040.0,-24673.0,HPR.AX
+capitalExpenditures,-3110.0,-3110.0,-3110.0,-3110.0,HPR.AX
+investments,,1312908.0,-600.0,53096.0,HPR.AX
+issuanceOfStock,,,1184341.0,1184341.0,HPR.AX
+repurchaseOfStock,,,,-119456.0,HPR.AX

@@ -1,0 +1,14 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,ticker
+changeToLiabilities,1070431,153636,-128097,PFT.AX
+totalCashflowsFromInvestingActivities,-5228393,-866613,-35403,PFT.AX
+netBorrowings,820298,341482,-346734,PFT.AX
+totalCashFromFinancingActivities,3364968,3640143,1259666,PFT.AX
+issuanceOfStock,2544670,3298661,1606400,PFT.AX
+netIncome,-716309,-203404,-157875,PFT.AX
+changeInCash,-2510751,2746061,1293683,PFT.AX
+totalCashFromOperatingActivities,-647326,-27469,69420,PFT.AX
+depreciation,455124,193087,94991,PFT.AX
+changeToInventory,-688270,-131830,-29482,PFT.AX
+changeToAccountReceivables,-804376,-99729,-86615,PFT.AX
+changeToNetincome,36074,60771,376498,PFT.AX
+capitalExpenditures,-3520128,-866613,-35403,PFT.AX

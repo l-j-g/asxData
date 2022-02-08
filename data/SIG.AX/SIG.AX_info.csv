@@ -1,0 +1,20 @@
+Breakdown,Value,ticker
+zip,3178,SIG.AX
+sector,Healthcare,SIG.AX
+compensationRisk,6,SIG.AX
+auditRisk,10,SIG.AX
+longBusinessSummary,"Sigma Healthcare Limited, together with its subsidiaries, engages in the wholesale and distribution of pharmaceutical products primarily in Australia. It operates a network of branded and independent stores under the Amcal+, Chemist King, Discount Drug Stores, Guardian, WholeLife, and PharmaSave brands. The company also develops and support a range of private label products. In addition, it provides hospital pharmacy services, including data and programs supporting specialty medication services; dose administration aid and related services to the residential, aged care, and community pharmacy sectors; technology solutions and data analytics; and product development and support services for a range of private and exclusive label products, as well as supplies medical consumables and devices to aged care facilities, hospitals, and clinics. Further, the company provides third party and fourth party logistics services to pharmaceutical manufacturers and other supplier partners. Sigma Healthcare Limited was founded in 1912 and is headquartered in Rowville, Australia.",SIG.AX
+city,Rowville,SIG.AX
+phone,61 3 9215 9215,SIG.AX
+state,VIC,SIG.AX
+shareHolderRightsRisk,7,SIG.AX
+compensationAsOfEpochDate,1640908800,SIG.AX
+governanceEpochDate,1632614400,SIG.AX
+boardRisk,3,SIG.AX
+country,Australia,SIG.AX
+website,https://www.sigmahealthcare.com.au,SIG.AX
+maxAge,86400,SIG.AX
+overallRisk,7,SIG.AX
+address1,3 Myer Place,SIG.AX
+fax,61 3 9215 9188,SIG.AX
+industry,Medical Distribution,SIG.AX

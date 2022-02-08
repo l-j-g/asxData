@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,TD1.AX
+effectOfAccountingCharges,,,,,TD1.AX
+incomeBeforeTax,-4858273,-3397938,-3248837,-3043092,TD1.AX
+minorityInterest,,,,,TD1.AX
+netIncome,-4858273,-3397938,-2944443,-4193198,TD1.AX
+sellingGeneralAdministrative,2019060,1327018,1172526,827383,TD1.AX
+grossProfit,-2075120,-1319469,-1353672,-1072319,TD1.AX
+ebit,-4913160,-3381668,-3245836,-2211504,TD1.AX
+operatingIncome,-4913160,-3381668,-3245836,-2211504,TD1.AX
+otherOperatingExpenses,277479,186268,244922,82702,TD1.AX
+interestExpense,-12155,-43928,-25803,-25803,TD1.AX
+extraordinaryItems,,,,,TD1.AX
+nonRecurring,,,,,TD1.AX
+otherItems,,,,,TD1.AX
+incomeTaxExpense,0,0,0,0,TD1.AX
+totalRevenue,548905,621944,913867,490741,TD1.AX
+totalOperatingExpenses,5462065,4003612,4159703,2702245,TD1.AX
+costOfRevenue,2624025,1941413,2267539,1563060,TD1.AX
+totalOtherIncomeExpenseNet,54887,-16270,-3001,-831588,TD1.AX
+discontinuedOperations,,,304394.0,-1150106.0,TD1.AX
+netIncomeFromContinuingOps,-4858273,-3397938,-3248837,-3043092,TD1.AX
+netIncomeApplicableToCommonShares,-4858273,-3397938,-2944443,-4193198,TD1.AX

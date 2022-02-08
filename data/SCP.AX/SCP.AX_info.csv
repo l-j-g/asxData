@@ -1,0 +1,20 @@
+Breakdown,Value,ticker
+zip,2000,SCP.AX
+sector,Real Estate,SCP.AX
+compensationRisk,2,SCP.AX
+auditRisk,4,SCP.AX
+longBusinessSummary,"SCA Property Group (SCP) includes two internally managed real estate investment trusts owning a portfolio of quality neighbourhood and sub-regional shopping centres located across Australia. The SCA Property Group invests in shopping centres predominantly anchored by non-discretionary retailers, with long term leases to tenants such as Woolworths Limited, Coles Group Limited and companies in the Wesfarmers Limited group. The SCA Property Group is a stapled entity comprising Shopping Centres Australasia Property Management Trust (ARSN 160 612 626) and Shopping Centres Australasia Property Retail Trust (ARSN 160 612 788).",SCP.AX
+city,Sydney,SCP.AX
+phone,61 2 8243 4900,SCP.AX
+state,NSW,SCP.AX
+shareHolderRightsRisk,7,SCP.AX
+compensationAsOfEpochDate,1640908800,SCP.AX
+governanceEpochDate,1643673600,SCP.AX
+boardRisk,4,SCP.AX
+country,Australia,SCP.AX
+website,https://www.scaproperty.com.au,SCP.AX
+maxAge,86400,SCP.AX
+overallRisk,4,SCP.AX
+address1,50 Pitt Street,SCP.AX
+industry,REIT—Retail,SCP.AX
+address2,Level 5,SCP.AX

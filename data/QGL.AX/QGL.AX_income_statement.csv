@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,QGL.AX
+effectOfAccountingCharges,,,,,QGL.AX
+incomeBeforeTax,-2068370,-960529,-3543394,-7390538,QGL.AX
+minorityInterest,,,,,QGL.AX
+netIncome,-2068370,-960529,-3543394,-7390538,QGL.AX
+sellingGeneralAdministrative,2361116,1497415,1646709,1431946,QGL.AX
+grossProfit,0,0,-346916,-587695,QGL.AX
+ebit,-2281100,-1110810,-1993625,-2019641,QGL.AX
+operatingIncome,-2281100,-1110810,-1993625,-2019641,QGL.AX
+otherOperatingExpenses,-80016,-386605,-386605,-386605,QGL.AX
+interestExpense,,,-122250.0,-1974268.0,QGL.AX
+extraordinaryItems,,,,,QGL.AX
+nonRecurring,,,,,QGL.AX
+otherItems,,,,,QGL.AX
+incomeTaxExpense,0,0,0,0,QGL.AX
+totalRevenue,0,0,0,0,QGL.AX
+totalOperatingExpenses,2281100,1110810,1993625,2019641,QGL.AX
+costOfRevenue,0,0,346916,587695,QGL.AX
+totalOtherIncomeExpenseNet,212730,150281,-1549769,-5370897,QGL.AX
+discontinuedOperations,,,,,QGL.AX
+netIncomeFromContinuingOps,-2068370,-960529,-3543394,-7390538,QGL.AX
+netIncomeApplicableToCommonShares,-2068370,-960529,-3543394,-7390538,QGL.AX

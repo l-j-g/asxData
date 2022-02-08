@@ -1,0 +1,18 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,57199.0,-184613.0,-54723.0,-146710.0,PCL.AX
+totalCashflowsFromInvestingActivities,-3515.0,-216031.0,7486860.0,2201424.0,PCL.AX
+totalCashFromFinancingActivities,674366.0,1769.0,-1171635.0,3145617.0,PCL.AX
+changeToOperatingActivities,-170969.0,3209370.0,1574398.0,-202433.0,PCL.AX
+issuanceOfStock,674000.0,674000.0,579707.0,3600000.0,PCL.AX
+netIncome,-787707.0,-3445537.0,-7016347.0,-6263751.0,PCL.AX
+changeInCash,-172953.0,-1447008.0,1258708.0,15501.0,PCL.AX
+effectOfExchangeRate,-36714.0,55571.0,83868.0,78920.0,PCL.AX
+totalCashFromOperatingActivities,-807090.0,-1288317.0,-5140385.0,-5410460.0,PCL.AX
+depreciation,6260.0,10298.0,14371.0,26266.0,PCL.AX
+changeToAccountReceivables,59416.0,-7915.0,-5600.0,-35751.0,PCL.AX
+otherCashflowsFromFinancingActivities,366.0,1769.0,8696.0,-454383.0,PCL.AX
+changeToNetincome,28711.0,-869920.0,347516.0,1211919.0,PCL.AX
+capitalExpenditures,-3515.0,-3515.0,-3617.0,-21061.0,PCL.AX
+otherCashflowsFromInvestingActivities,,-216031.0,-216031.0,-516755.0,PCL.AX
+investments,,,-160000.0,-160000.0,PCL.AX
+netBorrowings,,,-1760038.0,-1760038.0,PCL.AX

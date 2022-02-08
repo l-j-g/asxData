@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,4184.0,-8477.0,-18794.0,23067.0,RLC.AX
+totalCashFromFinancingActivities,698011.0,698011.0,9750.0,4001786.0,RLC.AX
+changeToOperatingActivities,28639.0,17482.0,-36660.0,-138459.0,RLC.AX
+issuanceOfStock,698011.0,698011.0,9750.0,4356995.0,RLC.AX
+netIncome,-584531.0,-383743.0,-875403.0,-4615766.0,RLC.AX
+changeInCash,139815.0,-146504.0,-881577.0,1064905.0,RLC.AX
+effectOfExchangeRate,-43.0,-43.0,3611.0,970.0,RLC.AX
+totalCashFromOperatingActivities,-558153.0,-370640.0,-894938.0,-2720960.0,RLC.AX
+changeToAccountReceivables,-7767.0,1477.0,31372.0,-12246.0,RLC.AX
+changeToNetincome,1322.0,2621.0,4547.0,49326.0,RLC.AX
+totalCashflowsFromInvestingActivities,,224136.0,224136.0,-216891.0,RLC.AX
+otherCashflowsFromInvestingActivities,,224136.0,224136.0,-216891.0,RLC.AX
+netBorrowings,,,,-3500.0,RLC.AX
+depreciation,,,,1973118.0,RLC.AX
+otherCashflowsFromFinancingActivities,,,,-351709.0,RLC.AX

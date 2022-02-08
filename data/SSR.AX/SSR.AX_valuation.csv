@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,SSR.AX
+1,Enterprise Value,,SSR.AX
+2,Trailing P/E,,SSR.AX
+3,Forward P/E,,SSR.AX
+4,PEG Ratio (5 yr expected),,SSR.AX
+5,Price/Sales (ttm),,SSR.AX
+6,Price/Book (mrq),,SSR.AX
+7,Enterprise Value/Revenue,,SSR.AX
+8,Enterprise Value/EBITDA,,SSR.AX

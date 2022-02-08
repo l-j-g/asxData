@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,ticker
+investments,-2000000,-2000000,-2000000,MHK.AX
+changeToLiabilities,-46944,80699,6857,MHK.AX
+totalCashflowsFromInvestingActivities,-3438048,-50155,-50155,MHK.AX
+netBorrowings,-22104,-22104,-22104,MHK.AX
+totalCashFromFinancingActivities,6036227,302812,400714,MHK.AX
+changeToOperatingActivities,67223,-67223,-67223,MHK.AX
+issuanceOfStock,6250000,302812,400714,MHK.AX
+netIncome,-1465766,-912240,-114386,MHK.AX
+changeInCash,1671807,-84734,313246,MHK.AX
+totalCashFromOperatingActivities,-926372,-337391,-87468,MHK.AX
+depreciation,211573,211573,211573,MHK.AX
+changeToAccountReceivables,-23319,3488,-5496,MHK.AX
+otherCashflowsFromFinancingActivities,-191669,-191669,-191669,MHK.AX
+changeToNetincome,330861,557885,25557,MHK.AX
+capitalExpenditures,-1438048,-50155,-50155,MHK.AX

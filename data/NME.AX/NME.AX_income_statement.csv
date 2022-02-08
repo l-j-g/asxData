@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,203621.0,246500.0,NME.AX
+effectOfAccountingCharges,,,,,NME.AX
+incomeBeforeTax,-1448192,-180799,-2222065,-1195057,NME.AX
+minorityInterest,,,,,NME.AX
+netIncome,-1448192,-180799,-2222065,-649694,NME.AX
+sellingGeneralAdministrative,1383246,698835,1004620,835166,NME.AX
+grossProfit,0,0,343400,348777,NME.AX
+ebit,-1445234,-211016,-2067358,-1042292,NME.AX
+operatingIncome,-1445234,-211016,-2067358,-1042292,NME.AX
+otherOperatingExpenses,-64276,-347629,-347629,-347629,NME.AX
+interestExpense,-2958,-145919,-154707,-152765,NME.AX
+extraordinaryItems,,,,,NME.AX
+nonRecurring,,,,,NME.AX
+otherItems,,,,,NME.AX
+incomeTaxExpense,0,0,0,-545363,NME.AX
+totalRevenue,0,0,343400,348777,NME.AX
+totalOperatingExpenses,1445234,211016,2410758,1391069,NME.AX
+costOfRevenue,0,0,0,0,NME.AX
+totalOtherIncomeExpenseNet,-2958,30217,-154707,-152765,NME.AX
+discontinuedOperations,,,,,NME.AX
+netIncomeFromContinuingOps,-1448192,-180799,-2222065,-649694,NME.AX
+netIncomeApplicableToCommonShares,-1448192,-180799,-2222065,-649694,NME.AX

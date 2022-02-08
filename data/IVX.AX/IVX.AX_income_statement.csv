@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,2230333.0,2230333.0,IVX.AX
+effectOfAccountingCharges,,,,,IVX.AX
+incomeBeforeTax,-1482951,-953894,-2546205,-926507,IVX.AX
+minorityInterest,,,,,IVX.AX
+netIncome,-1482951,-953894,-1064098,-4870133,IVX.AX
+sellingGeneralAdministrative,1847524,1734473,2482848,1152119,IVX.AX
+grossProfit,810505,1916474,1625202,366827,IVX.AX
+ebit,-1572337,-1026464,-2517382,-960466,IVX.AX
+operatingIncome,-1572337,-1026464,-2517382,-960466,IVX.AX
+otherOperatingExpenses,,,,-163348.0,IVX.AX
+interestExpense,,,,-117927.0,IVX.AX
+extraordinaryItems,,,,,IVX.AX
+nonRecurring,,,,,IVX.AX
+otherItems,,,,,IVX.AX
+incomeTaxExpense,0,0,0,652494,IVX.AX
+totalRevenue,2330027,3476784,3882096,737713,IVX.AX
+totalOperatingExpenses,3902364,4503248,6399478,1698179,IVX.AX
+costOfRevenue,1519522,1560310,2256894,370886,IVX.AX
+totalOtherIncomeExpenseNet,89386,72570,-28823,-1966041,IVX.AX
+discontinuedOperations,,,1482107.0,-3943626.0,IVX.AX
+netIncomeFromContinuingOps,-1482951,-953894,-2546205,-926507,IVX.AX
+netIncomeApplicableToCommonShares,-1482951,-953894,-1064098,-4870133,IVX.AX

@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,6000,JMS.AX
+sector,Basic Materials,JMS.AX
+compensationRisk,10,JMS.AX
+auditRisk,10,JMS.AX
+longBusinessSummary,"Jupiter Mines Limited engages in the development and operation of mineral resource properties. It primarily explores for manganese deposits. The company's flagship project is the Tshipi Manganese mine located in South Africa. Jupiter Mines Limited was incorporated in 2003 and is based in Perth, Australia.",JMS.AX
+city,Perth,JMS.AX
+phone,61 8 9346 5500,JMS.AX
+state,WA,JMS.AX
+shareHolderRightsRisk,1,JMS.AX
+compensationAsOfEpochDate,1640908800,JMS.AX
+governanceEpochDate,1643673600,JMS.AX
+boardRisk,10,JMS.AX
+country,Australia,JMS.AX
+website,https://www.jupitermines.com,JMS.AX
+maxAge,86400,JMS.AX
+overallRisk,10,JMS.AX
+address1,16 St Georges Terrace,JMS.AX
+fax,61 8 9346 5500,JMS.AX
+industry,Other Industrial Metals & Mining,JMS.AX
+address2,Level 10,JMS.AX

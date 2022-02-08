@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,GPS.AX
+effectOfAccountingCharges,,,,,GPS.AX
+incomeBeforeTax,-1393000,-1454000,814000,322000,GPS.AX
+minorityInterest,,,,-2503000.0,GPS.AX
+netIncome,-1393000,-1454000,-261000,40000,GPS.AX
+sellingGeneralAdministrative,1441000,1539000,948000,485000,GPS.AX
+grossProfit,-60000,82000,-443000,263000,GPS.AX
+ebit,-1501000,-1457000,-1391000,-222000,GPS.AX
+operatingIncome,-1501000,-1457000,-1391000,-222000,GPS.AX
+otherOperatingExpenses,,,,,GPS.AX
+interestExpense,,,-30000.0,-64000.0,GPS.AX
+extraordinaryItems,,,,,GPS.AX
+nonRecurring,,,,,GPS.AX
+otherItems,,,,,GPS.AX
+incomeTaxExpense,0,0,0,0,GPS.AX
+totalRevenue,-26000,1083000,284000,419000,GPS.AX
+totalOperatingExpenses,1475000,2540000,1675000,641000,GPS.AX
+costOfRevenue,34000,1001000,727000,156000,GPS.AX
+totalOtherIncomeExpenseNet,108000,3000,2205000,544000,GPS.AX
+discontinuedOperations,,,,,GPS.AX
+netIncomeFromContinuingOps,-1393000,-1454000,814000,322000,GPS.AX
+netIncomeApplicableToCommonShares,-1393000,-1454000,-261000,40000,GPS.AX

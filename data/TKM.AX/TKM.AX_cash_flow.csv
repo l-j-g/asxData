@@ -1,0 +1,17 @@
+Breakdown,2021-03-31 00:00:00,2020-03-31 00:00:00,2019-03-31 00:00:00,2018-03-31 00:00:00,ticker
+changeToLiabilities,30211.0,-32641.0,-31380.0,15531.0,TKM.AX
+totalCashflowsFromInvestingActivities,-495073.0,-42442.0,-1719925.0,-1093643.0,TKM.AX
+totalCashFromFinancingActivities,2905127.0,1547979.0,981372.0,2963013.0,TKM.AX
+changeToOperatingActivities,-56.0,5406.0,-957.0,-9554.0,TKM.AX
+issuanceOfStock,3039471.0,1614398.0,1057245.0,2857787.0,TKM.AX
+netIncome,-196588.0,-2413892.0,-888008.0,-1478351.0,TKM.AX
+changeInCash,2255279.0,874125.0,-1433847.0,1448645.0,TKM.AX
+effectOfExchangeRate,311485.0,-128133.0,-42822.0,18241.0,TKM.AX
+totalCashFromOperatingActivities,-466260.0,-503279.0,-652472.0,-438966.0,TKM.AX
+otherCashflowsFromInvestingActivities,-42439.0,-42439.0,-42439.0,10717.0,TKM.AX
+changeToAccountReceivables,-25843.0,8515.0,-10882.0,1271.0,TKM.AX
+otherCashflowsFromFinancingActivities,-134344.0,-66419.0,-75873.0,-211305.0,TKM.AX
+changeToNetincome,-273984.0,-106363.0,278755.0,1032137.0,TKM.AX
+capitalExpenditures,-274414.0,-176106.0,-1540180.0,-1104360.0,TKM.AX
+depreciation,,2035696.0,2035696.0,2035696.0,TKM.AX
+netBorrowings,,,,316531.0,TKM.AX

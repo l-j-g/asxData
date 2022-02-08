@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,TLM.AX
+effectOfAccountingCharges,,,,,TLM.AX
+incomeBeforeTax,-3917000,-7545000,-6659000,-4204000,TLM.AX
+minorityInterest,,,,,TLM.AX
+netIncome,-2167000,-4803000,46236000,-10523000,TLM.AX
+sellingGeneralAdministrative,2224000,3684000,3667000,2596000,TLM.AX
+grossProfit,1325000,204000,432000,60000,TLM.AX
+ebit,-3904000,-7539000,-6584000,-4097000,TLM.AX
+operatingIncome,-3904000,-7539000,-6584000,-4097000,TLM.AX
+otherOperatingExpenses,-68000,-25000,-10000,256000,TLM.AX
+interestExpense,-13000,-6000,-75000,-75000,TLM.AX
+extraordinaryItems,,,,,TLM.AX
+nonRecurring,,,,,TLM.AX
+otherItems,,,,,TLM.AX
+incomeTaxExpense,0,0,0,0,TLM.AX
+totalRevenue,1325000,204000,432000,60000,TLM.AX
+totalOperatingExpenses,5229000,7743000,7016000,4157000,TLM.AX
+costOfRevenue,0,0,0,455000,TLM.AX
+totalOtherIncomeExpenseNet,-13000,-6000,-75000,-107000,TLM.AX
+discontinuedOperations,1750000,2742000,52895000,-6319000,TLM.AX
+netIncomeFromContinuingOps,-3917000,-7545000,-6659000,-4204000,TLM.AX
+netIncomeApplicableToCommonShares,-2167000,-4803000,46236000,-10523000,TLM.AX

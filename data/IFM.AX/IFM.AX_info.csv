@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,2085,IFM.AX
+sector,Technology,IFM.AX
+compensationRisk,5,IFM.AX
+auditRisk,1,IFM.AX
+longBusinessSummary,"Infomedia Ltd, a technology company, develops and supplies electronic parts catalogues, service software, data analytics, and business insights for the automotive industry worldwide. The company offers parts solutions, including Microcat EPC, an electronic parts catalogue; Microcat PartsBridge for collision parts ordering; Microcat Market for mechanical parts ordering; Microcat CRM, an online CRM for wholesale parts; Microcat Messenger, an instant messaging tool; and Microcat EPC Origins. It also provides service solutions, such as Superservice Platform; Superservice Menus, a service quoting software; Superservice Triage, an electronic vehicle health check software; Superservice Connect, an online self-serve booking and quoting system; and Superservice Register, an online VIN-specific central database. In addition, the company offers oil industry solutions comprising Netlube Data, a lubricant recommendation database; and Netlube CRM, a frontline sales transformation solution, as well as data management, performance insights, forecasting, customer experience, and dealer optimization services. Infomedia Ltd was incorporated in 1987 and is headquartered in Sydney, Australia.",IFM.AX
+city,Sydney,IFM.AX
+phone,61 2 9454 1500,IFM.AX
+state,NSW,IFM.AX
+shareHolderRightsRisk,7,IFM.AX
+compensationAsOfEpochDate,1640908800,IFM.AX
+governanceEpochDate,1643673600,IFM.AX
+boardRisk,3,IFM.AX
+country,Australia,IFM.AX
+website,https://www.infomedia.com.au,IFM.AX
+maxAge,86400,IFM.AX
+overallRisk,4,IFM.AX
+address1,3 Minna Close,IFM.AX
+fax,61 2 9454 1799,IFM.AX
+industry,Software—Application,IFM.AX
+address2,Belrose,IFM.AX

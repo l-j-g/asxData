@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,2000,WBC.AX
+sector,Financial Services,WBC.AX
+fullTimeEmployees,40143,WBC.AX
+compensationRisk,5,WBC.AX
+auditRisk,10,WBC.AX
+longBusinessSummary,"Westpac Banking Corporation provides various banking and financial services in Australia, New Zealand, the Americas, Asia, Europe, and internationally. It offers everyday banking, savings, term deposit, business transaction, foreign currency, and specialized accounts; home, personal, and business loans; credit cards; international and travel services; share trading services; investment; and home, car, travel, life, and business insurance products. The company also provides merchant and payment, corporate and institutional, transaction banking, financial market, corporate and structured finance, trade and supply chain financing, and industry specific banking and treasury services, as well as online banking services. It serves individuals; micro, small, and medium enterprises; commercial business and private wealth clients; and commercial, corporate, institutional, and government customers. The company was formerly known as Bank of New South Wales and changed its name to Westpac Banking Corporation in October 1982. The company was founded in 1817 and is based in Sydney, Australia.",WBC.AX
+city,Sydney,WBC.AX
+phone,61 2 9155 7713,WBC.AX
+state,NSW,WBC.AX
+shareHolderRightsRisk,1,WBC.AX
+compensationAsOfEpochDate,1640908800,WBC.AX
+governanceEpochDate,1632614400,WBC.AX
+boardRisk,6,WBC.AX
+country,Australia,WBC.AX
+website,https://www.westpac.com.au,WBC.AX
+maxAge,86400,WBC.AX
+overallRisk,6,WBC.AX
+address1,275 Kent Street,WBC.AX
+fax,61 2 8253 1215,WBC.AX
+industry,Banks—Diversified,WBC.AX
+address2,Level 18,WBC.AX

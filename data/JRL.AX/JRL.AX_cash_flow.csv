@@ -1,0 +1,18 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+investments,163598.0,241727.0,88761.0,-16507.0,JRL.AX
+changeToLiabilities,92966.0,-2871.0,4771.0,8749.0,JRL.AX
+totalCashflowsFromInvestingActivities,-1748370.0,-657274.0,-720381.0,-204412.0,JRL.AX
+netBorrowings,-63048.0,-53461.0,-53461.0,-53461.0,JRL.AX
+totalCashFromFinancingActivities,11676491.0,1073194.0,-66610.0,-6875.0,JRL.AX
+changeToOperatingActivities,-3439.0,-9012.0,16790.0,-1118.0,JRL.AX
+issuanceOfStock,11739539.0,1159843.0,1159843.0,1159843.0,JRL.AX
+netIncome,-504303.0,-250878.0,-1019707.0,-1395292.0,JRL.AX
+changeInCash,9318926.0,-68760.0,-1403597.0,-970915.0,JRL.AX
+totalCashFromOperatingActivities,-609195.0,-484680.0,-616606.0,-759628.0,JRL.AX
+depreciation,101919.0,264705.0,3603.0,39547.0,JRL.AX
+changeToAccountReceivables,-3453.0,14774.0,11354.0,7348.0,JRL.AX
+changeToNetincome,-292885.0,-501398.0,366583.0,581138.0,JRL.AX
+capitalExpenditures,-2096968.0,-1159000.0,-847342.0,-467901.0,JRL.AX
+otherCashflowsFromInvestingActivities,,-1.0,-1800.0,79996.0,JRL.AX
+otherCashflowsFromFinancingActivities,,-33188.0,-33188.0,-33188.0,JRL.AX
+dividendsPaid,,,-66610.0,-6875.0,JRL.AX

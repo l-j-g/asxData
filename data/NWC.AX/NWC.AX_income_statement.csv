@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,NWC.AX
+effectOfAccountingCharges,,,,,NWC.AX
+incomeBeforeTax,-2608649,-1216380,-7640907,-3092346,NWC.AX
+minorityInterest,,,,,NWC.AX
+netIncome,-2806760,-1216380,-7640907,-10326737,NWC.AX
+sellingGeneralAdministrative,1487401,551405,551405,551405,NWC.AX
+grossProfit,1295,1623,3019,4777,NWC.AX
+ebit,-2608649,-1216380,-7640907,-3092346,NWC.AX
+operatingIncome,-2608649,-1216380,-7640907,-3092346,NWC.AX
+otherOperatingExpenses,480464,418601,1235175,1210677,NWC.AX
+interestExpense,,,,,NWC.AX
+extraordinaryItems,,,,,NWC.AX
+nonRecurring,,,,,NWC.AX
+otherItems,,,,,NWC.AX
+incomeTaxExpense,198111,0,0,0,NWC.AX
+totalRevenue,1295,1623,3019,4777,NWC.AX
+totalOperatingExpenses,2609944,1218003,7643926,3097123,NWC.AX
+costOfRevenue,0,0,0,0,NWC.AX
+totalOtherIncomeExpenseNet,0,0,0,0,NWC.AX
+discontinuedOperations,,,,-7234391.0,NWC.AX
+netIncomeFromContinuingOps,-2806760,-1216380,-7640907,-3092346,NWC.AX
+netIncomeApplicableToCommonShares,-2806760,-1216380,-7640907,-10326737,NWC.AX

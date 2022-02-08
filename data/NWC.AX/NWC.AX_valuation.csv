@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,NWC.AX
+1,Enterprise Value,,NWC.AX
+2,Trailing P/E,,NWC.AX
+3,Forward P/E,,NWC.AX
+4,PEG Ratio (5 yr expected),,NWC.AX
+5,Price/Sales (ttm),,NWC.AX
+6,Price/Book (mrq),,NWC.AX
+7,Enterprise Value/Revenue,,NWC.AX
+8,Enterprise Value/EBITDA,,NWC.AX

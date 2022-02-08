@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,VOL.AX
+1,Enterprise Value,,VOL.AX
+2,Trailing P/E,,VOL.AX
+3,Forward P/E,,VOL.AX
+4,PEG Ratio (5 yr expected),,VOL.AX
+5,Price/Sales (ttm),,VOL.AX
+6,Price/Book (mrq),,VOL.AX
+7,Enterprise Value/Revenue,,VOL.AX
+8,Enterprise Value/EBITDA,,VOL.AX

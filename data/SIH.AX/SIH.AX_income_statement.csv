@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,SIH.AX
+effectOfAccountingCharges,,,,,SIH.AX
+incomeBeforeTax,-3316531,-2814814,-1940143,-2673862,SIH.AX
+minorityInterest,-21595227,-22782162,-22040529,-20795471,SIH.AX
+netIncome,-2563744,-2448691,-1716554,-2091472,SIH.AX
+sellingGeneralAdministrative,2119317,1287466,1211812,2732758,SIH.AX
+grossProfit,-600638,-545039,-418065,-55722,SIH.AX
+ebit,-3100572,-2530053,-1747624,-4944696,SIH.AX
+operatingIncome,-3100572,-2530053,-1747624,-4944696,SIH.AX
+otherOperatingExpenses,193586,684533,123567,275641,SIH.AX
+interestExpense,-177179,-640907,-397017,-38284,SIH.AX
+extraordinaryItems,,,,,SIH.AX
+nonRecurring,,,,,SIH.AX
+otherItems,,,,,SIH.AX
+incomeTaxExpense,0,0,0,0,SIH.AX
+totalRevenue,0,0,0,0,SIH.AX
+totalOperatingExpenses,3100572,2530053,1747624,4944696,SIH.AX
+costOfRevenue,600638,545039,418065,55722,SIH.AX
+totalOtherIncomeExpenseNet,-215959,-284761,-192519,2270834,SIH.AX
+discontinuedOperations,,,,,SIH.AX
+netIncomeFromContinuingOps,-3316531,-2814814,-1940143,-2673862,SIH.AX
+netIncomeApplicableToCommonShares,-2563744,-2448691,-1716554,-2091472,SIH.AX

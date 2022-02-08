@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,2073,SGF.AX
+sector,Industrials,SGF.AX
+compensationRisk,4,SGF.AX
+auditRisk,10,SGF.AX
+longBusinessSummary,"SG Fleet Group Limited provides motor vehicle fleet management, vehicle leasing, short-term hire, consumer vehicle finance, and salary packaging services in Australia, New Zealand, and the United Kingdom. The company offers fleet management services, including pricing and quoting, funding, procurement and delivery, fuel and toll management, maintenance and accident management, roadside assistance, registration and infringement management, reporting and invoicing, contract revision, changeover consulting, and vehicle disposal services. It also provides Fleetintelligence, a fleet management tool; Bookingintelligence, a resource management application; Electronic Logbook; Inspect365; eStart, a zero-emission vehicle transition plan; REVS; carsharing; safety solution; and Fleetcoach. In addition, the company offers fleet funding services; fleet management and leasing services to local, state, and federal government; and small fleet services, as well as fleet vehicle accessories, which include 4WD equipment and vehicle safety kit. Further, it provides commercial vehicle and truck leasing services, including multiple leasing options; initial commissioning, sourcing, and acquisition; maintenance and registration; asset disposal; and regular reviews, as well as offers novated lease, online car trade-in, and driver support services. The company was founded in 1986 and is based in Pymble, Australia. SG Fleet Group Limited is a subsidiary of Bluefin Investments Limited.",SGF.AX
+city,Pymble,SGF.AX
+phone,61 2 9494 1000,SGF.AX
+state,NSW,SGF.AX
+shareHolderRightsRisk,7,SGF.AX
+compensationAsOfEpochDate,1640908800,SGF.AX
+governanceEpochDate,1643673600,SGF.AX
+boardRisk,8,SGF.AX
+country,Australia,SGF.AX
+website,https://www.sgfleet.com,SGF.AX
+maxAge,86400,SGF.AX
+overallRisk,8,SGF.AX
+address1,Building 3,SGF.AX
+fax,61 2 9391 5600,SGF.AX
+industry,Rental & Leasing Services,SGF.AX
+address2,Level 2 20 Bridge Street,SGF.AX

@@ -1,0 +1,19 @@
+Breakdown,Value,ticker
+zip,10016,SPT.AX
+sector,Technology,SPT.AX
+fullTimeEmployees,80,SPT.AX
+compensationRisk,10,SPT.AX
+auditRisk,10,SPT.AX
+longBusinessSummary,"Splitit Payments Ltd provides payment solution services in New York, Israel, London, and Australia. Its solution enables customers to pay for purchases with an existing debit or credit card by splitting the cost into interest and fee free monthly payments. The company was incorporated in 2008 and is headquartered in New York, New York.",SPT.AX
+city,New York,SPT.AX
+phone,844-775-4848,SPT.AX
+state,NY,SPT.AX
+shareHolderRightsRisk,1,SPT.AX
+governanceEpochDate,1643673600,SPT.AX
+boardRisk,6,SPT.AX
+country,United States,SPT.AX
+website,https://www.splitit.com,SPT.AX
+maxAge,86400,SPT.AX
+overallRisk,8,SPT.AX
+address1,27 East 28th Street,SPT.AX
+industry,Software—Infrastructure,SPT.AX

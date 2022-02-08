@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,3125,REH.AX
+sector,Industrials,REH.AX
+fullTimeEmployees,8000,REH.AX
+compensationRisk,2,REH.AX
+auditRisk,3,REH.AX
+longBusinessSummary,"Reece Limited engages in the distribution of plumbing, bathroom, heating, ventilation, air-conditioning, waterworks, and refrigeration products in Australia, the United States, and New Zealand. It serves customers in the trade, retail, commercial, and infrastructure markets. Reece Limited sells its products under the Reece, Viadux, Actrol, and Metaflex brands. The company was formerly known as Reece Australia Limited and changed its name to Reece Limited in November 2015. Reece Limited was founded in 1920 and is based in Burwood, Australia.",REH.AX
+city,Burwood,REH.AX
+phone,61 3 9274 0000,REH.AX
+state,VIC,REH.AX
+shareHolderRightsRisk,1,REH.AX
+compensationAsOfEpochDate,1640908800,REH.AX
+governanceEpochDate,1643673600,REH.AX
+boardRisk,10,REH.AX
+country,Australia,REH.AX
+website,https://group.reece.com,REH.AX
+maxAge,86400,REH.AX
+overallRisk,8,REH.AX
+address1,118 Burwood Highway,REH.AX
+fax,61 3 9274 0197,REH.AX
+industry,Industrial Distribution,REH.AX

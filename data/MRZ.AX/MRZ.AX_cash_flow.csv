@@ -1,0 +1,14 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-11-15 00:00:00,ticker
+changeToLiabilities,-46415.0,17339.0,51681.0,0.0,MRZ.AX
+totalCashflowsFromInvestingActivities,-454890.0,-410448.0,-102741.0,-15000.0,MRZ.AX
+changeToOperatingActivities,-3609.0,6159.0,-16416.0,-16416.0,MRZ.AX
+netIncome,-701414.0,-1190892.0,-451379.0,-354272.0,MRZ.AX
+changeInCash,-1149300.0,-937882.0,3644640.0,880949.0,MRZ.AX
+totalCashFromOperatingActivities,-694410.0,-527434.0,-362949.0,-94052.0,MRZ.AX
+changeToAccountReceivables,2028.0,47211.0,-45357.0,-45357.0,MRZ.AX
+changeToNetincome,55000.0,239620.0,98522.0,260220.0,MRZ.AX
+capitalExpenditures,-454890.0,-410448.0,-102741.0,-15000.0,MRZ.AX
+depreciation,,353129.0,353129.0,353129.0,MRZ.AX
+totalCashFromFinancingActivities,,,4110330.0,990000.0,MRZ.AX
+issuanceOfStock,,,4528000.0,990000.0,MRZ.AX
+otherCashflowsFromFinancingActivities,,,-417670.0,-417670.0,MRZ.AX

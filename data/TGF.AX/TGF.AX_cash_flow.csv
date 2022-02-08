@@ -1,0 +1,13 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,ticker
+changeToLiabilities,23266136.0,-20114098.0,-2162899.0,TGF.AX
+totalCashFromFinancingActivities,-768676.0,-987165.0,167580919.0,TGF.AX
+changeToOperatingActivities,29403658.0,7182594.0,2074695.0,TGF.AX
+netIncome,52227774.0,-45665716.0,-2890746.0,TGF.AX
+changeInCash,6310649.0,-53783504.0,59552398.0,TGF.AX
+repurchaseOfStock,-768676.0,-987165.0,-987165.0,TGF.AX
+effectOfExchangeRate,861513.0,-6712317.0,-604659.0,TGF.AX
+totalCashFromOperatingActivities,6217812.0,-46084022.0,-107423861.0,TGF.AX
+changeToAccountReceivables,-158459.0,505425.0,-850024.0,TGF.AX
+changeToNetincome,-861513.0,6712317.0,1231894.0,TGF.AX
+issuanceOfStock,,,171818168.0,TGF.AX
+otherCashflowsFromFinancingActivities,,,-4237249.0,TGF.AX

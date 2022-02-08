@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,4000,SGR.AX
+sector,Consumer Cyclical,SGR.AX
+compensationRisk,10,SGR.AX
+auditRisk,10,SGR.AX
+longBusinessSummary,"The Star Entertainment Group Limited operates and manages integrated resorts in Australia. It operates through three segments: Sydney, Gold Coast, and Brisbane. The company owns and operates The Star Sydney, The Star Gold Coast, and Treasury Brisbane casinos, which include hotels, restaurants, bars, theatres, and other entertainment facilities. It also manages the Gold Coast Convention and Exhibition Centre. The company was formerly known as Echo Entertainment Group Limited and changed its name to The Star Entertainment Group Limited in November 2015. The Star Entertainment Group Limited was incorporated in 2011 and is based in Brisbane, Australia.",SGR.AX
+city,Brisbane,SGR.AX
+phone,61 7 3228 0000,SGR.AX
+state,QLD,SGR.AX
+shareHolderRightsRisk,10,SGR.AX
+compensationAsOfEpochDate,1640908800,SGR.AX
+governanceEpochDate,1632614400,SGR.AX
+boardRisk,4,SGR.AX
+country,Australia,SGR.AX
+website,https://www.starentertainmentgroup.com.au,SGR.AX
+maxAge,86400,SGR.AX
+overallRisk,9,SGR.AX
+address1,159 William Street,SGR.AX
+fax,61 7 3228 0099,SGR.AX
+industry,Resorts & Casinos,SGR.AX
+address2,Level 3,SGR.AX

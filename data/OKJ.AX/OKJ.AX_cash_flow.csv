@@ -1,0 +1,15 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+investments,-267384.0,-34083.0,1165314.0,126103.0,OKJ.AX
+changeToLiabilities,6152.0,19977.0,13732.0,17734.0,OKJ.AX
+totalCashflowsFromInvestingActivities,-268019.0,-37876.0,1105314.0,126103.0,OKJ.AX
+netIncome,-539831.0,-480516.0,-671965.0,-50212.0,OKJ.AX
+changeInCash,-767763.0,-626968.0,2667825.0,-178204.0,OKJ.AX
+totalCashFromOperatingActivities,-499744.0,-589092.0,-688468.0,-304307.0,OKJ.AX
+depreciation,1098.0,433.0,107.0,258.0,OKJ.AX
+changeToAccountReceivables,32837.0,-38486.0,-19728.0,-493.0,OKJ.AX
+capitalExpenditures,-635.0,-3793.0,-3793.0,-3793.0,OKJ.AX
+changeToNetincome,,-90500.0,-10614.0,-271594.0,OKJ.AX
+totalCashFromFinancingActivities,,,2250979.0,2250979.0,OKJ.AX
+issuanceOfStock,,,2288171.0,2288171.0,OKJ.AX
+otherCashflowsFromInvestingActivities,,,-60000.0,-60000.0,OKJ.AX
+otherCashflowsFromFinancingActivities,,,-37192.0,-37192.0,OKJ.AX

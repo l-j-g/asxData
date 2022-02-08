@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,5546324,3601203,3526193,3747791,IMR.AX
+effectOfAccountingCharges,,,,,IMR.AX
+incomeBeforeTax,-12446473,-13293976,-5448482,-5143879,IMR.AX
+minorityInterest,,,,,IMR.AX
+netIncome,-12446473,-13293976,-5448482,-5143879,IMR.AX
+sellingGeneralAdministrative,6012264,3208511,2293494,1701580,IMR.AX
+grossProfit,-397672,262339,1002449,378994,IMR.AX
+ebit,-11956260,-6547375,-4817238,-5015831,IMR.AX
+operatingIncome,-11956260,-6547375,-4817238,-5015831,IMR.AX
+otherOperatingExpenses,,,,-54546.0,IMR.AX
+interestExpense,-300637,-1030732,-799760,-126231,IMR.AX
+extraordinaryItems,,,,,IMR.AX
+nonRecurring,,,,,IMR.AX
+otherItems,,,,,IMR.AX
+incomeTaxExpense,0,0,0,0,IMR.AX
+totalRevenue,702161,639704,1002449,378994,IMR.AX
+totalOperatingExpenses,12658421,7187079,5819687,5394825,IMR.AX
+costOfRevenue,1099833,377365,0,0,IMR.AX
+totalOtherIncomeExpenseNet,-490213,-6746601,-631244,-128048,IMR.AX
+discontinuedOperations,,,,,IMR.AX
+netIncomeFromContinuingOps,-12446473,-13293976,-5448482,-5143879,IMR.AX
+netIncomeApplicableToCommonShares,-12446473,-13293976,-5448482,-5143879,IMR.AX

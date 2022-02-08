@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,6151,SLR.AX
+sector,Basic Materials,SLR.AX
+compensationRisk,6,SLR.AX
+auditRisk,8,SLR.AX
+longBusinessSummary,"Silver Lake Resources Limited, together with its subsidiaries, engages in the exploration, mine development, mine operation, and sale of gold and copper concentrates in Eastern Goldfields and Midwest regions of Western Australia. The company holds interests in the Deflector Gold Copper project that produces gold bullion and gold-copper concentrates located in the Southern Murchison region of Western Australia, including development and ramp up of a secondary high grade ore source at Rothsay; and Mount Monger operations, which produce gold bullion located within the Kalgoorlie terrane subdivision of the Eastern Goldfields Province. Silver Lake Resources Limited was incorporated in 2004 and is headquartered in South Perth, Australia.",SLR.AX
+city,South Perth,SLR.AX
+phone,61 8 6313 3800,SLR.AX
+state,WA,SLR.AX
+shareHolderRightsRisk,1,SLR.AX
+compensationAsOfEpochDate,1640908800,SLR.AX
+governanceEpochDate,1632614400,SLR.AX
+boardRisk,8,SLR.AX
+country,Australia,SLR.AX
+website,https://www.silverlakeresources.com.au,SLR.AX
+maxAge,86400,SLR.AX
+overallRisk,7,SLR.AX
+address1,South Shore Centre,SLR.AX
+fax,61 8 6313 3888,SLR.AX
+industry,Gold,SLR.AX
+address2,Suite 4 Level 3 85 South Perth Esplanade,SLR.AX

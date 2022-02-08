@@ -1,0 +1,17 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,66243.0,41415.0,8150.0,8150.0,NAE.AX
+totalCashflowsFromInvestingActivities,-344261.0,2833990.0,-979716.0,-676328.0,NAE.AX
+totalCashFromFinancingActivities,5619120.0,-19227.0,1787469.0,728000.0,NAE.AX
+changeToOperatingActivities,-4126.0,-18274.0,-2514.0,-2514.0,NAE.AX
+issuanceOfStock,5758000.0,5758000.0,1812560.0,728000.0,NAE.AX
+netIncome,-5524106.0,-4965036.0,-1158486.0,960492.0,NAE.AX
+changeInCash,3580244.0,2102086.0,-359846.0,-670966.0,NAE.AX
+effectOfExchangeRate,321.0,-745.0,-2130.0,17359.0,NAE.AX
+totalCashFromOperatingActivities,-1694936.0,-711932.0,-1165469.0,-739997.0,NAE.AX
+depreciation,2747276.0,4214382.0,3425.0,-1706029.0,NAE.AX
+changeToAccountReceivables,-68591.0,15581.0,-506.0,-506.0,NAE.AX
+otherCashflowsFromFinancingActivities,-138880.0,-19227.0,-25091.0,-25091.0,NAE.AX
+changeToNetincome,1088368.0,1088368.0,-15538.0,410.0,NAE.AX
+capitalExpenditures,-344261.0,-156010.0,-157463.0,-192018.0,NAE.AX
+otherCashflowsFromInvestingActivities,,2990000.0,-832253.0,-484310.0,NAE.AX
+investments,,,10000.0,10000.0,NAE.AX

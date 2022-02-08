@@ -1,0 +1,19 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,ticker
+investments,-610000,-112205,2000,HFY.AX
+changeToLiabilities,181630,-2717872,677640,HFY.AX
+totalCashflowsFromInvestingActivities,-3009044,847664,-3500,HFY.AX
+netBorrowings,-339164,-139194,-139194,HFY.AX
+totalCashFromFinancingActivities,3623924,-510633,-619817,HFY.AX
+changeToOperatingActivities,234339,-72385,105534,HFY.AX
+issuanceOfStock,5000000,5000000,5000000,HFY.AX
+netIncome,918913,2626165,528943,HFY.AX
+changeInCash,2168176,594862,620674,HFY.AX
+totalCashFromOperatingActivities,1553296,257831,1243991,HFY.AX
+depreciation,326220,122085,1929,HFY.AX
+otherCashflowsFromInvestingActivities,-95072,-36406,-5500,HFY.AX
+dividendsPaid,-482143,-322857,-619817,HFY.AX
+changeToInventory,-81483,35814,35814,HFY.AX
+changeToAccountReceivables,-294234,-55579,25190,HFY.AX
+otherCashflowsFromFinancingActivities,-554769,-48582,-48582,HFY.AX
+changeToNetincome,-21581,-144793,-95245,HFY.AX
+capitalExpenditures,-163385,-19928,-19928,HFY.AX

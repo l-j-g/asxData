@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,LDR.AX
+1,Enterprise Value,,LDR.AX
+2,Trailing P/E,,LDR.AX
+3,Forward P/E,,LDR.AX
+4,PEG Ratio (5 yr expected),,LDR.AX
+5,Price/Sales (ttm),,LDR.AX
+6,Price/Book (mrq),,LDR.AX
+7,Enterprise Value/Revenue,,LDR.AX
+8,Enterprise Value/EBITDA,,LDR.AX

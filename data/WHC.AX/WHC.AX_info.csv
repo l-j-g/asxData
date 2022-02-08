@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,2000,WHC.AX
+sector,Energy,WHC.AX
+compensationRisk,7,WHC.AX
+auditRisk,5,WHC.AX
+longBusinessSummary,"Whitehaven Coal Limited develops and operates coal mines in New South Wales and Queensland. The company operates in two segments, Open Cut Operations and Underground Operations. It produces metallurgical and thermal coal. The company operates four mines in the Gunnedah Coal Basin in North West New South Wales, three open cut mines at Maules Creek, Tarrawonga, and Werris Creek; and one underground mine at Narrabri. It sells its coal in Japan, Taiwan, Korea, India, Malaysia, Thailand, New Caledonia, Indonesia, Vietnam, the Philippines, China, and internationally. Whitehaven Coal Limited was founded in 1999 and is based in Sydney, Australia.",WHC.AX
+city,Sydney,WHC.AX
+phone,61 2 8222 1100,WHC.AX
+state,NSW,WHC.AX
+shareHolderRightsRisk,1,WHC.AX
+compensationAsOfEpochDate,1640908800,WHC.AX
+governanceEpochDate,1632614400,WHC.AX
+boardRisk,5,WHC.AX
+country,Australia,WHC.AX
+website,https://www.whitehavencoal.com.au,WHC.AX
+maxAge,86400,WHC.AX
+overallRisk,4,WHC.AX
+address1,259 George Street,WHC.AX
+fax,61 2 8222 1101,WHC.AX
+industry,Thermal Coal,WHC.AX
+address2,Level 28,WHC.AX

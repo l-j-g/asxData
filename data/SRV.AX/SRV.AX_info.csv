@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,2000,SRV.AX
+sector,Real Estate,SRV.AX
+fullTimeEmployees,630,SRV.AX
+compensationRisk,9,SRV.AX
+auditRisk,8,SRV.AX
+longBusinessSummary,"Servcorp Limited provides executive serviced and virtual offices, coworking and IT, communications, and secretarial services. It offers office space solutions; virtual office services, such as business address, secretary and receptionist, mail forwarding, and telephone answering services; and co-working and meeting room services. The company operates in Australia, New Zealand, Southeast Asia, the United States, Europe, the Middle East, North Asia, and internationally. Servcorp Limited was founded in 1978 and is headquartered in Sydney, Australia.",SRV.AX
+city,Sydney,SRV.AX
+phone,61 2 9231 7500,SRV.AX
+state,NSW,SRV.AX
+shareHolderRightsRisk,1,SRV.AX
+compensationAsOfEpochDate,1640908800,SRV.AX
+governanceEpochDate,1632614400,SRV.AX
+boardRisk,5,SRV.AX
+country,Australia,SRV.AX
+website,https://www.servcorp.com,SRV.AX
+maxAge,86400,SRV.AX
+overallRisk,5,SRV.AX
+address1,MLC Centre,SRV.AX
+fax,61 2 9231 7665,SRV.AX
+industry,Real Estate Services,SRV.AX
+address2,Level 63 19-29 Martin Place,SRV.AX

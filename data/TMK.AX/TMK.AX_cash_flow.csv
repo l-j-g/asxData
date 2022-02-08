@@ -1,0 +1,15 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,23068.0,3769.0,13997.0,-4456.0,TMK.AX
+totalCashFromFinancingActivities,40000.0,1946340.0,1946340.0,1946340.0,TMK.AX
+changeToOperatingActivities,-3184.0,815.0,1916.0,-2762.0,TMK.AX
+issuanceOfStock,40000.0,1980000.0,1980000.0,1980000.0,TMK.AX
+netIncome,-574165.0,-1095863.0,-209387.0,-190787.0,TMK.AX
+changeInCash,-514928.0,1286015.0,-195853.0,-197794.0,TMK.AX
+effectOfExchangeRate,-125220.0,22324.0,-2546.0,-4072.0,TMK.AX
+totalCashFromOperatingActivities,-429708.0,-348168.0,-193307.0,-192918.0,TMK.AX
+changeToAccountReceivables,-6671.0,-11075.0,-636.0,155.0,TMK.AX
+changeToNetincome,131244.0,5615.0,-1566.0,-1797.0,TMK.AX
+totalCashflowsFromInvestingActivities,,-334480.0,-334480.0,-804.0,TMK.AX
+depreciation,,748571.0,2369.0,6729.0,TMK.AX
+otherCashflowsFromFinancingActivities,,-33660.0,-33660.0,-33660.0,TMK.AX
+capitalExpenditures,,-334480.0,-334480.0,-15913.0,TMK.AX

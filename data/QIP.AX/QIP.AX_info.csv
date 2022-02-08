@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,3002,QIP.AX
+sector,Industrials,QIP.AX
+fullTimeEmployees,352,QIP.AX
+compensationRisk,9,QIP.AX
+auditRisk,5,QIP.AX
+longBusinessSummary,"QANTM Intellectual Property Limited provides intellectual property services for start-up technology businesses, multinationals, public research institutions, and universities in Australia, New Zealand Singapore, and Malaysia. The company also offers services related to patents, designs, and trademarks, as well as DCC, a litigation service in patent and trademark protection. QANTM Intellectual Property Limited was founded in 1877 and is based in Melbourne, Australia.",QIP.AX
+city,Melbourne,QIP.AX
+phone,61 3 9254 2666,QIP.AX
+state,VIC,QIP.AX
+shareHolderRightsRisk,1,QIP.AX
+compensationAsOfEpochDate,1640908800,QIP.AX
+governanceEpochDate,1632614400,QIP.AX
+boardRisk,9,QIP.AX
+country,Australia,QIP.AX
+website,https://www.qantmip.com,QIP.AX
+maxAge,86400,QIP.AX
+overallRisk,8,QIP.AX
+address1,1 Nicholson Street,QIP.AX
+fax,61 3 9254 2770,QIP.AX
+industry,Consulting Services,QIP.AX
+address2,Level 15,QIP.AX

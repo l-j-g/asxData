@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,05403,M7T.AX
+sector,Healthcare,M7T.AX
+compensationRisk,7,M7T.AX
+auditRisk,7,M7T.AX
+longBusinessSummary,"Mach7 Technologies Limited provides enterprise imaging data sharing, storage, and interoperability for healthcare enterprises worldwide. It operates through two segments, Sale of Software Licenses and Rendering of Professional Services. The Company offers enterprise diagnostic viewing solutions that include eUnity Enterprise Viewer and eUnity Diagnostic Viewer. It also offers enterprise data management solutions that enable cross-department and cross-enterprise workflows to capture, index, manage, store, distribute, view, exchange, and analyze clinical imaging and multimedia content. In addition, the company provides Enterprise PACS, an enterprise-ready imaging platform; and professional services, such as implementation and training, data migration, support, and maintenance services. Mach7 Technologies Limited was founded in 2007 and is headquartered in South Burlington, Vermont.",M7T.AX
+city,South Burlington,M7T.AX
+phone,802 861 7745,M7T.AX
+state,VT,M7T.AX
+shareHolderRightsRisk,1,M7T.AX
+compensationAsOfEpochDate,1640908800,M7T.AX
+governanceEpochDate,1643673600,M7T.AX
+boardRisk,8,M7T.AX
+country,United States,M7T.AX
+website,https://www.mach7t.com,M7T.AX
+maxAge,86400,M7T.AX
+overallRisk,7,M7T.AX
+address1,120 Kimball Avenue,M7T.AX
+fax,802 861 7779,M7T.AX
+industry,Health Information Services,M7T.AX
+address2,Suite 210,M7T.AX

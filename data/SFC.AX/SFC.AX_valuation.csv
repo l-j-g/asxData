@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,SFC.AX
+1,Enterprise Value,,SFC.AX
+2,Trailing P/E,,SFC.AX
+3,Forward P/E,,SFC.AX
+4,PEG Ratio (5 yr expected),,SFC.AX
+5,Price/Sales (ttm),,SFC.AX
+6,Price/Book (mrq),,SFC.AX
+7,Enterprise Value/Revenue,,SFC.AX
+8,Enterprise Value/EBITDA,,SFC.AX

@@ -1,0 +1,19 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,-13101.0,19902.0,17080.0,13108.0,MKG.AX
+totalCashflowsFromInvestingActivities,-7092868.0,-2620698.0,-3350714.0,-1140133.0,MKG.AX
+netBorrowings,-61245.0,-55392.0,-55392.0,-33311.0,MKG.AX
+totalCashFromFinancingActivities,11956022.0,2150977.0,1067528.0,5556589.0,MKG.AX
+changeToOperatingActivities,-68479.0,-24775.0,-20919.0,19761.0,MKG.AX
+issuanceOfStock,12784542.0,2361428.0,1131184.0,6500000.0,MKG.AX
+netIncome,-1488024.0,-1651992.0,-1127580.0,-673764.0,MKG.AX
+changeInCash,3923455.0,-1047731.0,-2828502.0,4044562.0,MKG.AX
+effectOfExchangeRate,-1486.0,308.0,-23646.0,8314.0,MKG.AX
+totalCashFromOperatingActivities,-938213.0,-578318.0,-521670.0,-380209.0,MKG.AX
+depreciation,322445.0,1079188.0,554260.0,554260.0,MKG.AX
+changeToAccountReceivables,-6430.0,-641.0,55489.0,-54774.0,MKG.AX
+otherCashflowsFromFinancingActivities,-767275.0,-155059.0,-63656.0,-910097.0,MKG.AX
+changeToNetincome,315376.0,315376.0,315376.0,87500.0,MKG.AX
+capitalExpenditures,-7092868.0,-2620698.0,-3357570.0,-1089776.0,MKG.AX
+investments,,,-42900.0,-42900.0,MKG.AX
+otherCashflowsFromInvestingActivities,,,49756.0,-50357.0,MKG.AX
+repurchaseOfStock,,,,-3.0,MKG.AX

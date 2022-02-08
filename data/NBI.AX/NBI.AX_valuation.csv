@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,NBI.AX
+1,Enterprise Value,,NBI.AX
+2,Trailing P/E,,NBI.AX
+3,Forward P/E,,NBI.AX
+4,PEG Ratio (5 yr expected),,NBI.AX
+5,Price/Sales (ttm),,NBI.AX
+6,Price/Book (mrq),,NBI.AX
+7,Enterprise Value/Revenue,,NBI.AX
+8,Enterprise Value/EBITDA,,NBI.AX

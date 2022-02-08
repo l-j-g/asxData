@@ -1,0 +1,13 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,293814.0,-47078.0,17043.0,-1890.0,RHI.AX
+changeToOperatingActivities,-4216.0,4752.0,2225.0,1358.0,RHI.AX
+netIncome,-1654745.0,-466409.0,-574936.0,-556271.0,RHI.AX
+changeInCash,-559138.0,524930.0,-554069.0,452560.0,RHI.AX
+totalCashFromOperatingActivities,-559138.0,-521745.0,-554069.0,-547440.0,RHI.AX
+changeToAccountReceivables,13009.0,-13010.0,1599.0,9363.0,RHI.AX
+changeToNetincome,793000.0,793000.0,793000.0,793000.0,RHI.AX
+totalCashFromFinancingActivities,,1046675.0,1046675.0,1046675.0,RHI.AX
+issuanceOfStock,,1059043.0,1059043.0,1059043.0,RHI.AX
+otherCashflowsFromFinancingActivities,,-12368.0,-12368.0,-12368.0,RHI.AX
+investments,,,,1000000.0,RHI.AX
+totalCashflowsFromInvestingActivities,,,,1000000.0,RHI.AX

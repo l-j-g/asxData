@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,TGF.AX
+1,Enterprise Value,,TGF.AX
+2,Trailing P/E,,TGF.AX
+3,Forward P/E,,TGF.AX
+4,PEG Ratio (5 yr expected),,TGF.AX
+5,Price/Sales (ttm),,TGF.AX
+6,Price/Book (mrq),,TGF.AX
+7,Enterprise Value/Revenue,,TGF.AX
+8,Enterprise Value/EBITDA,,TGF.AX

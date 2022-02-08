@@ -1,0 +1,17 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+investments,352871.0,3394830.0,1719405.0,747663.0,PVL.AX
+changeToLiabilities,26848.0,-48086.0,-1422204.0,436246.0,PVL.AX
+totalCashflowsFromInvestingActivities,353376.0,3394990.0,1728548.0,1030478.0,PVL.AX
+totalCashFromFinancingActivities,4045181.0,-1778385.0,-389210.0,2370706.0,PVL.AX
+issuanceOfStock,4169270.0,314337.0,314337.0,314337.0,PVL.AX
+netIncome,-1573843.0,-47066.0,-3969064.0,-10434494.0,PVL.AX
+changeInCash,3443750.0,1247120.0,-930096.0,-267726.0,PVL.AX
+totalCashFromOperatingActivities,-954807.0,-369485.0,-2269434.0,-3668910.0,PVL.AX
+depreciation,14168.0,17349.0,9218.0,10347.0,PVL.AX
+otherCashflowsFromInvestingActivities,1.0,1.0,1.0,285061.0,PVL.AX
+changeToAccountReceivables,-364249.0,-3557.0,277512.0,-14371.0,PVL.AX
+otherCashflowsFromFinancingActivities,-124089.0,-3322.0,-150000.0,-150000.0,PVL.AX
+changeToNetincome,942269.0,-288125.0,2835104.0,6075560.0,PVL.AX
+netBorrowings,,-2089400.0,-239210.0,2370706.0,PVL.AX
+changeToOperatingActivities,,,,245000.0,PVL.AX
+capitalExpenditures,,,,-4496.0,PVL.AX

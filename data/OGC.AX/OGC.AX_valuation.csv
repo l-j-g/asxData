@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,OGC.AX
+1,Enterprise Value,,OGC.AX
+2,Trailing P/E,,OGC.AX
+3,Forward P/E,,OGC.AX
+4,PEG Ratio (5 yr expected),,OGC.AX
+5,Price/Sales (ttm),,OGC.AX
+6,Price/Book (mrq),,OGC.AX
+7,Enterprise Value/Revenue,,OGC.AX
+8,Enterprise Value/EBITDA,,OGC.AX

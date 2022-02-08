@@ -1,0 +1,13 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,-6169.0,93973.0,91640.0,18463.0,KTA.AX
+totalCashFromFinancingActivities,4306578.0,2257101.0,379594.0,460953.0,KTA.AX
+changeToOperatingActivities,-44982.0,7191.0,-10109.0,152501.0,KTA.AX
+issuanceOfStock,4640750.0,2467500.0,385000.0,525000.0,KTA.AX
+netIncome,-3719276.0,-2650603.0,-739390.0,-1122557.0,KTA.AX
+changeInCash,1655521.0,278885.0,-278424.0,-322019.0,KTA.AX
+totalCashFromOperatingActivities,-2651057.0,-1978216.0,-658018.0,-732972.0,KTA.AX
+changeToAccountReceivables,-17063.0,-28777.0,-159.0,-3379.0,KTA.AX
+otherCashflowsFromFinancingActivities,-334172.0,-210399.0,-5406.0,-64047.0,KTA.AX
+changeToNetincome,1136433.0,600000.0,600000.0,222000.0,KTA.AX
+totalCashflowsFromInvestingActivities,,,,-50000.0,KTA.AX
+capitalExpenditures,,,,-50000.0,KTA.AX

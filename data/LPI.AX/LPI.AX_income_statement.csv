@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,LPI.AX
+effectOfAccountingCharges,,,,,LPI.AX
+incomeBeforeTax,-5980303,-12748772,-10064468,-8642305,LPI.AX
+minorityInterest,-183026,-187077,-153829,-110726,LPI.AX
+netIncome,-6114074,-12972177,-10154439,-8783082,LPI.AX
+sellingGeneralAdministrative,2588842,2730321,2788777,4305018,LPI.AX
+grossProfit,0,0,0,0,LPI.AX
+ebit,-2744347,-2942327,-3014736,-4442673,LPI.AX
+operatingIncome,-2744347,-2942327,-3014736,-4442673,LPI.AX
+otherOperatingExpenses,147009,201976,220390,135110,LPI.AX
+interestExpense,-3068,-3137,-40031,-9189,LPI.AX
+extraordinaryItems,,,,,LPI.AX
+nonRecurring,,,,,LPI.AX
+otherItems,,,,,LPI.AX
+incomeTaxExpense,0,0,147451,142623,LPI.AX
+totalRevenue,0,0,0,0,LPI.AX
+totalOperatingExpenses,2744347,2942327,3014736,4442673,LPI.AX
+costOfRevenue,0,0,0,0,LPI.AX
+totalOtherIncomeExpenseNet,-3235956,-9806445,-7049732,-4199632,LPI.AX
+discontinuedOperations,-191101,-319150,-319150,-319150,LPI.AX
+netIncomeFromContinuingOps,-5980303,-12748772,-10211919,-8784928,LPI.AX
+netIncomeApplicableToCommonShares,-6114074,-12972177,-10154439,-8783082,LPI.AX

@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,2000,RHC.AX
+sector,Healthcare,RHC.AX
+fullTimeEmployees,80000,RHC.AX
+compensationRisk,4,RHC.AX
+auditRisk,3,RHC.AX
+longBusinessSummary,"Ramsay Health Care Limited owns and operates hospitals for public and private patients. It also offers health care services. It operates facilities in 460 locations in the Asia Pacific, the United Kingdom, France, and Nordics. The company was founded in 1964 and is based in Sydney, Australia.",RHC.AX
+city,Sydney,RHC.AX
+phone,61 2 9220 1000,RHC.AX
+state,NSW,RHC.AX
+shareHolderRightsRisk,1,RHC.AX
+compensationAsOfEpochDate,1640908800,RHC.AX
+governanceEpochDate,1632614400,RHC.AX
+boardRisk,5,RHC.AX
+country,Australia,RHC.AX
+website,https://www.ramsayhealth.com,RHC.AX
+maxAge,86400,RHC.AX
+overallRisk,3,RHC.AX
+address1,126 Phillip Street,RHC.AX
+fax,61 2 9220 1001,RHC.AX
+industry,Medical Care Facilities,RHC.AX
+address2,Suite 18.03 Level 18,RHC.AX

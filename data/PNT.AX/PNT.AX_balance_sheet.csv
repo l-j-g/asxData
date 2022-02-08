@@ -1,0 +1,15 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2019-06-30 00:00:00,ticker
+totalLiab,1313665.0,4000.0,4487.0,PNT.AX
+totalStockholderEquity,66986.0,138696.0,155335.0,PNT.AX
+totalAssets,1380651.0,142696.0,159822.0,PNT.AX
+commonStock,445600.0,445600.0,445600.0,PNT.AX
+retainedEarnings,-378614.0,-306904.0,-290265.0,PNT.AX
+otherAssets,483681.0,130482.0,71647.0,PNT.AX
+cash,427194.0,8926.0,77164.0,PNT.AX
+totalCurrentLiabilities,1313665.0,4000.0,4487.0,PNT.AX
+propertyPlantEquipment,380479.0,3288.0,1011.0,PNT.AX
+totalCurrentAssets,516491.0,8926.0,77164.0,PNT.AX
+netTangibleAssets,66986.0,138696.0,155335.0,PNT.AX
+netReceivables,3291.0,,,PNT.AX
+accountsPayable,9470.0,4000.0,4487.0,PNT.AX
+longTermInvestments,,,10000.0,PNT.AX

@@ -1,0 +1,20 @@
+Breakdown,Value,ticker
+zip,3121,PME.AX
+sector,Healthcare,PME.AX
+compensationRisk,7,PME.AX
+auditRisk,7,PME.AX
+longBusinessSummary,"Pro Medicus Limited develops and supplies healthcare imaging software and services to hospitals, diagnostic imaging groups, and other related health entities in Australia, North America, and Europe. It provides Radiology Information Systems (RIS) proprietary medical software for practice management. The company also offers Healthcare imaging software that provides radiologists and clinicians with visualization capability for viewing 2-D, 3-D, and 4-D medical images, as well as picture archive and communication system (PACS)/digital imaging software; Promedicus.net., an e-health platform; and integration products. In addition, it offers Visage Ease Pro, a mobile application, which allow users to interpret medical imaging studies that are stored on a Visage 7 server; training, installation, and professional services; and after sale support and service products. The company provides its products under the Visage RIS, Visage RIS/PACS, Visage 7, and Visage Ease names. Pro Medicus Limited was incorporated in 1983 and is headquartered in Richmond, Australia.",PME.AX
+city,Richmond,PME.AX
+phone,61 3 9429 8800,PME.AX
+state,VIC,PME.AX
+shareHolderRightsRisk,7,PME.AX
+compensationAsOfEpochDate,1640908800,PME.AX
+governanceEpochDate,1632614400,PME.AX
+boardRisk,10,PME.AX
+country,Australia,PME.AX
+website,https://www.promed.com.au,PME.AX
+maxAge,86400,PME.AX
+overallRisk,9,PME.AX
+address1,450 Swan Street,PME.AX
+fax,61 3 9429 9455,PME.AX
+industry,Health Information Services,PME.AX

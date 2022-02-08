@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,SMI.AX
+effectOfAccountingCharges,,,,,SMI.AX
+incomeBeforeTax,-2367702,-1359980,-2832520,-926051,SMI.AX
+minorityInterest,,,,,SMI.AX
+netIncome,-6352848,-1465806,-2832520,-926051,SMI.AX
+sellingGeneralAdministrative,1074808,1242886,690335,804718,SMI.AX
+grossProfit,0,0,0,0,SMI.AX
+ebit,-1225459,-1322615,-3133042,-917346,SMI.AX
+operatingIncome,-1225459,-1322615,-3133042,-917346,SMI.AX
+otherOperatingExpenses,-37500,-62500,-62500,-62500,SMI.AX
+interestExpense,,,,,SMI.AX
+extraordinaryItems,,,,,SMI.AX
+nonRecurring,,,,,SMI.AX
+otherItems,,,,,SMI.AX
+incomeTaxExpense,0,0,0,0,SMI.AX
+totalRevenue,0,0,0,0,SMI.AX
+totalOperatingExpenses,1225459,1322615,3133042,917346,SMI.AX
+costOfRevenue,0,0,0,0,SMI.AX
+totalOtherIncomeExpenseNet,-1142243,-37365,300522,-8705,SMI.AX
+discontinuedOperations,-3985146,-105826,-105826,-105826,SMI.AX
+netIncomeFromContinuingOps,-2367702,-1359980,-2832520,-926051,SMI.AX
+netIncomeApplicableToCommonShares,-6352848,-1465806,-2832520,-926051,SMI.AX

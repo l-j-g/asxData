@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,3000,RIC.AX
+sector,Consumer Defensive,RIC.AX
+fullTimeEmployees,612,RIC.AX
+compensationRisk,4,RIC.AX
+auditRisk,8,RIC.AX
+longBusinessSummary,"Ridley Corporation Limited, together with its subsidiaries, provides animal nutrition solutions in Australia. It operates in two segments, Packaged Feeds and Ingredients, and Bulk Stockfeeds. The company offers packaged products and supplements, such as bagged poultry, dairy, dog, horse, and lifestyle animal feeds, as well as block and loose lick supplements; aquafeed, which includes extruded and steam pelleted products for various fin fish and prawns; and rendered poultry, red meat, and fish products for the pet food, stockfeed, and aquaculture sectors. It also provides monogastric and ruminant feeds, such as pellets, meals, concentrates, and premixes for poultry, pigs, dairy cattle, beef cattle, and sheep. The company offers its products primarily under the Ridley, Barastoc, Rumevite, Cobber, Primo, and Food for Dogs brands. It provides nutrition solutions to various food producers in the dairy, poultry, pig, aquaculture, sheep, and beef industries; laboratory animals in the research sector; and equine, canine, and home layer markets in the recreational sector. The company also exports its products. Ridley Corporation Limited was incorporated in 1987 and is headquartered in Melbourne, Australia.",RIC.AX
+city,Melbourne,RIC.AX
+phone,61 3 8624 6500,RIC.AX
+state,VIC,RIC.AX
+shareHolderRightsRisk,7,RIC.AX
+compensationAsOfEpochDate,1640908800,RIC.AX
+governanceEpochDate,1643673600,RIC.AX
+boardRisk,8,RIC.AX
+country,Australia,RIC.AX
+website,https://www.ridley.com.au,RIC.AX
+maxAge,86400,RIC.AX
+overallRisk,8,RIC.AX
+address1,565 Bourke Street,RIC.AX
+fax,61 3 8624 6505,RIC.AX
+industry,Farm Products,RIC.AX
+address2,Level 4,RIC.AX

@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,SHN.AX
+effectOfAccountingCharges,,,,,SHN.AX
+incomeBeforeTax,-1064797,21556,-1999405,3306564,SHN.AX
+minorityInterest,,,-834072.0,-837292.0,SHN.AX
+netIncome,-1064797,21556,-1909870,3225509,SHN.AX
+sellingGeneralAdministrative,998092,565641,646169,566486,SHN.AX
+grossProfit,0,0,0,0,SHN.AX
+ebit,-1306092,-579761,-751944,-575091,SHN.AX
+operatingIncome,-1306092,-579761,-751944,-575091,SHN.AX
+otherOperatingExpenses,,,105775.0,384.0,SHN.AX
+interestExpense,,,,,SHN.AX
+extraordinaryItems,,,,,SHN.AX
+nonRecurring,,,,,SHN.AX
+otherItems,,,,,SHN.AX
+incomeTaxExpense,0,0,-85523,85523,SHN.AX
+totalRevenue,0,0,0,0,SHN.AX
+totalOperatingExpenses,1306092,579761,751944,575091,SHN.AX
+costOfRevenue,0,0,0,0,SHN.AX
+totalOtherIncomeExpenseNet,241295,601317,-1247461,3881655,SHN.AX
+discontinuedOperations,,,,,SHN.AX
+netIncomeFromContinuingOps,-1064797,21556,-1913882,3221041,SHN.AX
+netIncomeApplicableToCommonShares,-1064797,21556,-1909870,3225509,SHN.AX

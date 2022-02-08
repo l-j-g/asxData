@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,444292.0,10975.0,-15749.0,12573.0,OOK.AX
+netBorrowings,77416.0,77416.0,77416.0,77416.0,OOK.AX
+totalCashFromFinancingActivities,32353.0,32353.0,296625.0,593662.0,OOK.AX
+changeToOperatingActivities,27566.0,-8034.0,-1637.0,-15047.0,OOK.AX
+netIncome,-850030.0,-980736.0,-824468.0,-1132424.0,OOK.AX
+changeInCash,-371590.0,-445530.0,-394842.0,-1413795.0,OOK.AX
+totalCashFromOperatingActivities,-403943.0,-445530.0,-632029.0,-733526.0,OOK.AX
+depreciation,718.0,718.0,718.0,254.0,OOK.AX
+changeToAccountReceivables,-18621.0,2442.0,35020.0,-54363.0,OOK.AX
+otherCashflowsFromFinancingActivities,-45063.0,-45063.0,-3375.0,-21946.0,OOK.AX
+changeToNetincome,-7868.0,383812.0,38173.0,390481.0,OOK.AX
+totalCashflowsFromInvestingActivities,,,-59438.0,-1273931.0,OOK.AX
+issuanceOfStock,,,300000.0,615608.0,OOK.AX
+investments,,,,-1189258.0,OOK.AX
+capitalExpenditures,,,,-3590.0,OOK.AX

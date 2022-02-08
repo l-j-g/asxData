@@ -1,0 +1,15 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,ticker
+changeToLiabilities,13506.0,670.0,47644.0,MM1.AX
+totalCashflowsFromInvestingActivities,3230695.0,-260848.0,-122857.0,MM1.AX
+totalCashFromFinancingActivities,135166.0,482441.0,954909.0,MM1.AX
+changeToOperatingActivities,23772.0,96320.0,7019.0,MM1.AX
+issuanceOfStock,135166.0,500000.0,1000000.0,MM1.AX
+netIncome,671284.0,-1715217.0,-1233506.0,MM1.AX
+changeInCash,3201453.0,14989.0,273881.0,MM1.AX
+totalCashFromOperatingActivities,-164408.0,-206604.0,-558171.0,MM1.AX
+changeToNetincome,-872970.0,-12690.0,-12690.0,MM1.AX
+capitalExpenditures,-269305.0,-458121.0,-122857.0,MM1.AX
+depreciation,,1424313.0,786666.0,MM1.AX
+otherCashflowsFromInvestingActivities,,-22727.0,-22727.0,MM1.AX
+otherCashflowsFromFinancingActivities,,-17559.0,-45091.0,MM1.AX
+changeToAccountReceivables,,,-165993.0,MM1.AX

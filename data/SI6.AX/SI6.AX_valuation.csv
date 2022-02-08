@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,SI6.AX
+1,Enterprise Value,,SI6.AX
+2,Trailing P/E,,SI6.AX
+3,Forward P/E,,SI6.AX
+4,PEG Ratio (5 yr expected),,SI6.AX
+5,Price/Sales (ttm),,SI6.AX
+6,Price/Book (mrq),,SI6.AX
+7,Enterprise Value/Revenue,,SI6.AX
+8,Enterprise Value/EBITDA,,SI6.AX

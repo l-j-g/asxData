@@ -1,0 +1,20 @@
+Breakdown,Value,ticker
+zip,2000,PNI.AX
+sector,Financial Services,PNI.AX
+compensationRisk,7,PNI.AX
+auditRisk,7,PNI.AX
+longBusinessSummary,"Pinnacle Investment Management Group Limited operates as an investment management company in Australia. The company offers third party distribution, and fund infrastructure and support services to its affiliates and various investment managers. It also operates as a corporate trustee and responsible entity for retail and wholesale investment trusts. The company was formerly known as Wilson Group Limited and changed its name to Pinnacle Investment Management Group Limited in August 2016. Pinnacle Investment Management Group Limited was founded in 1895 and is based in Sydney, Australia with additional offices in Brisbane, Australia, Melbourne, Australia, and London, United Kingdom.",PNI.AX
+city,Sydney,PNI.AX
+phone,1300 651 577,PNI.AX
+state,NSW,PNI.AX
+shareHolderRightsRisk,1,PNI.AX
+compensationAsOfEpochDate,1640908800,PNI.AX
+governanceEpochDate,1632614400,PNI.AX
+boardRisk,7,PNI.AX
+country,Australia,PNI.AX
+website,https://www.pinnacleinvestment.com,PNI.AX
+maxAge,86400,PNI.AX
+overallRisk,6,PNI.AX
+address1,60 Margaret Street,PNI.AX
+industry,Asset Management,PNI.AX
+address2,Level 35,PNI.AX

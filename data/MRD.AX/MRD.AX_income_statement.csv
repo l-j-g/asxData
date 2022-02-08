@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,MRD.AX
+effectOfAccountingCharges,,,,,MRD.AX
+incomeBeforeTax,-943745,-64849,-589558,-1910154,MRD.AX
+minorityInterest,,,,,MRD.AX
+netIncome,-943745,-64849,-589558,-791225,MRD.AX
+sellingGeneralAdministrative,511512,678458,359354,838857,MRD.AX
+grossProfit,6295,114132,114883,32572,MRD.AX
+ebit,-1682991,-1011603,-718013,-1389410,MRD.AX
+operatingIncome,-1682991,-1011603,-718013,-1389410,MRD.AX
+otherOperatingExpenses,,,,,MRD.AX
+interestExpense,,,,,MRD.AX
+extraordinaryItems,,,,,MRD.AX
+nonRecurring,,,,,MRD.AX
+otherItems,,,,,MRD.AX
+incomeTaxExpense,0,0,0,-1118929,MRD.AX
+totalRevenue,6295,114132,114883,32572,MRD.AX
+totalOperatingExpenses,1689286,1125735,832896,1421982,MRD.AX
+costOfRevenue,0,0,0,0,MRD.AX
+totalOtherIncomeExpenseNet,739246,946754,128455,-520744,MRD.AX
+discontinuedOperations,,,,,MRD.AX
+netIncomeFromContinuingOps,-943745,-64849,-589558,-791225,MRD.AX
+netIncomeApplicableToCommonShares,-1067412,-64849,-589558,-791225,MRD.AX

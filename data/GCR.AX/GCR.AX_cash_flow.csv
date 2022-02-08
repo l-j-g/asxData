@@ -1,0 +1,14 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,160000.0,29000.0,0.0,-51000.0,GCR.AX
+totalCashflowsFromInvestingActivities,-109000.0,-392000.0,-195000.0,-594000.0,GCR.AX
+netBorrowings,386000.0,880000.0,600000.0,1150000.0,GCR.AX
+totalCashFromFinancingActivities,386000.0,880000.0,600000.0,1150000.0,GCR.AX
+changeToOperatingActivities,-11000.0,-5000.0,-23000.0,4000.0,GCR.AX
+netIncome,-889000.0,-989000.0,-865000.0,-998000.0,GCR.AX
+changeInCash,-17000.0,-30000.0,-115000.0,-28000.0,GCR.AX
+totalCashFromOperatingActivities,-294000.0,-517000.0,-520000.0,-584000.0,GCR.AX
+depreciation,139000.0,177000.0,217000.0,304000.0,GCR.AX
+changeToAccountReceivables,21000.0,274000.0,151000.0,157000.0,GCR.AX
+changeToNetincome,286000.0,-3000.0,-3000.0,-3000.0,GCR.AX
+capitalExpenditures,-207000.0,-430000.0,-463000.0,-594000.0,GCR.AX
+otherCashflowsFromInvestingActivities,,-1000.0,130000.0,130000.0,GCR.AX

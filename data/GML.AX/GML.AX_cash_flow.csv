@@ -1,0 +1,18 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+investments,240000.0,250190.0,180.0,180.0,GML.AX
+changeToLiabilities,88726.0,180477.0,-76045.0,377852.0,GML.AX
+totalCashflowsFromInvestingActivities,-5149244.0,-3138315.0,-2132631.0,-1414385.0,GML.AX
+totalCashFromFinancingActivities,8468347.0,3366195.0,3258128.0,3685611.0,GML.AX
+changeToOperatingActivities,-24271.0,22291.0,-6672.0,25327.0,GML.AX
+issuanceOfStock,9000000.0,3539500.0,3439849.0,3821076.0,GML.AX
+netIncome,-1590069.0,-666835.0,-778929.0,-619318.0,GML.AX
+changeInCash,2316874.0,-587583.0,232918.0,1607524.0,GML.AX
+repurchaseOfStock,-73318.0,-73318.0,-73318.0,-73318.0,GML.AX
+totalCashFromOperatingActivities,-1002229.0,-815463.0,-892579.0,-663702.0,GML.AX
+depreciation,490265.0,576.0,559.0,169.0,GML.AX
+changeToAccountReceivables,48822.0,-93265.0,32935.0,-163246.0,GML.AX
+otherCashflowsFromFinancingActivities,-458335.0,-173305.0,-181721.0,-234997.0,GML.AX
+changeToNetincome,-15702.0,-258707.0,-64427.0,-284486.0,GML.AX
+capitalExpenditures,-5389244.0,-3388505.0,-2505176.0,-1414385.0,GML.AX
+otherCashflowsFromInvestingActivities,,,372365.0,372365.0,GML.AX
+netBorrowings,,,,99532.0,GML.AX

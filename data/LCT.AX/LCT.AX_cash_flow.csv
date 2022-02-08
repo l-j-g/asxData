@@ -1,0 +1,18 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+investments,105859.0,1100159.0,1100159.0,3000000.0,LCT.AX
+changeToLiabilities,-28286.0,-1353564.0,1137089.0,-660043.0,LCT.AX
+totalCashflowsFromInvestingActivities,105859.0,1238133.0,-53315.0,2997010.0,LCT.AX
+netBorrowings,-44537.0,-50241.0,-50241.0,-50241.0,LCT.AX
+totalCashFromFinancingActivities,-44537.0,-50241.0,-50241.0,31300.0,LCT.AX
+changeToOperatingActivities,35300.0,-8443.0,10529.0,27126.0,LCT.AX
+netIncome,-1460591.0,-968469.0,-3181363.0,-374492.0,LCT.AX
+changeInCash,-1395946.0,-1943083.0,-1953706.0,-668370.0,LCT.AX
+effectOfExchangeRate,4255.0,-21190.0,90139.0,-126374.0,LCT.AX
+totalCashFromOperatingActivities,-1461523.0,-3109785.0,-1990530.0,-3570306.0,LCT.AX
+depreciation,49314.0,70945.0,52298.0,62065.0,LCT.AX
+changeToAccountReceivables,94269.0,379674.0,-183508.0,272020.0,LCT.AX
+changeToNetincome,-151529.0,-1229928.0,174425.0,-2896982.0,LCT.AX
+otherCashflowsFromInvestingActivities,,46195.0,-42993.0,-42993.0,LCT.AX
+capitalExpenditures,,,-10322.0,-2990.0,LCT.AX
+issuanceOfStock,,,,40750.0,LCT.AX
+otherCashflowsFromFinancingActivities,,,,-9450.0,LCT.AX

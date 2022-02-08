@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,6021,IMD.AX
+sector,Industrials,IMD.AX
+fullTimeEmployees,521,IMD.AX
+compensationRisk,2,IMD.AX
+auditRisk,5,IMD.AX
+longBusinessSummary,"Imdex Limited, together with its subsidiaries, provides drilling optimization products and sensors for the minerals industry in the Asia-Pacific, Africa, Europe, and the Americas. The company sells and rents drilling optimization products, including drilling fluids, solids removal units, remote fluid testing technologies, rig alignment technologies, and drilling productivity technologies; and rents rock knowledge sensors, which include downhole survey, core orientation, gamma logging, structural orientation, and in-field sampling and analysis sensors. It also provides real-time data and analytics solutions, such as IMDEXHUB-IQ, a cloud-based data collection and validation platform; IMDEX Mobile, an advanced reporting software; ioGAS, a geoscience analytics software; and aiSIRIS, an interpretive mineralogy software. In addition, the company offers software, mining technology, drilling optimization, downhole navigation, structural geology, in-field geoanalysis, and driller operable geophysics solutions. It provides its products and services under the AMC and REFLEX brands to drilling contractors and resource companies. The company was formerly known as Pilbara Gold NL and changed its name to Imdex Limited in July 1985. Imdex Limited was incorporated in 1980 and is headquartered in Balcatta, Australia.",IMD.AX
+city,Balcatta,IMD.AX
+phone,61 8 9445 4010,IMD.AX
+state,WA,IMD.AX
+shareHolderRightsRisk,7,IMD.AX
+compensationAsOfEpochDate,1640908800,IMD.AX
+governanceEpochDate,1632614400,IMD.AX
+boardRisk,7,IMD.AX
+country,Australia,IMD.AX
+website,https://www.imdexlimited.com,IMD.AX
+maxAge,86400,IMD.AX
+overallRisk,5,IMD.AX
+address1,216 Balcatta Road,IMD.AX
+fax,61 8 9445 4042,IMD.AX
+industry,Specialty Industrial Machinery,IMD.AX

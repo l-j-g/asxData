@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,593416.0,-241158.0,410261.0,268863.0,OAR.AX
+totalCashflowsFromInvestingActivities,-1606492.0,-819806.0,-267964.0,-63529.0,OAR.AX
+totalCashFromFinancingActivities,4176363.0,3922399.0,547825.0,355285.0,OAR.AX
+changeToOperatingActivities,14601.0,10486.0,3408.0,-36634.0,OAR.AX
+issuanceOfStock,4501000.0,3539853.0,257200.0,376870.0,OAR.AX
+netIncome,-1938273.0,-1560230.0,-1446157.0,-498027.0,OAR.AX
+changeInCash,1175010.0,1334651.0,2743.0,4839.0,OAR.AX
+totalCashFromOperatingActivities,-1394861.0,-1767942.0,-277118.0,-286917.0,OAR.AX
+depreciation,1308.0,155.0,155.0,155.0,OAR.AX
+otherCashflowsFromInvestingActivities,-81753.0,-760839.0,-760839.0,-760839.0,OAR.AX
+changeToAccountReceivables,-64605.0,22960.0,14065.0,-97095.0,OAR.AX
+otherCashflowsFromFinancingActivities,-324637.0,-377454.0,290625.0,-21585.0,OAR.AX
+changeToNetincome,-1308.0,-155.0,741305.0,75977.0,OAR.AX
+capitalExpenditures,-1524739.0,-58967.0,-336936.0,-336936.0,OAR.AX
+netBorrowings,,760000.0,760000.0,760000.0,OAR.AX

@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,VMS.AX
+effectOfAccountingCharges,,,,,VMS.AX
+incomeBeforeTax,-11750079,-2204559,-2835770,-3511165,VMS.AX
+minorityInterest,,,,,VMS.AX
+netIncome,-11750079,-2204559,-2983022,-3511165,VMS.AX
+sellingGeneralAdministrative,2207318,1055629,1194809,984462,VMS.AX
+grossProfit,6220,14490,23836,35349,VMS.AX
+ebit,-11601706,-2142383,-2934054,-2617134,VMS.AX
+operatingIncome,-11601706,-2142383,-2934054,-2617134,VMS.AX
+otherOperatingExpenses,,,,,VMS.AX
+interestExpense,,,,,VMS.AX
+extraordinaryItems,,,,,VMS.AX
+nonRecurring,,,,,VMS.AX
+otherItems,,,,,VMS.AX
+incomeTaxExpense,0,0,0,0,VMS.AX
+totalRevenue,6220,14490,23836,35349,VMS.AX
+totalOperatingExpenses,11607926,2156873,2957890,2652483,VMS.AX
+costOfRevenue,0,0,0,0,VMS.AX
+totalOtherIncomeExpenseNet,-148373,-62176,98284,-894031,VMS.AX
+discontinuedOperations,,,-147252.0,-147252.0,VMS.AX
+netIncomeFromContinuingOps,-11750079,-2204559,-2835770,-3511165,VMS.AX
+netIncomeApplicableToCommonShares,-11750079,-2204559,-2983022,-3511165,VMS.AX

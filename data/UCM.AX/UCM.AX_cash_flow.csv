@@ -1,0 +1,18 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,34764.0,273565.0,184780.0,25709.0,UCM.AX
+totalCashflowsFromInvestingActivities,-33351.0,-38159.0,-111831.0,-338751.0,UCM.AX
+netBorrowings,-270998.0,-236778.0,-236778.0,-236778.0,UCM.AX
+totalCashFromFinancingActivities,-281868.0,796767.0,46232.0,2864616.0,UCM.AX
+changeToOperatingActivities,-15122.0,-6441.0,-16760.0,-162004.0,UCM.AX
+netIncome,-924243.0,-1331335.0,-1389398.0,-1960923.0,UCM.AX
+changeInCash,-210103.0,712161.0,-1285079.0,830010.0,UCM.AX
+effectOfExchangeRate,50138.0,-13185.0,-13185.0,770.0,UCM.AX
+totalCashFromOperatingActivities,54978.0,-33262.0,-1219480.0,-1696625.0,UCM.AX
+depreciation,391682.0,569732.0,334672.0,304303.0,UCM.AX
+changeToInventory,-66025.0,-313692.0,-35121.0,-13536.0,UCM.AX
+changeToAccountReceivables,46729.0,311545.0,-334017.0,-53226.0,UCM.AX
+otherCashflowsFromFinancingActivities,-10870.0,-16455.0,-3768.0,-3768.0,UCM.AX
+changeToNetincome,583465.0,463364.0,36364.0,163052.0,UCM.AX
+capitalExpenditures,-5510.0,-15754.0,-68533.0,-171838.0,UCM.AX
+issuanceOfStock,,1050000.0,50000.0,2864616.0,UCM.AX
+investments,,,,-41888.0,UCM.AX

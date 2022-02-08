@@ -1,0 +1,23 @@
+Breakdown,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,2017-06-30 00:00:00,ticker
+researchDevelopment,,,,,GMC.AX
+effectOfAccountingCharges,,,,,GMC.AX
+incomeBeforeTax,-6417068,-10697593,-7467562,-5363308,GMC.AX
+minorityInterest,-744606,-755376,-755376,-755376,GMC.AX
+netIncome,-5685050,-10022391,-7467562,-5363308,GMC.AX
+sellingGeneralAdministrative,5544008,7194945,4391881,1757126,GMC.AX
+grossProfit,40665,18301,21526,0,GMC.AX
+ebit,-6056112,-8181085,-7540478,-5316180,GMC.AX
+operatingIncome,-6056112,-8181085,-7540478,-5316180,GMC.AX
+otherOperatingExpenses,,,,,GMC.AX
+interestExpense,-375225,-766821,-83285,-35224,GMC.AX
+extraordinaryItems,,,,,GMC.AX
+nonRecurring,,,,,GMC.AX
+otherItems,,,,,GMC.AX
+incomeTaxExpense,0,0,0,0,GMC.AX
+totalRevenue,40665,18301,21526,0,GMC.AX
+totalOperatingExpenses,6096777,8199386,7562004,5316180,GMC.AX
+costOfRevenue,0,0,0,0,GMC.AX
+totalOtherIncomeExpenseNet,-360956,-2516508,72916,-47128,GMC.AX
+discontinuedOperations,,,,,GMC.AX
+netIncomeFromContinuingOps,-6417068,-10697593,-7467562,-5363308,GMC.AX
+netIncomeApplicableToCommonShares,-5685050,-10022391,-7467562,-5363308,GMC.AX

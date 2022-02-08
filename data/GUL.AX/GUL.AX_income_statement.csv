@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,GUL.AX
+effectOfAccountingCharges,,,,,GUL.AX
+incomeBeforeTax,2101218,2161655,1028705,1086005,GUL.AX
+minorityInterest,-101708,-101708,-101541,-101171,GUL.AX
+netIncome,1435557,2096822,1029075,1087795,GUL.AX
+sellingGeneralAdministrative,1344358,804315,794928,721125,GUL.AX
+grossProfit,3872008,2534523,1832153,1858998,GUL.AX
+ebit,2517974,1721740,1028705,1128856,GUL.AX
+operatingIncome,2517974,1721740,1028705,1128856,GUL.AX
+otherOperatingExpenses,,,,,GUL.AX
+interestExpense,,,,,GUL.AX
+extraordinaryItems,,,,,GUL.AX
+nonRecurring,,,,,GUL.AX
+otherItems,,,,,GUL.AX
+incomeTaxExpense,665661,65000,0,0,GUL.AX
+totalRevenue,3872008,2534523,1832153,1858998,GUL.AX
+totalOperatingExpenses,1354034,812783,803448,730142,GUL.AX
+costOfRevenue,0,0,0,0,GUL.AX
+totalOtherIncomeExpenseNet,-416756,439915,0,-42851,GUL.AX
+discontinuedOperations,,,,,GUL.AX
+netIncomeFromContinuingOps,1435557,2096655,1028705,1086005,GUL.AX
+netIncomeApplicableToCommonShares,1435557,2096822,1029075,1087795,GUL.AX

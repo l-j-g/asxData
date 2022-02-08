@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,2000,IAG.AX
+sector,Financial Services,IAG.AX
+compensationRisk,2,IAG.AX
+auditRisk,4,IAG.AX
+longBusinessSummary,"Insurance Australia Group Limited operates as a general insurance company in Australia and New Zealand. It offers personal and commercial insurance products, including bicycle, comprehensive motor, commercial and motor fleet, commercial property and liability, construction and engineering, consumer credit, compulsory third party, directors and officers, extended warranty, farm, crop, livestock, home and contents, income protection, marine, veteran, vintage and classic car, boat, caravan, travel, life, professional indemnity, public and product liability, security, workers' compensation, motor vehicle, business, and rural and horticultural, as well as reinsurance. The company sells its products through branches and agencies, call centers, online facilities, and intermediary channels; and third parties under the NRMA Insurance, SGIO, SGIC, CGU Insurance, WFI, Swann Insurance, NZI, State, AMI, Lumley, AmGeneral, and Kurnia brands. The company was formerly known as NRMA Insurance Group Limited and changed its name to Insurance Australia Group Limited in 2002. Insurance Australia Group Limited was founded in 1920 and is headquartered in Sydney, Australia.",IAG.AX
+city,Sydney,IAG.AX
+phone,61 2 9292 9222,IAG.AX
+state,NSW,IAG.AX
+shareHolderRightsRisk,5,IAG.AX
+compensationAsOfEpochDate,1640908800,IAG.AX
+governanceEpochDate,1632614400,IAG.AX
+boardRisk,1,IAG.AX
+country,Australia,IAG.AX
+website,https://www.iag.com.au,IAG.AX
+maxAge,86400,IAG.AX
+overallRisk,1,IAG.AX
+address1,Tower Two,IAG.AX
+fax,61 2 9292 8072,IAG.AX
+industry,Insurance—Property & Casualty,IAG.AX
+address2,Level 13 Darling Park 201 Sussex Street,IAG.AX

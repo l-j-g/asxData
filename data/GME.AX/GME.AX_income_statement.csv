@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,GME.AX
+effectOfAccountingCharges,,,,,GME.AX
+incomeBeforeTax,-186321,-488185,-984045,-1697583,GME.AX
+minorityInterest,,,,,GME.AX
+netIncome,-186321,-237305,-277265,-1084387,GME.AX
+sellingGeneralAdministrative,350371,391501,526335,652646,GME.AX
+grossProfit,200000,100000,100000,100000,GME.AX
+ebit,-183883,-486620,-1017238,-1704030,GME.AX
+operatingIncome,-183883,-486620,-1017238,-1704030,GME.AX
+otherOperatingExpenses,-86964,-44613,-44613,-44613,GME.AX
+interestExpense,-2666,-2213,-2213,-2213,GME.AX
+extraordinaryItems,,,,,GME.AX
+nonRecurring,,,,,GME.AX
+otherItems,,,,,GME.AX
+incomeTaxExpense,0,-250880,-706780,-613196,GME.AX
+totalRevenue,200000,100000,100000,100000,GME.AX
+totalOperatingExpenses,383883,586620,1117238,1804030,GME.AX
+costOfRevenue,0,0,0,0,GME.AX
+totalOtherIncomeExpenseNet,-2438,-1565,33193,6447,GME.AX
+discontinuedOperations,,,,,GME.AX
+netIncomeFromContinuingOps,-186321,-237305,-277265,-1084387,GME.AX
+netIncomeApplicableToCommonShares,-186321,-237305,-277265,-1084387,GME.AX

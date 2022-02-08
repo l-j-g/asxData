@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,WSI.AX
+1,Enterprise Value,,WSI.AX
+2,Trailing P/E,,WSI.AX
+3,Forward P/E,,WSI.AX
+4,PEG Ratio (5 yr expected),,WSI.AX
+5,Price/Sales (ttm),,WSI.AX
+6,Price/Book (mrq),,WSI.AX
+7,Enterprise Value/Revenue,,WSI.AX
+8,Enterprise Value/EBITDA,,WSI.AX

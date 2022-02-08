@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,NPM.AX
+1,Enterprise Value,,NPM.AX
+2,Trailing P/E,,NPM.AX
+3,Forward P/E,,NPM.AX
+4,PEG Ratio (5 yr expected),,NPM.AX
+5,Price/Sales (ttm),,NPM.AX
+6,Price/Book (mrq),,NPM.AX
+7,Enterprise Value/Revenue,,NPM.AX
+8,Enterprise Value/EBITDA,,NPM.AX

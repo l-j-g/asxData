@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,WWI.AX
+effectOfAccountingCharges,,,,,WWI.AX
+incomeBeforeTax,-543000,-1913000,-1960000,-1545000,WWI.AX
+minorityInterest,-5924000,-5941000,-5385000,-1489000,WWI.AX
+netIncome,-341000,-1668000,-7962000,-1256000,WWI.AX
+sellingGeneralAdministrative,1380000,1798000,1482000,2215000,WWI.AX
+grossProfit,-3000,117000,-254000,735000,WWI.AX
+ebit,-1408000,-1683000,-1960000,-1546000,WWI.AX
+operatingIncome,-1408000,-1683000,-1960000,-1546000,WWI.AX
+otherOperatingExpenses,,,,,WWI.AX
+interestExpense,-108000,-73000,-73000,-73000,WWI.AX
+extraordinaryItems,,,,,WWI.AX
+nonRecurring,,,,,WWI.AX
+otherItems,,,,,WWI.AX
+incomeTaxExpense,0,0,0,0,WWI.AX
+totalRevenue,0,142000,4825000,5002000,WWI.AX
+totalOperatingExpenses,1408000,1825000,6785000,6548000,WWI.AX
+costOfRevenue,3000,25000,5079000,4267000,WWI.AX
+totalOtherIncomeExpenseNet,865000,-230000,-9741000,1000,WWI.AX
+discontinuedOperations,,,-9801000.0,-9801000.0,WWI.AX
+netIncomeFromContinuingOps,-543000,-1913000,-1960000,-1545000,WWI.AX
+netIncomeApplicableToCommonShares,-341000,-1668000,-7962000,-1256000,WWI.AX

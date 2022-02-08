@@ -1,0 +1,20 @@
+Breakdown,Value,ticker
+zip,2000,PDL.AX
+sector,Financial Services,PDL.AX
+compensationRisk,9,PDL.AX
+auditRisk,5,PDL.AX
+longBusinessSummary,"Pendal Group Limited is a publicly owned investment manager the firm provides its services to individual and institutional clients. The firm launches and manages equity, fixed income, multi-assets and balanced mutual funds. It invests in the public equity, fixed income, and alternative investment markets across the globe. The firm uses fundamental along with bottom up stock selection process to make its investments. It conducts in-house research to make its investments. Pendal Group Limited is formed in 2007 and is based in Sydney, Australia.",PDL.AX
+city,Sydney,PDL.AX
+phone,61 2 9220 2000,PDL.AX
+state,NSW,PDL.AX
+shareHolderRightsRisk,7,PDL.AX
+compensationAsOfEpochDate,1640908800,PDL.AX
+governanceEpochDate,1632614400,PDL.AX
+boardRisk,1,PDL.AX
+country,Australia,PDL.AX
+website,https://www.pendalgroup.com,PDL.AX
+maxAge,86400,PDL.AX
+overallRisk,4,PDL.AX
+address1,The Chifley Tower,PDL.AX
+industry,Asset Management,PDL.AX
+address2,Level 14 Two Chifley Square,PDL.AX

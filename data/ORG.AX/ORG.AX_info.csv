@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,2000,ORG.AX
+sector,Energy,ORG.AX
+fullTimeEmployees,5000,ORG.AX
+compensationRisk,10,ORG.AX
+auditRisk,1,ORG.AX
+longBusinessSummary,"Origin Energy Limited, an integrated energy company, engages in the exploration and production of natural gas, electricity generation, wholesale and retail sale of electricity and gas, and sale of liquefied natural gas in Australia and internationally. The company operates through two segments, Energy Markets and Integrated Gas. Its exploration and production portfolio includes the Bowen and Surat basins in Queensland; the Browse basin in Western Australia; and the Beetaloo basin in the Northern Territory. The company also generates electricity from coal, wind, pumped water storage, solar, and cogeneration plants; sells electricity, natural gas, and LPG; provides GreenPower and green gas products; and supplies LPG to homes and businesses. In addition, it offers electric and gas hot water systems, as well as hot water systems repair and replacement services; split system air conditioners; ducted and space heating solutions; ducted evaporative cooling systems; and ducted reverse cycle air conditioning systems. Origin Energy Limited was incorporated in 1946 and is based in Barangaroo, Australia.",ORG.AX
+city,Barangaroo,ORG.AX
+phone,61 2 8345 5000,ORG.AX
+state,NSW,ORG.AX
+shareHolderRightsRisk,5,ORG.AX
+compensationAsOfEpochDate,1640908800,ORG.AX
+governanceEpochDate,1632614400,ORG.AX
+boardRisk,2,ORG.AX
+country,Australia,ORG.AX
+website,https://www.originenergy.com.au,ORG.AX
+maxAge,86400,ORG.AX
+overallRisk,5,ORG.AX
+address1,Tower 1,ORG.AX
+fax,61 2 9252 9244,ORG.AX
+industry,Oil & Gas Integrated,ORG.AX
+address2,Level 32 100 Barangaroo Avenue,ORG.AX

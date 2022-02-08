@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,TSN.AX
+1,Enterprise Value,,TSN.AX
+2,Trailing P/E,,TSN.AX
+3,Forward P/E,,TSN.AX
+4,PEG Ratio (5 yr expected),,TSN.AX
+5,Price/Sales (ttm),,TSN.AX
+6,Price/Book (mrq),,TSN.AX
+7,Enterprise Value/Revenue,,TSN.AX
+8,Enterprise Value/EBITDA,,TSN.AX

@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,WC8.AX
+effectOfAccountingCharges,,,,,WC8.AX
+incomeBeforeTax,-924016,-1030754,-353009,-425652,WC8.AX
+minorityInterest,,,,,WC8.AX
+netIncome,-924016,-1030754,-353009,-425652,WC8.AX
+sellingGeneralAdministrative,452340,414328,324873,284398,WC8.AX
+grossProfit,0,0,-5000,-97547,WC8.AX
+ebit,-862665,-969002,-442668,-416389,WC8.AX
+operatingIncome,-862665,-969002,-442668,-416389,WC8.AX
+otherOperatingExpenses,76332,24083,28093,34444,WC8.AX
+interestExpense,-160,-160,-160,-160,WC8.AX
+extraordinaryItems,,,,,WC8.AX
+nonRecurring,,,,,WC8.AX
+otherItems,,,,,WC8.AX
+incomeTaxExpense,0,0,0,0,WC8.AX
+totalRevenue,0,0,0,0,WC8.AX
+totalOperatingExpenses,862665,969002,442668,416389,WC8.AX
+costOfRevenue,0,0,5000,97547,WC8.AX
+totalOtherIncomeExpenseNet,-61351,-61752,89659,-9263,WC8.AX
+discontinuedOperations,,,,,WC8.AX
+netIncomeFromContinuingOps,-924016,-1030754,-353009,-425652,WC8.AX
+netIncomeApplicableToCommonShares,-924016,-1030754,-353009,-425652,WC8.AX

@@ -1,0 +1,20 @@
+Breakdown,Value,ticker
+zip,6000,S32.AX
+sector,Basic Materials,S32.AX
+compensationRisk,5,S32.AX
+auditRisk,2,S32.AX
+longBusinessSummary,"South32 Limited operates as a diversified metals and mining company in Australia, Southern Africa, North America, and South America. The company operates through Worsley Alumina, Hillside Aluminium, Mozal Aluminium, Brazil Alumina, Illawarra Metallurgical Coal, Eagle Downs Metallurgical Coal, Australia Manganese, South Africa Managanese, Cerro Matoso, Cannington, Hermosa, and South Africa Energy Coal segments. It has a portfolio of assets producing alumina, aluminum, bauxite, energy and metallurgical coal, manganese ore and alloy, ferronickel, silver, lead, zinc, and other base metals. The company also exports its products. South32 Limited has a strategic alliance agreement with AusQuest Limited for exploration opportunity in gold-copper targets at the Gunanya Project. It was formerly known as BHP Coal Holdings Pty Limited and changed its name to South32 Limited. South32 Limited was incorporated in 2000 and is headquartered in Perth, Australia.",S32.AX
+city,Perth,S32.AX
+phone,61 8 9324 9000,S32.AX
+state,WA,S32.AX
+shareHolderRightsRisk,1,S32.AX
+compensationAsOfEpochDate,1640908800,S32.AX
+governanceEpochDate,1643673600,S32.AX
+boardRisk,2,S32.AX
+country,Australia,S32.AX
+website,https://www.south32.net,S32.AX
+maxAge,86400,S32.AX
+overallRisk,1,S32.AX
+address1,108 St Georges Terrace,S32.AX
+industry,Other Industrial Metals & Mining,S32.AX
+address2,Level 36,S32.AX

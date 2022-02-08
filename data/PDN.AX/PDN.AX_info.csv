@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,6000,PDN.AX
+sector,Energy,PDN.AX
+compensationRisk,10,PDN.AX
+auditRisk,10,PDN.AX
+longBusinessSummary,"Paladin Energy Limited develops and operates uranium mines in Australia, Canada, and Africa. The company operates through Exploration, Namibia, and Australia segments. Its flagship project is the Langer Heinrich mine located in the Namib Desert in Namibia. The company was formerly known as Paladin Resources Ltd and changed its name to Paladin Energy Limited in November 2007. The company was incorporated in 1993 and is based in Perth, Australia.",PDN.AX
+city,Perth,PDN.AX
+phone,61 8 9423 8100,PDN.AX
+state,WA,PDN.AX
+shareHolderRightsRisk,1,PDN.AX
+compensationAsOfEpochDate,1640908800,PDN.AX
+governanceEpochDate,1632614400,PDN.AX
+boardRisk,4,PDN.AX
+country,Australia,PDN.AX
+website,https://www.paladinenergy.com.au,PDN.AX
+maxAge,86400,PDN.AX
+overallRisk,7,PDN.AX
+address1,191 St Georges Terrace,PDN.AX
+fax,61 8 9381 4978,PDN.AX
+industry,Uranium,PDN.AX
+address2,Level 8,PDN.AX

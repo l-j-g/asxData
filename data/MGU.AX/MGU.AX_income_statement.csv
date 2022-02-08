@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,MGU.AX
+effectOfAccountingCharges,,,,,MGU.AX
+incomeBeforeTax,-812524,-1500005,-1542391,-767846,MGU.AX
+minorityInterest,-390645,-296759,-13175,141786,MGU.AX
+netIncome,-718638,-1216421,-1340438,-696590,MGU.AX
+sellingGeneralAdministrative,,,,,MGU.AX
+grossProfit,7846,126061,19357,145585,MGU.AX
+ebit,-804303,-1477391,-1377468,-767846,MGU.AX
+operatingIncome,-804303,-1477391,-1377468,-767846,MGU.AX
+otherOperatingExpenses,400403,506629,497734,312919,MGU.AX
+interestExpense,-8221,-509269,-92798,-92798,MGU.AX
+extraordinaryItems,,,,,MGU.AX
+nonRecurring,,,,,MGU.AX
+otherItems,,,,,MGU.AX
+incomeTaxExpense,0,0,0,0,MGU.AX
+totalRevenue,7846,126061,19357,145585,MGU.AX
+totalOperatingExpenses,812149,1603452,1396825,913431,MGU.AX
+costOfRevenue,0,0,0,0,MGU.AX
+totalOtherIncomeExpenseNet,-8221,-22614,-164923,0,MGU.AX
+discontinuedOperations,,,46992.0,46992.0,MGU.AX
+netIncomeFromContinuingOps,-812524,-1500005,-1542391,-767846,MGU.AX
+netIncomeApplicableToCommonShares,-718638,-1216421,-1340438,-696590,MGU.AX

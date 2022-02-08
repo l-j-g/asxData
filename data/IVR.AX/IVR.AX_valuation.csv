@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,IVR.AX
+1,Enterprise Value,,IVR.AX
+2,Trailing P/E,,IVR.AX
+3,Forward P/E,,IVR.AX
+4,PEG Ratio (5 yr expected),,IVR.AX
+5,Price/Sales (ttm),,IVR.AX
+6,Price/Book (mrq),,IVR.AX
+7,Enterprise Value/Revenue,,IVR.AX
+8,Enterprise Value/EBITDA,,IVR.AX

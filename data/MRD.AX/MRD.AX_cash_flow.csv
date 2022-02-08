@@ -1,0 +1,15 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,300280.0,29701.0,-95855.0,-696030.0,MRD.AX
+totalCashflowsFromInvestingActivities,-26444.0,-81000.0,-275000.0,-406909.0,MRD.AX
+totalCashFromFinancingActivities,2658228.0,585533.0,799816.0,50000.0,MRD.AX
+issuanceOfStock,2701723.0,528734.0,811431.0,50000.0,MRD.AX
+netIncome,-943745.0,-64849.0,-589558.0,-791225.0,MRD.AX
+changeInCash,1049375.0,-612011.0,-471502.0,-1161542.0,MRD.AX
+totalCashFromOperatingActivities,-1582409.0,-1116544.0,-996318.0,-804633.0,MRD.AX
+depreciation,5953.0,6917.0,8361.0,12595.0,MRD.AX
+otherCashflowsFromInvestingActivities,24089.0,24089.0,24089.0,24089.0,MRD.AX
+changeToAccountReceivables,-89922.0,-19529.0,24795.0,113642.0,MRD.AX
+otherCashflowsFromFinancingActivities,-43495.0,56799.0,-11615.0,-11615.0,MRD.AX
+changeToNetincome,-855205.0,-1069167.0,-344700.0,555320.0,MRD.AX
+capitalExpenditures,-533.0,-533.0,-533.0,-6909.0,MRD.AX
+investments,,-81000.0,-150000.0,-150000.0,MRD.AX

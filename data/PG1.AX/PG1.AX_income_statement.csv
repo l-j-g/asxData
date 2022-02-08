@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,PG1.AX
+effectOfAccountingCharges,,,,,PG1.AX
+incomeBeforeTax,-7475867,-9978777,-4591523,-4161314,PG1.AX
+minorityInterest,,,,,PG1.AX
+netIncome,-7745268,-9284966,-4710054,-4720259,PG1.AX
+sellingGeneralAdministrative,1161437,738970,738970,633607,PG1.AX
+grossProfit,-3783710,-2760041,-2654545,-913129,PG1.AX
+ebit,-7494133,-5109242,-4586794,-3276249,PG1.AX
+operatingIncome,-7494133,-5109242,-4586794,-3276249,PG1.AX
+otherOperatingExpenses,1160625,310348,1348962,685842,PG1.AX
+interestExpense,-256498,-74290,-10709,-11871,PG1.AX
+extraordinaryItems,,,,,PG1.AX
+nonRecurring,,,,,PG1.AX
+otherItems,,,,,PG1.AX
+incomeTaxExpense,269401,-693811,118531,558945,PG1.AX
+totalRevenue,2180803,1936798,173226,2000,PG1.AX
+totalOperatingExpenses,9674936,7046040,4760020,3278249,PG1.AX
+costOfRevenue,5964513,4696839,2827771,915129,PG1.AX
+totalOtherIncomeExpenseNet,18266,-4869535,-4729,-885065,PG1.AX
+discontinuedOperations,,,,,PG1.AX
+netIncomeFromContinuingOps,-7745268,-9284966,-4710054,-4720259,PG1.AX
+netIncomeApplicableToCommonShares,-7745268,-9284966,-4710054,-4720259,PG1.AX

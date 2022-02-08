@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,HAR.AX
+effectOfAccountingCharges,,,,,HAR.AX
+incomeBeforeTax,-299832,-288970,-107616,-589778,HAR.AX
+minorityInterest,,,,,HAR.AX
+netIncome,-299832,-288970,-120486,-5767388,HAR.AX
+sellingGeneralAdministrative,251127,225813,293935,471907,HAR.AX
+grossProfit,0,0,0,0,HAR.AX
+ebit,-299841,-288202,-330384,-584212,HAR.AX
+operatingIncome,-299841,-288202,-330384,-584212,HAR.AX
+otherOperatingExpenses,48714,62389,36449,112305,HAR.AX
+interestExpense,,-840.0,-840.0,-840.0,HAR.AX
+extraordinaryItems,,,,,HAR.AX
+nonRecurring,,,,,HAR.AX
+otherItems,,,,,HAR.AX
+incomeTaxExpense,0,0,0,0,HAR.AX
+totalRevenue,0,0,0,0,HAR.AX
+totalOperatingExpenses,299841,288202,330384,584212,HAR.AX
+costOfRevenue,0,0,0,0,HAR.AX
+totalOtherIncomeExpenseNet,9,-768,222768,-5566,HAR.AX
+discontinuedOperations,,,-12870.0,-4988189.0,HAR.AX
+netIncomeFromContinuingOps,-299832,-288970,-107616,-589778,HAR.AX
+netIncomeApplicableToCommonShares,-299832,-288970,-120486,-5767388,HAR.AX

@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,RTG.AX
+effectOfAccountingCharges,,,,,RTG.AX
+incomeBeforeTax,-6282546,-14026980,-27627804,-11361728,RTG.AX
+minorityInterest,-1152569,-846289,-534419,-534419,RTG.AX
+netIncome,-5976266,-13420666,-27052545,-11361728,RTG.AX
+sellingGeneralAdministrative,3451084,5262302,5988734,4310845,RTG.AX
+grossProfit,0,130000,70000,0,RTG.AX
+ebit,-4682156,-5371831,-5918734,-4245267,RTG.AX
+operatingIncome,-4682156,-5371831,-5918734,-4245267,RTG.AX
+otherOperatingExpenses,,,,-65578.0,RTG.AX
+interestExpense,,,,,RTG.AX
+extraordinaryItems,,,,,RTG.AX
+nonRecurring,,,,,RTG.AX
+otherItems,,,,,RTG.AX
+incomeTaxExpense,0,0,0,0,RTG.AX
+totalRevenue,0,49900,0,0,RTG.AX
+totalOperatingExpenses,4682156,5371831,5918734,4245267,RTG.AX
+costOfRevenue,0,-130000,-70000,0,RTG.AX
+totalOtherIncomeExpenseNet,-1600390,-8655149,-21709070,-7116461,RTG.AX
+discontinuedOperations,,,,,RTG.AX
+netIncomeFromContinuingOps,-6282546,-14026980,-27627804,-11361728,RTG.AX
+netIncomeApplicableToCommonShares,-5976266,-13420666,-27052545,-11361728,RTG.AX

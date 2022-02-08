@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,GTE.AX
+1,Enterprise Value,,GTE.AX
+2,Trailing P/E,,GTE.AX
+3,Forward P/E,,GTE.AX
+4,PEG Ratio (5 yr expected),,GTE.AX
+5,Price/Sales (ttm),,GTE.AX
+6,Price/Book (mrq),,GTE.AX
+7,Enterprise Value/Revenue,,GTE.AX
+8,Enterprise Value/EBITDA,,GTE.AX

@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,GCR.AX
+effectOfAccountingCharges,,,,,GCR.AX
+incomeBeforeTax,-889000,-989000,-865000,-998000,GCR.AX
+minorityInterest,,,,,GCR.AX
+netIncome,-889000,-989000,-865000,-998000,GCR.AX
+sellingGeneralAdministrative,552000,563000,547000,587000,GCR.AX
+grossProfit,37000,62000,0,0,GCR.AX
+ebit,-603000,-673000,-761000,-889000,GCR.AX
+operatingIncome,-603000,-673000,-761000,-889000,GCR.AX
+otherOperatingExpenses,,,,,GCR.AX
+interestExpense,-384000,-316000,-247000,-164000,GCR.AX
+extraordinaryItems,,,,,GCR.AX
+nonRecurring,,,,,GCR.AX
+otherItems,,,,,GCR.AX
+incomeTaxExpense,0,0,0,0,GCR.AX
+totalRevenue,37000,62000,0,0,GCR.AX
+totalOperatingExpenses,640000,735000,761000,889000,GCR.AX
+costOfRevenue,0,0,0,0,GCR.AX
+totalOtherIncomeExpenseNet,-286000,-316000,-104000,-109000,GCR.AX
+discontinuedOperations,,,,,GCR.AX
+netIncomeFromContinuingOps,-889000,-989000,-865000,-998000,GCR.AX
+netIncomeApplicableToCommonShares,-889000,-989000,-865000,-998000,GCR.AX

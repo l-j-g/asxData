@@ -1,0 +1,15 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+changeToLiabilities,680283.0,-400883.0,-233765.0,353645.0,MMR.AX
+totalCashflowsFromInvestingActivities,42761.0,-99961.0,-47745.0,-561679.0,MMR.AX
+changeToOperatingActivities,1731.0,-24141.0,1127.0,-63210.0,MMR.AX
+netIncome,-1034051.0,-2669798.0,-1339670.0,-9826563.0,MMR.AX
+changeInCash,-307824.0,177701.0,-627863.0,377896.0,MMR.AX
+totalCashFromOperatingActivities,-350585.0,-651428.0,-1025981.0,-1059250.0,MMR.AX
+depreciation,1452.0,610.0,819.0,815.0,MMR.AX
+otherCashflowsFromInvestingActivities,85522.0,85522.0,-44098.0,-560838.0,MMR.AX
+totalCashFromFinancingActivities,,929090.0,445863.0,1998906.0,MMR.AX
+issuanceOfStock,,929090.0,447813.0,1998906.0,MMR.AX
+changeToAccountReceivables,,62398.0,129349.0,-164757.0,MMR.AX
+changeToNetincome,,2380386.0,416159.0,8640820.0,MMR.AX
+otherCashflowsFromFinancingActivities,,,-1950.0,-1950.0,MMR.AX
+capitalExpenditures,,,-3647.0,-841.0,MMR.AX

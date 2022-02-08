@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,RD1.AX
+effectOfAccountingCharges,,,,,RD1.AX
+incomeBeforeTax,-642552,-1148360,-1468599,-2070567,RD1.AX
+minorityInterest,,,,,RD1.AX
+netIncome,-642552,-1148360,-1486151,-2112331,RD1.AX
+sellingGeneralAdministrative,1056515,1221582,1432969,1800918,RD1.AX
+grossProfit,833337,598790,556617,623887,RD1.AX
+ebit,-565164,-1088972,-1432251,-1950063,RD1.AX
+operatingIncome,-565164,-1088972,-1432251,-1950063,RD1.AX
+otherOperatingExpenses,-80381,-36825,7478,314443,RD1.AX
+interestExpense,-58613,-17125,-14161,-18006,RD1.AX
+extraordinaryItems,,,,,RD1.AX
+nonRecurring,,,,,RD1.AX
+otherItems,,,,,RD1.AX
+incomeTaxExpense,0,0,17552,41764,RD1.AX
+totalRevenue,833337,598790,556617,623887,RD1.AX
+totalOperatingExpenses,1398501,1687762,1988868,2573950,RD1.AX
+costOfRevenue,0,0,0,0,RD1.AX
+totalOtherIncomeExpenseNet,-77388,-59388,-36348,-120504,RD1.AX
+discontinuedOperations,,,,,RD1.AX
+netIncomeFromContinuingOps,-642552,-1148360,-1486151,-2112331,RD1.AX
+netIncomeApplicableToCommonShares,-642552,-1148360,-1486151,-2112331,RD1.AX

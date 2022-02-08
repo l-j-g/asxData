@@ -1,0 +1,12 @@
+Breakdown,2020-03-31 00:00:00,2019-03-31 00:00:00,2018-03-31 00:00:00,2017-03-31 00:00:00,ticker
+changeToLiabilities,17078.0,126033.0,-354270.0,274946.0,TNP.AX
+netBorrowings,86071.0,12010.0,82978.0,82978.0,TNP.AX
+totalCashFromFinancingActivities,86071.0,598914.0,396417.0,2030832.0,TNP.AX
+netIncome,-421834.0,-443981.0,-618768.0,-1850021.0,TNP.AX
+changeInCash,-314735.0,275119.0,-577307.0,454240.0,TNP.AX
+totalCashFromOperatingActivities,-400806.0,-323798.0,-973722.0,-1594649.0,TNP.AX
+changeToAccountReceivables,9804.0,-1426.0,5107.0,4297.0,TNP.AX
+changeToNetincome,-5854.0,-4424.0,-5791.0,-23871.0,TNP.AX
+issuanceOfStock,,633565.0,320000.0,2227826.0,TNP.AX
+effectOfExchangeRate,,3.0,-2.0,18057.0,TNP.AX
+otherCashflowsFromFinancingActivities,,-46661.0,-6561.0,-196994.0,TNP.AX

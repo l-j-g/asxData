@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,MEP.AX
+effectOfAccountingCharges,,,,,MEP.AX
+incomeBeforeTax,-3235441,-3653352,-4355759,-3359592,MEP.AX
+minorityInterest,,,,,MEP.AX
+netIncome,-2780295,-3119741,-4160504,-2516051,MEP.AX
+sellingGeneralAdministrative,1385360,883098,875449,919353,MEP.AX
+grossProfit,-866287,-276844,116757,-471088,MEP.AX
+ebit,-3233452,-5201458,-4494474,-3562018,MEP.AX
+operatingIncome,-3233452,-5201458,-4494474,-3562018,MEP.AX
+otherOperatingExpenses,711226,754320,648898,677708,MEP.AX
+interestExpense,-29655,-36150,-36150,-36150,MEP.AX
+extraordinaryItems,,,,,MEP.AX
+nonRecurring,,,,,MEP.AX
+otherItems,,,,,MEP.AX
+incomeTaxExpense,-455146,-533611,-195255,-843541,MEP.AX
+totalRevenue,84177,92126,311654,213692,MEP.AX
+totalOperatingExpenses,3317629,5293584,4806128,3775710,MEP.AX
+costOfRevenue,950464,368970,194897,684780,MEP.AX
+totalOtherIncomeExpenseNet,-1989,1548106,138715,202426,MEP.AX
+discontinuedOperations,,,,,MEP.AX
+netIncomeFromContinuingOps,-2780295,-3119741,-4160504,-2516051,MEP.AX
+netIncomeApplicableToCommonShares,-2780295,-3119741,-4160504,-2516051,MEP.AX

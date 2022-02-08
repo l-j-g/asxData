@@ -1,0 +1,16 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,ticker
+investments,-5010000.0,-5010000.0,-5010000.0,GL1.AX
+changeToLiabilities,715679.0,-714249.0,632915.0,GL1.AX
+totalCashflowsFromInvestingActivities,-5019436.0,-5019436.0,-5019436.0,GL1.AX
+totalCashFromFinancingActivities,9141809.0,1778750.0,1975942.0,GL1.AX
+changeToOperatingActivities,-1395512.0,-1955033.0,-1069134.0,GL1.AX
+issuanceOfStock,10000000.0,1778750.0,1960286.0,GL1.AX
+netIncome,-1224978.0,-6683.0,-8416.0,GL1.AX
+changeInCash,2882811.0,-1023847.0,1515651.0,GL1.AX
+totalCashFromOperatingActivities,-1239562.0,-2802597.0,-460291.0,GL1.AX
+depreciation,938.0,938.0,938.0,GL1.AX
+changeToAccountReceivables,49280.0,-126632.0,-126632.0,GL1.AX
+otherCashflowsFromFinancingActivities,-858191.0,-858191.0,-858191.0,GL1.AX
+changeToNetincome,615031.0,615031.0,-15656.0,GL1.AX
+capitalExpenditures,-9436.0,-9436.0,-9436.0,GL1.AX
+netBorrowings,,,15656.0,GL1.AX

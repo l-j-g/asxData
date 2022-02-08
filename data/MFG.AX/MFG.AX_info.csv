@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,2000,MFG.AX
+sector,Financial Services,MFG.AX
+fullTimeEmployees,139,MFG.AX
+compensationRisk,3,MFG.AX
+auditRisk,10,MFG.AX
+longBusinessSummary,"Magellan Financial Group Limited is a publicly owned investment manager. It invests in global equities and global listed infrastructure markets across the globe. Magellan Financial Group Limited founded in 2004 and is based in Sydney, Australia.",MFG.AX
+city,Sydney,MFG.AX
+phone,61 2 9235 4888,MFG.AX
+state,NSW,MFG.AX
+shareHolderRightsRisk,5,MFG.AX
+compensationAsOfEpochDate,1640908800,MFG.AX
+governanceEpochDate,1632614400,MFG.AX
+boardRisk,9,MFG.AX
+country,Australia,MFG.AX
+website,https://www.magellangroup.com.au,MFG.AX
+maxAge,86400,MFG.AX
+overallRisk,8,MFG.AX
+address1,"Level 36,",MFG.AX
+industry,Asset Management,MFG.AX
+address2,"25 Martin Place,",MFG.AX

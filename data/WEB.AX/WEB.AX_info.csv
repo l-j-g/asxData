@@ -1,0 +1,20 @@
+Breakdown,Value,ticker
+zip,3004,WEB.AX
+sector,Consumer Cyclical,WEB.AX
+compensationRisk,10,WEB.AX
+auditRisk,4,WEB.AX
+longBusinessSummary,"Webjet Limited provides online travel booking services in Australia, New Zealand, the United Arab Emirates, the United Kingdom, and internationally. It operates through Business to Consumer Travel and Business to Business Travel segments. The company enables its customers to compare, combine, and book domestic and international travel flight deals, hotel accommodations, holiday package deals, travel insurances, rental cars, motorhomes, and cruises. Its brands include Webjet, Online Republic, JacTravel, Sunhotels, Lots of Hotels, Totalstay, Destinations of the World, FIT Ruums, and Umrah Holidays International. The company serves retail and corporate travel agents, online travel agencies, wholesalers, and tour operators. Webjet Limited was founded in 1998 and is based in Melbourne, Australia.",WEB.AX
+city,Melbourne,WEB.AX
+phone,61 3 9820 9214,WEB.AX
+state,VIC,WEB.AX
+shareHolderRightsRisk,1,WEB.AX
+compensationAsOfEpochDate,1640908800,WEB.AX
+governanceEpochDate,1643673600,WEB.AX
+boardRisk,4,WEB.AX
+country,Australia,WEB.AX
+website,https://www.webjetlimited.com,WEB.AX
+maxAge,86400,WEB.AX
+overallRisk,9,WEB.AX
+address1,509 St Kilda Road,WEB.AX
+industry,Travel Services,WEB.AX
+address2,Level 2,WEB.AX

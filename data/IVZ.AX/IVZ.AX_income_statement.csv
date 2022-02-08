@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,IVZ.AX
+effectOfAccountingCharges,,,,,IVZ.AX
+incomeBeforeTax,-1255646,-1773456,-1022049,-917593,IVZ.AX
+minorityInterest,1037889,1189799,1214669,917230,IVZ.AX
+netIncome,-1218646,-1729212,-1021924,-917430,IVZ.AX
+sellingGeneralAdministrative,1226936,1120098,897062,801652,IVZ.AX
+grossProfit,0,0,43312,0,IVZ.AX
+ebit,-1245296,-1613855,-1065361,-922671,IVZ.AX
+operatingIncome,-1245296,-1613855,-1065361,-922671,IVZ.AX
+otherOperatingExpenses,-117780,364811,162947,15720,IVZ.AX
+interestExpense,-14492,-11029,-11029,-11029,IVZ.AX
+extraordinaryItems,,,,,IVZ.AX
+nonRecurring,,,,,IVZ.AX
+otherItems,,,,,IVZ.AX
+incomeTaxExpense,0,0,0,0,IVZ.AX
+totalRevenue,0,0,43312,0,IVZ.AX
+totalOperatingExpenses,1245296,1613855,1065361,922671,IVZ.AX
+costOfRevenue,0,0,0,0,IVZ.AX
+totalOtherIncomeExpenseNet,-10350,-159601,43312,5078,IVZ.AX
+discontinuedOperations,,,,,IVZ.AX
+netIncomeFromContinuingOps,-1255646,-1773456,-1022049,-917593,IVZ.AX
+netIncomeApplicableToCommonShares,-1218646,-1729212,-1021924,-917430,IVZ.AX

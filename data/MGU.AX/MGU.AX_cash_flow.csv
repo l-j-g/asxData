@@ -1,0 +1,16 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+changeToLiabilities,130232.0,454779.0,86018.0,-42060.0,MGU.AX
+totalCashflowsFromInvestingActivities,-27417.0,-74187.0,-45342.0,-5147.0,MGU.AX
+netBorrowings,163186.0,163186.0,1190000.0,-200000.0,MGU.AX
+totalCashFromFinancingActivities,636050.0,955310.0,1768445.0,1193712.0,MGU.AX
+issuanceOfStock,500000.0,1000.0,580195.0,1500000.0,MGU.AX
+netIncome,-718638.0,-1216421.0,-1340438.0,-696590.0,MGU.AX
+changeInCash,58439.0,-753745.0,398782.0,295534.0,MGU.AX
+effectOfExchangeRate,6995.0,-554.0,-2531.0,-820.0,MGU.AX
+totalCashFromOperatingActivities,-557189.0,-1634314.0,-1321790.0,-892211.0,MGU.AX
+depreciation,27367.0,22072.0,2840.0,3360.0,MGU.AX
+changeToAccountReceivables,97818.0,2445.0,-19098.0,-82228.0,MGU.AX
+otherCashflowsFromFinancingActivities,-27136.0,954310.0,-1750.0,-106288.0,MGU.AX
+changeToNetincome,-93968.0,-897189.0,-51112.0,-74693.0,MGU.AX
+capitalExpenditures,-27417.0,-84187.0,-92334.0,-5147.0,MGU.AX
+otherCashflowsFromInvestingActivities,,,46992.0,46992.0,MGU.AX

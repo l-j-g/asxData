@@ -1,0 +1,23 @@
+Breakdown,2021-07-31 00:00:00,2020-07-31 00:00:00,2019-07-31 00:00:00,2018-07-31 00:00:00,ticker
+researchDevelopment,,,,,FSF.AX
+effectOfAccountingCharges,,,,,FSF.AX
+incomeBeforeTax,,,,,FSF.AX
+minorityInterest,,,,,FSF.AX
+netIncome,0,0,0,0,FSF.AX
+sellingGeneralAdministrative,,,,,FSF.AX
+grossProfit,2000000,6000000,-144000000,-85000000,FSF.AX
+ebit,2000000,6000000,-144000000,-85000000,FSF.AX
+operatingIncome,2000000,6000000,-144000000,-85000000,FSF.AX
+otherOperatingExpenses,,,,,FSF.AX
+interestExpense,,,,,FSF.AX
+extraordinaryItems,,,,,FSF.AX
+nonRecurring,,,,,FSF.AX
+otherItems,,,,,FSF.AX
+incomeTaxExpense,0,0,0,0,FSF.AX
+totalRevenue,2000000,6000000,-144000000,-85000000,FSF.AX
+totalOperatingExpenses,0,0,0,0,FSF.AX
+costOfRevenue,0,0,0,0,FSF.AX
+totalOtherIncomeExpenseNet,-2000000,-6000000,144000000,85000000,FSF.AX
+discontinuedOperations,,,,,FSF.AX
+netIncomeFromContinuingOps,,,,,FSF.AX
+netIncomeApplicableToCommonShares,,,,,FSF.AX

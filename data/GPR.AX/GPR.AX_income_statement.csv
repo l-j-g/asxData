@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,GPR.AX
+effectOfAccountingCharges,,,,,GPR.AX
+incomeBeforeTax,-4567311,-7337714,-49216584,-3668895,GPR.AX
+minorityInterest,,,840297.0,1676511.0,GPR.AX
+netIncome,-4567311,-7276365,-53670193,-4010512,GPR.AX
+sellingGeneralAdministrative,5934560,4211868,3890543,2914530,GPR.AX
+grossProfit,-5779,93750,0,0,GPR.AX
+ebit,-6190318,-5851743,-47233141,-2941482,GPR.AX
+operatingIncome,-6190318,-5851743,-47233141,-2941482,GPR.AX
+otherOperatingExpenses,-100000,-61231,-61231,-61231,GPR.AX
+interestExpense,,-1443017.0,-1443017.0,-1443017.0,GPR.AX
+extraordinaryItems,,,,,GPR.AX
+nonRecurring,,,,,GPR.AX
+otherItems,,,,,GPR.AX
+incomeTaxExpense,0,0,-474749,28395,GPR.AX
+totalRevenue,0,93750,0,0,GPR.AX
+totalOperatingExpenses,6190318,5851743,47233141,2941482,GPR.AX
+costOfRevenue,5779,0,0,0,GPR.AX
+totalOtherIncomeExpenseNet,1623007,-1485971,-1983443,-727413,GPR.AX
+discontinuedOperations,,,-5008824.0,-345621.0,GPR.AX
+netIncomeFromContinuingOps,-4567311,-7337714,-48741835,-3697290,GPR.AX
+netIncomeApplicableToCommonShares,-4567311,-7276365,-53670193,-4010512,GPR.AX

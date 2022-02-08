@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,7000,MYS.AX
+sector,Financial Services,MYS.AX
+compensationRisk,2,MYS.AX
+auditRisk,4,MYS.AX
+longBusinessSummary,"MyState Limited, through its subsidiaries, provides banking, trustee, and managed fund products and services in Australia. The company operates in two segments, Banking and Wealth Management. It offers personal and commercial lending, mortgage lending, savings and investment products, wealth management services, and insurance products under MyState Bank brand. The company also provides a range of financial services, including managed fund investments; commercial lending; and trustee services that comprise estate planning, administration, and charitable trusts to individuals and corporate clients under the TPT Wealth brand. MyState Limited was founded in 2009 and is headquartered in Tasmania, Australia.",MYS.AX
+city,Hobart,MYS.AX
+phone,61 3 138 001,MYS.AX
+state,TAS,MYS.AX
+shareHolderRightsRisk,7,MYS.AX
+compensationAsOfEpochDate,1640908800,MYS.AX
+governanceEpochDate,1632614400,MYS.AX
+boardRisk,1,MYS.AX
+country,Australia,MYS.AX
+website,https://www.mystatelimited.com.au,MYS.AX
+maxAge,86400,MYS.AX
+overallRisk,2,MYS.AX
+address1,137 Harrington Street,MYS.AX
+fax,61 3 6215 9760,MYS.AX
+industry,Banks—Regional,MYS.AX
+address2,Level 2,MYS.AX

@@ -1,0 +1,16 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+investments,-12968.0,-30504.0,1004000.0,2747033.0,PAK.AX
+changeToLiabilities,-88777.0,63182.0,-136989.0,-16564.0,PAK.AX
+totalCashflowsFromInvestingActivities,-132631.0,-624879.0,-1198212.0,2610999.0,PAK.AX
+totalCashFromFinancingActivities,1650210.0,408505.0,408505.0,295321.0,PAK.AX
+changeToOperatingActivities,22878.0,15262.0,-29605.0,70.0,PAK.AX
+issuanceOfStock,1756136.0,450000.0,450000.0,300000.0,PAK.AX
+netIncome,-925981.0,-1344944.0,-103361.0,-1596775.0,PAK.AX
+changeInCash,607532.0,-1412742.0,-2382891.0,1708547.0,PAK.AX
+effectOfExchangeRate,42153.0,9507.0,135145.0,-84175.0,PAK.AX
+totalCashFromOperatingActivities,-952200.0,-1205875.0,-1319824.0,-1113598.0,PAK.AX
+changeToAccountReceivables,-9487.0,6483.0,-24595.0,-1496.0,PAK.AX
+otherCashflowsFromFinancingActivities,-105926.0,-41495.0,-41495.0,-4679.0,PAK.AX
+changeToNetincome,49167.0,54142.0,-1025274.0,501167.0,PAK.AX
+capitalExpenditures,-119663.0,-528909.0,-2097175.0,-136034.0,PAK.AX
+otherCashflowsFromInvestingActivities,,-65466.0,-105037.0,-105037.0,PAK.AX

@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,VPR.AX
+effectOfAccountingCharges,,,,,VPR.AX
+incomeBeforeTax,-463889,-1839142,-4779371,2625618,VPR.AX
+minorityInterest,625508,445968,375022,518129,VPR.AX
+netIncome,-493313,-1874882,-4510785,2625618,VPR.AX
+sellingGeneralAdministrative,2542402,1941505,2258227,1291830,VPR.AX
+grossProfit,1578367,867579,1016726,0,VPR.AX
+ebit,-444302,-467215,-1219332,2622080,VPR.AX
+operatingIncome,-444302,-467215,-1219332,2622080,VPR.AX
+otherOperatingExpenses,-519733,-606711,-22169,-3913910,VPR.AX
+interestExpense,-16824,-21224,-45974,-45974,VPR.AX
+extraordinaryItems,,,,,VPR.AX
+nonRecurring,,,,,VPR.AX
+otherItems,,,,,VPR.AX
+incomeTaxExpense,124203,49794,-5479,0,VPR.AX
+totalRevenue,1882665,1144204,1687252,0,VPR.AX
+totalOperatingExpenses,2326967,1611419,2906584,-2622080,VPR.AX
+costOfRevenue,304298,276625,670526,0,VPR.AX
+totalOtherIncomeExpenseNet,-19587,-1371927,-3560039,3538,VPR.AX
+discontinuedOperations,,,,,VPR.AX
+netIncomeFromContinuingOps,-588092,-1888936,-4773892,2625618,VPR.AX
+netIncomeApplicableToCommonShares,-493313,-1874882,-4510785,2625618,VPR.AX

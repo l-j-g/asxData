@@ -1,0 +1,22 @@
+Breakdown,Value,ticker
+zip,2000,GNC.AX
+sector,Consumer Defensive,GNC.AX
+fullTimeEmployees,2380,GNC.AX
+compensationRisk,4,GNC.AX
+auditRisk,4,GNC.AX
+longBusinessSummary,"GrainCorp Limited operates as an agribusiness and processing company in Australasia, Asia, North America, Europe, the Middle East, North Africa, and internationally. It operates through two segments, Agribusiness and Processing. The company handles, markets, and trades in wheat, barley, sorghum, corn, oilseeds, pulses, organics, canola, and specialty commodities; handles, processes, stores, and transports grains and oilseeds; refines, bleaches, deodorizes, and blends edible fats and oil products; and crushes, processes, manufactures, and distributes edible oils. It also manufactures and supplies molasses-based feed supplements and vegetable oil to enhance farm productivity in beef cattle, sheep, dairy cattle, and other domestic livestock fed; fibre-based, protein-based, or starch-based feeds; and additives, commodity blends, dry blends, liquid feeds, transition pellets, and calf feed. In addition, the company provides blended and single oils, infant nutrition products, bakery products, margarine and spreads, and frying shortening; crushes canola seeds and refines oil, as well as offers components for cooking oil, spreads and shortening, prepared foods, meal for dairy, poultry and livestock, cosmetics and lubricants, fuels, and other industrial applications; and operates seven bulk port terminals. Further it is involved in the procurement, shipping, accreditation, and value-added supply of tallow and used cooking oil, which are used for renewable energy feedstock and industrial applications, as well as vegetable oils; and the provision of logistics services. GrainCorp Limited was founded in 1916 and is headquartered in Sydney, Australia.",GNC.AX
+city,Sydney,GNC.AX
+phone,61 2 9325 9100,GNC.AX
+state,NSW,GNC.AX
+shareHolderRightsRisk,1,GNC.AX
+compensationAsOfEpochDate,1640908800,GNC.AX
+governanceEpochDate,1632614400,GNC.AX
+boardRisk,9,GNC.AX
+country,Australia,GNC.AX
+website,https://www.graincorp.com.au,GNC.AX
+maxAge,86400,GNC.AX
+overallRisk,7,GNC.AX
+address1,175 Liverpool Street,GNC.AX
+fax,61 2 9325 9180,GNC.AX
+industry,Farm Products,GNC.AX
+address2,Level 28,GNC.AX

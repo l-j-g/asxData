@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,211241,940362,223808,223808,NVU.AX
+effectOfAccountingCharges,,,,,NVU.AX
+incomeBeforeTax,-1762016,-3373018,-1568309,-1568309,NVU.AX
+minorityInterest,,,,,NVU.AX
+netIncome,-1762016,-3373018,-1568309,0,NVU.AX
+sellingGeneralAdministrative,1646230,1835450,982314,982314,NVU.AX
+grossProfit,127701,-354782,-29260,0,NVU.AX
+ebit,-1718033,-3265078,-1595037,0,NVU.AX
+operatingIncome,-1718033,-3265078,-1595037,-1595037,NVU.AX
+otherOperatingExpenses,-103994,-27351,28000,28000,NVU.AX
+interestExpense,-45107,-45107,-45107,-45107,NVU.AX
+extraordinaryItems,,,,,NVU.AX
+nonRecurring,,,,,NVU.AX
+otherItems,,,,,NVU.AX
+incomeTaxExpense,0,0,0,0,NVU.AX
+totalRevenue,367856,61023,20808,0,NVU.AX
+totalOperatingExpenses,2085889,3326101,1615845,0,NVU.AX
+costOfRevenue,240155,415805,50068,0,NVU.AX
+totalOtherIncomeExpenseNet,-43983,-107940,26728,0,NVU.AX
+discontinuedOperations,,,,,NVU.AX
+netIncomeFromContinuingOps,-1762016,-3373018,-1568309,-1568309,NVU.AX
+netIncomeApplicableToCommonShares,-1762016,-3373018,-1568309,-1568309,NVU.AX

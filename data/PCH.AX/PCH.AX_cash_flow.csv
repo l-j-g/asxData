@@ -1,0 +1,15 @@
+Breakdown,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,2017-06-30 00:00:00,ticker
+changeToLiabilities,61011.0,3855.0,-49205.0,-344024.0,PCH.AX
+totalCashflowsFromInvestingActivities,-1400.0,-118326.0,-292875.0,-138000.0,PCH.AX
+netBorrowings,44851.0,44851.0,44851.0,2000000.0,PCH.AX
+totalCashFromFinancingActivities,44851.0,566932.0,920587.0,2942964.0,PCH.AX
+netIncome,-665322.0,-863902.0,-1608411.0,-2531556.0,PCH.AX
+changeInCash,-349769.0,-158646.0,-221274.0,607512.0,PCH.AX
+totalCashFromOperatingActivities,-393220.0,-607252.0,-848986.0,-2197452.0,PCH.AX
+depreciation,100962.0,409.0,409.0,409.0,PCH.AX
+changeToAccountReceivables,-9159.0,15115.0,68708.0,45525.0,PCH.AX
+changeToNetincome,52308.0,52308.0,595672.0,577603.0,PCH.AX
+capitalExpenditures,-1400.0,-3726.0,-3726.0,-3726.0,PCH.AX
+issuanceOfStock,,585452.0,920587.0,1550001.0,PCH.AX
+otherCashflowsFromFinancingActivities,,-18520.0,-18520.0,-607037.0,PCH.AX
+otherCashflowsFromInvestingActivities,,,48395.0,48395.0,PCH.AX

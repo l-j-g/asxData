@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,VSL.AX
+1,Enterprise Value,,VSL.AX
+2,Trailing P/E,,VSL.AX
+3,Forward P/E,,VSL.AX
+4,PEG Ratio (5 yr expected),,VSL.AX
+5,Price/Sales (ttm),,VSL.AX
+6,Price/Book (mrq),,VSL.AX
+7,Enterprise Value/Revenue,,VSL.AX
+8,Enterprise Value/EBITDA,,VSL.AX

@@ -1,0 +1,23 @@
+Breakdown,2021-06-30 00:00:00,2020-06-30 00:00:00,2019-06-30 00:00:00,2018-06-30 00:00:00,ticker
+researchDevelopment,,,,,IAM.AX
+effectOfAccountingCharges,,,,,IAM.AX
+incomeBeforeTax,-15293646,-7351115,-7313520,-2116920,IAM.AX
+minorityInterest,,,,,IAM.AX
+netIncome,-15293646,-7351115,-7313520,-1590826,IAM.AX
+sellingGeneralAdministrative,,,,,IAM.AX
+grossProfit,-11305330,-4777564,-4742134,-2777644,IAM.AX
+ebit,-14921145,-7325256,-7098941,-4898083,IAM.AX
+operatingIncome,-14921145,-7325256,-7098941,-4898083,IAM.AX
+otherOperatingExpenses,2200202,1084280,1046181,939047,IAM.AX
+interestExpense,-421888,-25859,-214579,-222166,IAM.AX
+extraordinaryItems,,,,,IAM.AX
+nonRecurring,,,,,IAM.AX
+otherItems,,,,,IAM.AX
+incomeTaxExpense,0,0,0,0,IAM.AX
+totalRevenue,4292167,1269485,1152540,836058,IAM.AX
+totalOperatingExpenses,19213312,8594741,8251481,5734141,IAM.AX
+costOfRevenue,15597497,6047049,5894674,3613702,IAM.AX
+totalOtherIncomeExpenseNet,-372501,-25859,-214579,2781163,IAM.AX
+discontinuedOperations,,,,526094.0,IAM.AX
+netIncomeFromContinuingOps,-15293646,-7351115,-7313520,-2116920,IAM.AX
+netIncomeApplicableToCommonShares,-15293646,-7351115,-7313520,-1801065,IAM.AX

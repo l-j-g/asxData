@@ -1,0 +1,21 @@
+Breakdown,Value,ticker
+zip,3121,MVF.AX
+sector,Healthcare,MVF.AX
+fullTimeEmployees,669,MVF.AX
+compensationRisk,3,MVF.AX
+auditRisk,2,MVF.AX
+longBusinessSummary,"Monash IVF Group Limited provides assisted reproductive and specialist women imaging services in Australia and Malaysia. The company offers diagnostic obstetric, gynecological ultrasound, and fertility research and treatment services. It also provides tertiary level prenatal diagnostic and IVF treatment services. Monash IVF Group Limited was incorporated in 2014 and is based in Richmond, Australia.",MVF.AX
+city,Richmond,MVF.AX
+phone,61 3 9420 8235,MVF.AX
+state,VIC,MVF.AX
+shareHolderRightsRisk,1,MVF.AX
+compensationAsOfEpochDate,1640908800,MVF.AX
+governanceEpochDate,1632614400,MVF.AX
+boardRisk,6,MVF.AX
+country,Australia,MVF.AX
+website,https://www.monashivfgroup.com.au,MVF.AX
+maxAge,86400,MVF.AX
+overallRisk,3,MVF.AX
+address1,Pelaco Building 1,MVF.AX
+industry,Diagnostics & Research,MVF.AX
+address2,"Level 1 21-31, Goodwood Street",MVF.AX

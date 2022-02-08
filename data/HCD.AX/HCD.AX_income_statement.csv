@@ -1,0 +1,23 @@
+Breakdown,2020-12-31 00:00:00,2019-12-31 00:00:00,2018-12-31 00:00:00,2017-12-31 00:00:00,ticker
+researchDevelopment,,,,,HCD.AX
+effectOfAccountingCharges,,,,,HCD.AX
+incomeBeforeTax,-2052265,-3102843,-3927889,-3447837,HCD.AX
+minorityInterest,,,,,HCD.AX
+netIncome,-2052265,-3102843,-3927889,-3447837,HCD.AX
+sellingGeneralAdministrative,1602700,2288789,3006765,2566970,HCD.AX
+grossProfit,-225852,-268499,-299593,137151,HCD.AX
+ebit,-2053312,-3120398,-3918480,-3363207,HCD.AX
+operatingIncome,-2053312,-3120398,-3918480,-3363207,HCD.AX
+otherOperatingExpenses,-265380,-265380,-265380,-265380,HCD.AX
+interestExpense,-5463,-4352,-34146,-2488,HCD.AX
+extraordinaryItems,,,,,HCD.AX
+nonRecurring,,,,,HCD.AX
+otherItems,,,,,HCD.AX
+incomeTaxExpense,0,0,0,0,HCD.AX
+totalRevenue,181595,180555,45569,303695,HCD.AX
+totalOperatingExpenses,2234907,3300953,3964049,3666902,HCD.AX
+costOfRevenue,407447,449054,345162,166544,HCD.AX
+totalOtherIncomeExpenseNet,1047,17555,-9409,-84630,HCD.AX
+discontinuedOperations,,,,,HCD.AX
+netIncomeFromContinuingOps,-2052265,-3102843,-3927889,-3447837,HCD.AX
+netIncomeApplicableToCommonShares,-2052265,-3102843,-3927889,-3447837,HCD.AX

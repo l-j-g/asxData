@@ -1,0 +1,20 @@
+Breakdown,Value,ticker
+zip,3008,MYR.AX
+sector,Consumer Cyclical,MYR.AX
+compensationRisk,8,MYR.AX
+auditRisk,4,MYR.AX
+longBusinessSummary,"Myer Holdings Limited, together with its subsidiaries, operates department stores in Australia. It offers womenswear, menswear, childrenswear, homewares, beauty products, electrical goods, toys, gift products, and general merchandise. The company operates 59 stores under the Myer brand name. It is also involved in online retailing business under the sass & bide, and Marcs and David Lawrence brand names. In addition, the company provides customer loyalty programs. Myer Holdings Limited was founded in 1900 and is headquartered in Docklands, Australia.",MYR.AX
+city,Docklands,MYR.AX
+phone,61 3 8667 7879,MYR.AX
+state,VIC,MYR.AX
+shareHolderRightsRisk,1,MYR.AX
+compensationAsOfEpochDate,1640908800,MYR.AX
+governanceEpochDate,1643673600,MYR.AX
+boardRisk,5,MYR.AX
+country,Australia,MYR.AX
+website,https://www.myer.com.au,MYR.AX
+maxAge,86400,MYR.AX
+overallRisk,5,MYR.AX
+address1,800 Collins Street,MYR.AX
+industry,Department Stores,MYR.AX
+address2,Level 7,MYR.AX

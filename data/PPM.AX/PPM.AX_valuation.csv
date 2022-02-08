@@ -1,0 +1,10 @@
+,0,1,ticker
+0,Market Cap (intraday),,PPM.AX
+1,Enterprise Value,,PPM.AX
+2,Trailing P/E,,PPM.AX
+3,Forward P/E,,PPM.AX
+4,PEG Ratio (5 yr expected),,PPM.AX
+5,Price/Sales (ttm),,PPM.AX
+6,Price/Book (mrq),,PPM.AX
+7,Enterprise Value/Revenue,,PPM.AX
+8,Enterprise Value/EBITDA,,PPM.AX
